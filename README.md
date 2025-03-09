@@ -11,7 +11,7 @@ Visit [ESM1+ESM2](https://github.com/facebookresearch/esm) and [ESM3](https://gi
 ### Running
 
     cd protein_language_modeling
-    uv run main.py
+    uv run src/main.py
 
 Other Links:
 

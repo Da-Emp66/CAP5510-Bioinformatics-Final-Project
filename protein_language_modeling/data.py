@@ -1,11 +1,24 @@
 
 import os
 import shutil
-from typing import Literal
+from typing import Literal, Union
 import pandas as pd
+import requests
 from tqdm import tqdm
 
-from utils import download_real_pdb
+def download_real_pdb(protein_name: str) -> Union[str, None]:
+    # Set the PDB to null for if it does not exist
+    pdb = None
+
+    # Download the PDB from RCSB (U.S. data center for Protein Data Bank [PDB])
+    response = requests.get(f"https://files.rcsb.org/download/{protein_name}.pdb")
+
+    # Set the PDB to the response PDB if the response code <= 399
+    if response.ok:
+        pdb = response.text
+
+    # Return the PDB string
+    return pdb
 
 class CASPTestSet:
     def __init__(
@@ -138,7 +151,8 @@ class CASPTestSet:
             raise NotImplementedError()
         
         return df
-        
+    
+
 
 if __name__ == "__main__":
     dataset = CASPTestSet()

@@ -1,12 +1,11 @@
 from io import StringIO
 import os
-from typing import Any, Dict, List, Optional, Set, Union
+from typing import Any, Dict, Optional, Set, Union
 from dotenv import load_dotenv
 from huggingface_hub import login
 from esm.models.esm3 import ESM3
 from esm.sdk.api import ESM3InferenceClient, ESMProtein, GenerationConfig
 import torch
-import uuid
 from interfaces import BaseProteinLanguageModel, ProteinPredictionReturnType, ProteinPredictionTask
 
 load_dotenv()

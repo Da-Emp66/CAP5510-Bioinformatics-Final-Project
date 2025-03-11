@@ -7,7 +7,7 @@ import requests
 from tqdm import tqdm
 
 def download_real_pdb(protein_name: str) -> Union[str, None]:
-    # Set the PDB to null for if it does not exist
+    # Set the PDB to null for if it does not exist in the data bank
     pdb = None
 
     # Download the PDB from RCSB (U.S. data center for Protein Data Bank [PDB])

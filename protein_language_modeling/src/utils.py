@@ -44,7 +44,7 @@ class MoleculeStructureVisualization:
         self.view.show()
 
     def reset(self):
-        self._initialize(**self.initial_view_kwargs)
+        self._initialize(self.initial_view_kwargs)
 
 @dataclass
 class ProteinAlignment:
@@ -116,12 +116,14 @@ class ProteinComparator:
         for contents, file in zip(file_args, temporary_files):
             file.write(contents)
 
+        file_arguments_for_command = ([file.name for file in temporary_files] + ([output_filename] if output_filename is not None else []))
+
+        # Create the command
+        command = (run_command_template.format(*file_arguments_for_command)).split(" ")
+
         # Run the script with the associated named files
         result = subprocess.run(
-            run_command_template.format(
-                *([file.name for file in temporary_files] + 
-                  ([output_filename] if output_file is not None else []))
-            ),
+            command,
             capture_output=True,
             text=True
         )
@@ -158,11 +160,11 @@ class ProteinComparator:
             superimposed_pdb_string, printed_stdout = self._run_cpp_executable(
                 pdb1,
                 pdb2,
-                run_command_template="./TMalign -mm 1 -ter 0 %s %s -o %s",
+                run_command_template="./TMalign -mm 1 -ter 0 {} {} -o {}",
                 output_filename="superimposed",
             )
 
-            tm_scores = re.findall(r"TM-score: ((?:\d|\.)+)", printed_stdout)
+            tm_scores = re.findall(r"TM-score\=\s*((?:\d|\.)+)", printed_stdout)
 
             results.append(
                 ProteinAlignment(
@@ -181,11 +183,11 @@ class ProteinComparator:
             superimposed_pdb_string, printed_stdout = self._run_cpp_executable(
                 pdb1,
                 pdb2,
-                run_command_template="./USalign -mm 1 -ter 0 %s %s -o %s",
+                run_command_template="./USalign -mm 1 -ter 0 {} {} -o {}",
                 output_filename="superimposed",
             )
-            
-            tm_scores = re.findall(r"TM-score: ((?:\d|\.)+)", printed_stdout)
+
+            tm_scores = re.findall(r"TM-score\=\s*((?:\d|\.)+)", printed_stdout)
 
             results.append(
                 ProteinAlignment(
@@ -206,9 +208,13 @@ class ProteinComparator:
         results = self._run_score_alignment_algorithms(pdb1, pdb2)
         return results
     
-    def visualize_alignment(self, protein_alignment: ProteinAlignment, color1: str = "red", color2: str = "blue"):
-        self.visualizer.add_molecule(protein_alignment.pdb1, color=color1)
-        self.visualizer.add_molecule(protein_alignment.pdb2, color=color2)
+    def visualize_alignment(self, protein_alignment: ProteinAlignment, reference: Literal["pdb1", "pdb2"] = "pdb2", color1: str = "red", color2: str = "blue"):
+        if reference == "pdb1":
+            self.visualizer.add_molecule(protein_alignment.pdb1, color=color1)
+        elif reference == "pdb2":
+            self.visualizer.add_molecule(protein_alignment.pdb2, color=color1)
+
+        self.visualizer.add_molecule(protein_alignment.superimposed_pdb, color=color2)
         self.visualizer.display()
         self.visualizer.reset()
 

@@ -8,12 +8,17 @@ import subprocess
 
 import requests
 from tempfile import NamedTemporaryFile
+from esm.utils.structure.protein_chain import ProteinChain
 # from tmscoring import TMscoring
 
 class ProteinComparatorMethod(Enum):
     US_ALIGN = 0
     TM_ALIGN = 1
-    ALL = 2
+    # Root-mean-square Deviation Test
+    RMSD = 2
+    # Local Distance Difference Test
+    LDDT = 3
+    ALL = 4
 
 class MoleculeStructureVisualization:
     def __init__(self, **view_kwargs):
@@ -156,6 +161,7 @@ class ProteinComparator:
     def _run_score_alignment_algorithms(self, pdb1: str, pdb2: str) -> List[ProteinAlignment]:
         results = []
 
+        # Compute TM-Alignment and Scores
         if self.method == ProteinComparatorMethod.TM_ALIGN or self.method == ProteinComparatorMethod.ALL:
             superimposed_pdb_string, printed_stdout = self._run_cpp_executable(
                 pdb1,
@@ -174,11 +180,12 @@ class ProteinComparator:
                     superimposed_pdb=superimposed_pdb_string,
                     score1=tm_scores[0],
                     score2=tm_scores[1],
-                    final_score=None,
+                    final_score=tm_scores[0],
                     auxiliary=printed_stdout,
                 )
             )
 
+        # Compute US-Alignment and Scores
         if self.method == ProteinComparatorMethod.US_ALIGN or self.method == ProteinComparatorMethod.ALL:
             superimposed_pdb_string, printed_stdout = self._run_cpp_executable(
                 pdb1,
@@ -197,14 +204,70 @@ class ProteinComparator:
                     superimposed_pdb=superimposed_pdb_string,
                     score1=tm_scores[0],
                     score2=tm_scores[1],
-                    final_score=None,
+                    final_score=tm_scores[0],
                     auxiliary=printed_stdout,
+                )
+            )
+
+        # Compute Root-mean-square Deviation Scores
+        if self.method == ProteinComparatorMethod.RMSD or self.method == ProteinComparatorMethod.ALL:
+            pdb_file_1, pdb_file_2 =  (NamedTemporaryFile("w+"), NamedTemporaryFile("w+"))
+            pdb_file_1.write(pdb1)
+            pdb_file_2.write(pdb2)
+            protein_chain_1, protein_chain_2 = (ProteinChain.from_pdb(pdb_file_1), ProteinChain.from_pdb(pdb_file_2))
+            
+            rmsd_1 = protein_chain_1.rmsd(protein_chain_2)
+            rmsd_2 = protein_chain_2.rmsd(protein_chain_1)
+
+            results.append(
+                ProteinAlignment(
+                    method=ProteinComparatorMethod.RMSD,
+                    pdb1=pdb1,
+                    pdb2=pdb2,
+                    superimposed_pdb=None,
+                    score1=rmsd_1,
+                    score2=rmsd_2,
+                    final_score=rmsd_1,
+                    auxiliary=None,
+                )
+            )
+
+        # Compute Local Distance Difference Test Scores
+        if self.method == ProteinComparatorMethod.LDDT or self.method == ProteinComparatorMethod.ALL:
+            pdb_file_1, pdb_file_2 =  (NamedTemporaryFile("w+"), NamedTemporaryFile("w+"))
+            pdb_file_1.write(pdb1)
+            pdb_file_2.write(pdb2)
+            protein_chain_1, protein_chain_2 = (ProteinChain.from_pdb(pdb_file_1), ProteinChain.from_pdb(pdb_file_2))
+
+            lddt_1 = protein_chain_1.lddt_ca(protein_chain_2, per_residue=False)
+            lddt_2 = protein_chain_2.lddt_ca(protein_chain_1, per_residue=False)
+
+            results.append(
+                ProteinAlignment(
+                    method=ProteinComparatorMethod.LDDT,
+                    pdb1=pdb1,
+                    pdb2=pdb2,
+                    superimposed_pdb=None,
+                    score1=lddt_1,
+                    score2=lddt_2,
+                    final_score=lddt_1,
+                    auxiliary=None,
                 )
             )
 
         return results
 
     def compute_score_and_alignment(self, pdb1: str, pdb2: str) -> List[ProteinAlignment]:
+        """NOTE: The first PDB, `pdb1`, should always be the predicted PDB string,
+        and `pdb2` should be the ground truth PDB string.
+
+        Args:
+            pdb1 (str): Predicted protein PDB representation.
+            pdb2 (str): Ground truth protein PDB representation.
+
+        Returns:
+            List[ProteinAlignment]: All protein alignments and scoring metrics.
+        """
         results = self._run_score_alignment_algorithms(pdb1, pdb2)
         return results
     

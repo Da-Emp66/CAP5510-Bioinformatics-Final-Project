@@ -13,6 +13,7 @@ dependencies = [
     "fair-esm==2.0.1",
     "huggingface-hub>=0.28.1",
     "ipykernel>=6.29.5",
+    "mdanalysis>=2.9.0",
     "py3dmol>=2.4.2",
     "python-dotenv>=1.0.1",
     "tmscoring>=0.4.post0",

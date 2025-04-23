@@ -12,13 +12,11 @@ from esm.utils.structure.protein_chain import ProteinChain
 # from tmscoring import TMscoring
 
 class ProteinComparatorMethod(Enum):
-    US_ALIGN = 0
-    TM_ALIGN = 1
-    # Root-mean-square Deviation Test
-    RMSD = 2
-    # Local Distance Difference Test
-    LDDT = 3
-    ALL = 4
+    US_ALIGN = "US-Align"
+    TM_ALIGN = "TM-Align"
+    RMSD = "Root-mean-square Deviation Test"
+    LDDT = "Local Distance Difference Test"
+    ALL = "All"
 
 class MoleculeStructureVisualization:
     def __init__(self, **view_kwargs):
@@ -166,7 +164,7 @@ class ProteinComparator:
             superimposed_pdb_string, printed_stdout = self._run_cpp_executable(
                 pdb1,
                 pdb2,
-                run_command_template="./TMalign -mm 1 -ter 0 {} {} -o {}",
+                run_command_template="./TMalign {} {} -o {}",
                 output_filename="superimposed",
             )
 
@@ -214,10 +212,15 @@ class ProteinComparator:
             pdb_file_1, pdb_file_2 =  (NamedTemporaryFile("w+"), NamedTemporaryFile("w+"))
             pdb_file_1.write(pdb1)
             pdb_file_2.write(pdb2)
-            protein_chain_1, protein_chain_2 = (ProteinChain.from_pdb(pdb_file_1), ProteinChain.from_pdb(pdb_file_2))
+            print(f"File 1: {pdb_file_1.read()}")
+            print(f"PDB 1: {pdb1}")
+            protein_chain_1, protein_chain_2 = (
+                ProteinChain.from_pdb(pdb_file_1.name, is_predicted=True),
+                ProteinChain.from_pdb(pdb_file_2.name)
+            )
             
-            rmsd_1 = protein_chain_1.rmsd(protein_chain_2)
-            rmsd_2 = protein_chain_2.rmsd(protein_chain_1)
+            rmsd_1 = None # protein_chain_1.rmsd(protein_chain_2)
+            rmsd_2 = None # protein_chain_2.rmsd(protein_chain_1)
 
             results.append(
                 ProteinAlignment(
@@ -237,10 +240,13 @@ class ProteinComparator:
             pdb_file_1, pdb_file_2 =  (NamedTemporaryFile("w+"), NamedTemporaryFile("w+"))
             pdb_file_1.write(pdb1)
             pdb_file_2.write(pdb2)
-            protein_chain_1, protein_chain_2 = (ProteinChain.from_pdb(pdb_file_1), ProteinChain.from_pdb(pdb_file_2))
+            protein_chain_1, protein_chain_2 = (
+                ProteinChain.from_pdb(pdb_file_1.name, is_predicted=True),
+                ProteinChain.from_pdb(pdb_file_2.name)
+            )
 
-            lddt_1 = protein_chain_1.lddt_ca(protein_chain_2, per_residue=False)
-            lddt_2 = protein_chain_2.lddt_ca(protein_chain_1, per_residue=False)
+            lddt_1 = None # protein_chain_1.lddt_ca(protein_chain_2, per_residue=False)
+            # lddt_2 = protein_chain_2.lddt_ca(protein_chain_1, per_residue=False)
 
             results.append(
                 ProteinAlignment(
@@ -249,7 +255,7 @@ class ProteinComparator:
                     pdb2=pdb2,
                     superimposed_pdb=None,
                     score1=lddt_1,
-                    score2=lddt_2,
+                    score2=None,
                     final_score=lddt_1,
                     auxiliary=None,
                 )

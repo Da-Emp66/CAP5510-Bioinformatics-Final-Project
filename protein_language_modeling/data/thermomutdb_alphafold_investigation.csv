@@ -1,0 +1,1155 @@
+﻿TMDB_ID,id,PROTEIN,SOURCE,UNIPROT,MUTATION_uniprot,ddG,dG,dL,charge,hydrophobicity,polarity,size,ss,rsa,stability_effect,charge_change,hydrophobicity_change,polarity_change,size_change
+28,P0A7Y4_S68G,Ribonuclease HI,Escherichia coli (strain K12),P0A7Y4,S68G,2.2,0.14,-0.63,00,00,pn,0,E,buried,HD,0,0,1,0
+29,P0A7Y4_S68A,Ribonuclease HI,Escherichia coli (strain K12),P0A7Y4,S68A,-0.19,0.43,0.18,00,0-,pn,0,E,buried,N,0,1,1,0
+31,P0A7Y4_S68V,Ribonuclease HI,Escherichia coli (strain K12),P0A7Y4,S68V,-1.29,0.41,0.14,00,0-,pn,2,E,buried,S,0,1,1,SI
+44,P0A7Y4_H62P,Ribonuclease HI,Escherichia coli (strain K12),P0A7Y4,H62P,-0.74,0.33,1.03,+0,00,pn,-1,C,exposed,SS,1,0,1,SD
+97,P00648_T53P,Ribonuclease,Bacillus amyloliquefaciens,P00648,T53P,3.19,-0.7,-0.18,00,00,pn,0,C,exposed,HD,0,0,1,0
+100,P00648_D59G,Ribonuclease,Bacillus amyloliquefaciens,P00648,D59G,0.97,-0.34,-0.16,-0,+0,pn,-1,H,exposed,D,1,1,1,SD
+101,P00648_D59S,Ribonuclease,Bacillus amyloliquefaciens,P00648,D59S,0.78,-0.18,-0.11,-0,+0,pp,-1,H,exposed,SD,1,1,0,SD
+103,P00648_T63A,Ribonuclease,Bacillus amyloliquefaciens,P00648,T63A,0.38,-0.32,-0.07,00,0-,pn,-1,H,exposed,N,0,1,1,SD
+106,P00648_H65G,Ribonuclease,Bacillus amyloliquefaciens,P00648,H65G,0.8,-0.76,-0.26,+0,00,pn,-2,C,exposed,SD,1,0,1,SD
+107,P00648_H65A,Ribonuclease,Bacillus amyloliquefaciens,P00648,H65A,2.01,-0.27,-0.29,+0,0-,pn,-2,C,exposed,HD,1,1,1,SD
+108,P00648_H65S,Ribonuclease,Bacillus amyloliquefaciens,P00648,H65S,2.19,-0.36,-0.2,+0,00,pp,-2,C,exposed,HD,1,0,0,SD
+109,P00648_H65N,Ribonuclease,Bacillus amyloliquefaciens,P00648,H65N,1.74,0.09,-0.11,+0,0+,pp,-1,C,exposed,D,1,1,0,SD
+110,P00648_H65D,Ribonuclease,Bacillus amyloliquefaciens,P00648,H65D,2.38,-0.64,-0.21,+-,0+,pp,-1,C,exposed,HD,1,1,0,SD
+113,P00648_T73D,Ribonuclease,Bacillus amyloliquefaciens,P00648,T73D,0.04,-0.22,-0.12,0-,0+,pp,0,C,buried,N,1,1,0,0
+115,P00648_S75G,Ribonuclease,Bacillus amyloliquefaciens,P00648,S75G,0.48,-0.19,-0.04,00,00,pn,0,H,exposed,SD,0,0,1,0
+117,P00648_E76G,Ribonuclease,Bacillus amyloliquefaciens,P00648,E76G,1.9,-0.3,-0.12,-0,+0,pn,-2,H,exposed,HD,1,1,1,SD
+119,P00648_E76S,Ribonuclease,Bacillus amyloliquefaciens,P00648,E76S,1.22,-0.51,-0.11,-0,+0,pp,-2,H,exposed,D,1,1,0,SD
+121,P00648_Q78S,Ribonuclease,Bacillus amyloliquefaciens,P00648,Q78S,-0.0,-0.03,-0.08,00,+0,pp,-2,H,exposed,N,0,1,0,SD
+124,P00648_G81S,Ribonuclease,Bacillus amyloliquefaciens,P00648,G81S,3.05,-0.15,-0.27,00,00,np,0,C,exposed,HD,0,0,1,0
+125,P00648_G81N,Ribonuclease,Bacillus amyloliquefaciens,P00648,G81N,2.72,-0.34,-0.21,00,0+,np,1,C,exposed,HD,0,1,1,SI
+126,P00648_G81D,Ribonuclease,Bacillus amyloliquefaciens,P00648,G81D,3.3,-0.13,-0.19,0-,0+,np,1,C,exposed,HD,1,1,1,SI
+129,P00648_G81R,Ribonuclease,Bacillus amyloliquefaciens,P00648,G81R,2.61,-0.12,-0.25,0+,0+,np,3,C,exposed,HD,1,1,1,LI
+136,P00648_A79R,Ribonuclease,Bacillus amyloliquefaciens,P00648,A79R,0.15,-0.14,-0.07,0+,-+,np,3,H,exposed,N,1,1,1,LI
+137,P00648_A79K,Ribonuclease,Bacillus amyloliquefaciens,P00648,A79K,0.15,-0.33,-0.07,0+,-+,np,3,H,exposed,N,1,1,1,LI
+138,P00648_A79M,Ribonuclease,Bacillus amyloliquefaciens,P00648,A79M,0.19,-0.79,-0.14,00,--,nn,3,H,exposed,N,0,0,0,LI
+139,P00648_A79L,Ribonuclease,Bacillus amyloliquefaciens,P00648,A79L,0.11,-0.32,-0.11,00,--,nn,3,H,exposed,N,0,0,0,LI
+144,P00648_A79F,Ribonuclease,Bacillus amyloliquefaciens,P00648,A79F,0.56,-0.8,-0.19,00,--,nn,4,H,exposed,SD,0,0,0,LI
+146,P00648_A79H,Ribonuclease,Bacillus amyloliquefaciens,P00648,A79H,0.75,-0.01,-0.16,0+,-0,np,2,H,exposed,SD,1,1,1,SI
+147,P00648_A79T,Ribonuclease,Bacillus amyloliquefaciens,P00648,A79T,0.64,-0.14,-0.13,00,-0,np,1,H,exposed,SD,0,1,1,SI
+148,P00648_A79I,Ribonuclease,Bacillus amyloliquefaciens,P00648,A79I,0.74,-0.46,-0.1,00,--,nn,3,H,exposed,SD,0,0,0,LI
+151,P00648_A79G,Ribonuclease,Bacillus amyloliquefaciens,P00648,A79G,0.84,-0.19,-0.05,00,-0,nn,0,H,exposed,SD,0,1,0,0
+152,P00648_A79W,Ribonuclease,Bacillus amyloliquefaciens,P00648,A79W,1.07,-0.3,-0.26,00,--,np,4,H,exposed,D,0,0,1,LI
+153,P00648_A79C,Ribonuclease,Bacillus amyloliquefaciens,P00648,A79C,1.42,0.02,-0.15,00,--,nn,1,H,exposed,D,0,0,0,SI
+154,P00648_A79P,Ribonuclease,Bacillus amyloliquefaciens,P00648,A79P,4.11,-0.31,-0.25,00,-0,nn,1,H,exposed,HD,0,1,0,SI
+207,P00648_T53H,Ribonuclease,Bacillus amyloliquefaciens,P00648,T53H,2.65,-0.58,-0.21,0+,00,pp,1,C,exposed,HD,1,0,0,SI
+209,P00648_W141L,Ribonuclease,Bacillus amyloliquefaciens,P00648,W141L,0.64,-0.58,-0.45,00,--,pn,-1,T,exposed,SD,0,0,1,SD
+239,P03034_V37I,Repressor protein cI,Escherichia phage lambda,P03034,V37I,-1.0,-0.13,0.09,00,--,nn,1,H,buried,S,0,0,0,SI
+263,P00648_D55A,Ribonuclease,Bacillus amyloliquefaciens,P00648,D55A,0.99,-0.28,-0.08,-0,+-,pn,-1,H,exposed,D,1,1,1,SD
+266,P00648_R157A,Ribonuclease,Bacillus amyloliquefaciens,P00648,R157A,0.46,-0.87,-6.98,+0,+-,pn,-3,C,exposed,N,1,1,1,LD
+267,P00648_D59A,Ribonuclease,Bacillus amyloliquefaciens,P00648,D59A,0.34,-0.23,-0.15,-0,+-,pn,-1,H,exposed,N,1,1,1,SD
+270,P00648_W141Y,Ribonuclease,Bacillus amyloliquefaciens,P00648,W141Y,1.27,-0.02,-0.72,00,-0,pp,0,T,exposed,D,0,1,0,0
+271,P00648_W141F,Ribonuclease,Bacillus amyloliquefaciens,P00648,W141F,1.06,-0.27,-0.6,00,--,pn,0,T,exposed,D,0,0,1,0
+280,P00648_I51V,Ribonuclease,Bacillus amyloliquefaciens,P00648,I51V,0.68,-0.15,-0.04,00,--,nn,-1,C,buried,SD,0,0,0,SD
+282,P00648_N52A,Ribonuclease,Bacillus amyloliquefaciens,P00648,N52A,1.88,-0.97,-0.77,00,+-,pn,-1,C,buried,HD,0,1,1,SD
+283,P00648_T53G,Ribonuclease,Bacillus amyloliquefaciens,P00648,T53G,1.15,-0.22,-0.24,00,00,pn,-1,C,exposed,D,0,0,1,SD
+286,P00648_V57T,Ribonuclease,Bacillus amyloliquefaciens,P00648,V57T,2.44,-0.87,-0.12,00,-0,np,-1,H,buried,HD,0,1,1,SD
+290,P00648_L61A,Ribonuclease,Bacillus amyloliquefaciens,P00648,L61A,4.32,-0.58,-0.54,00,--,nn,-3,H,buried,HD,0,0,0,LD
+291,P00648_T63S,Ribonuclease,Bacillus amyloliquefaciens,P00648,T63S,1.7,-0.37,-0.18,00,00,pp,-1,H,exposed,D,0,0,0,SD
+292,P00648_T63R,Ribonuclease,Bacillus amyloliquefaciens,P00648,T63R,-0.58,-0.83,-0.08,0+,0+,pp,2,H,exposed,SS,1,1,0,SI
+293,P00648_Y64A,Ribonuclease,Bacillus amyloliquefaciens,P00648,Y64A,2.19,0.01,-0.33,00,0-,pn,-4,H,exposed,HD,0,1,1,LD
+296,P00648_I72V,Ribonuclease,Bacillus amyloliquefaciens,P00648,I72V,1.09,-0.58,-0.09,00,--,nn,-1,E,buried,D,0,0,0,SD
+297,P00648_I72A,Ribonuclease,Bacillus amyloliquefaciens,P00648,I72A,3.59,-0.13,-0.31,00,--,nn,-3,E,buried,HD,0,0,0,LD
+298,P00648_T73G,Ribonuclease,Bacillus amyloliquefaciens,P00648,T73G,1.42,-0.09,-0.19,00,00,pn,-1,C,buried,D,0,0,1,SD
+299,P00648_T73A,Ribonuclease,Bacillus amyloliquefaciens,P00648,T73A,1.99,-0.48,-0.09,00,0-,pn,-1,C,buried,HD,0,1,1,SD
+304,P00648_L80Q,Ribonuclease,Bacillus amyloliquefaciens,P00648,L80Q,1.33,-0.11,-0.19,00,-+,np,-1,H,exposed,D,0,1,1,SD
+305,P00648_V83A,Ribonuclease,Bacillus amyloliquefaciens,P00648,V83A,1.37,-0.08,-0.14,00,--,nn,-2,C,exposed,D,0,0,0,SD
+307,P00648_N88D,Ribonuclease,Bacillus amyloliquefaciens,P00648,N88D,2.53,-0.18,-0.21,0-,++,pp,0,H,buried,HD,1,0,0,0
+308,P00648_V92A,Ribonuclease,Bacillus amyloliquefaciens,P00648,V92A,1.68,-0.63,-0.26,00,--,nn,-2,H,exposed,D,0,0,0,SD
+309,P00648_V92T,Ribonuclease,Bacillus amyloliquefaciens,P00648,V92T,2.36,-0.77,-0.25,00,-0,np,-1,H,exposed,HD,0,1,1,SD
+310,P00648_I98V,Ribonuclease,Bacillus amyloliquefaciens,P00648,I98V,1.7,-0.4,-0.03,00,--,nn,-1,E,buried,D,0,0,0,SD
+311,P00648_I98A,Ribonuclease,Bacillus amyloliquefaciens,P00648,I98A,4.71,-0.11,-0.11,00,--,nn,-3,E,buried,HD,0,0,0,LD
+312,P00648_D101A,Ribonuclease,Bacillus amyloliquefaciens,P00648,D101A,3.08,0.06,-0.7,-0,+-,pn,-1,E,buried,HD,1,1,1,SD
+314,P00648_I102V,Ribonuclease,Bacillus amyloliquefaciens,P00648,I102V,0.36,-0.27,-0.03,00,--,nn,-1,E,exposed,N,0,0,0,SD
+315,P00648_I102A,Ribonuclease,Bacillus amyloliquefaciens,P00648,I102A,1.28,-0.28,-0.09,00,--,nn,-3,E,exposed,D,0,0,0,LD
+317,P00648_N105A,Ribonuclease,Bacillus amyloliquefaciens,P00648,N105A,2.23,-0.77,-4.46,00,+-,pn,-1,T,buried,HD,0,1,1,SD
+318,P00648_N105D,Ribonuclease,Bacillus amyloliquefaciens,P00648,N105D,-0.4,-0.14,-1.05,0-,++,pp,0,T,buried,N,1,0,0,0
+319,P00648_K109R,Ribonuclease,Bacillus amyloliquefaciens,P00648,K109R,0.43,-0.08,-0.29,++,++,pp,0,C,exposed,N,0,0,0,0
+322,P00648_N124A,Ribonuclease,Bacillus amyloliquefaciens,P00648,N124A,1.69,-0.27,-0.28,00,+-,pn,-1,T,exposed,D,0,1,1,SD
+323,P00648_Y125F,Ribonuclease,Bacillus amyloliquefaciens,P00648,Y125F,1.37,-0.26,-0.09,00,0-,pn,0,T,buried,D,0,1,1,0
+325,P00648_I135V,Ribonuclease,Bacillus amyloliquefaciens,P00648,I135V,1.44,-0.76,-0.02,00,--,nn,-1,E,buried,D,0,0,0,SD
+328,P00648_L136T,Ribonuclease,Bacillus amyloliquefaciens,P00648,L136T,2.78,-0.11,-0.03,00,-0,np,-2,E,buried,HD,0,1,1,SD
+329,P00648_S138A,Ribonuclease,Bacillus amyloliquefaciens,P00648,S138A,2.01,-0.34,-0.05,00,0-,pn,0,E,buried,HD,0,1,1,0
+331,P00648_I143V,Ribonuclease,Bacillus amyloliquefaciens,P00648,I143V,0.95,-0.36,-0.03,00,--,nn,-1,E,buried,D,0,0,0,SD
+332,P00648_I143A,Ribonuclease,Bacillus amyloliquefaciens,P00648,I143A,3.17,-0.28,-0.1,00,--,nn,-3,E,buried,HD,0,0,0,LD
+333,P00648_T146V,Ribonuclease,Bacillus amyloliquefaciens,P00648,T146V,2.9,-1.27,-0.21,00,0-,pn,1,E,buried,HD,0,1,1,SI
+336,P00648_I156V,Ribonuclease,Bacillus amyloliquefaciens,P00648,I156V,0.8,-0.64,-0.46,00,--,nn,-1,C,buried,SD,0,0,0,SD
+337,P00648_I156A,Ribonuclease,Bacillus amyloliquefaciens,P00648,I156A,1.77,-0.52,-1.5,00,--,nn,-3,C,buried,D,0,0,0,LD
+371,P00648_H65Q,Ribonuclease,Bacillus amyloliquefaciens,P00648,H65Q,1.44,-0.15,-0.09,+0,0+,pp,0,C,exposed,D,1,1,0,0
+462,P00648_R106A,Ribonuclease,Bacillus amyloliquefaciens,P00648,R106A,-0.64,-0.92,0.36,+0,+-,pn,-3,T,exposed,SS,1,1,1,LD
+466,P00648_S104A,Ribonuclease,Bacillus amyloliquefaciens,P00648,S104A,-0.15,-0.61,0.2,00,0-,pn,0,C,exposed,N,0,1,1,0
+468,P00648_Q151A,Ribonuclease,Bacillus amyloliquefaciens,P00648,Q151A,0.14,-0.49,-0.14,00,+-,pn,-2,T,exposed,N,0,1,1,SD
+485,P00644_A176G,Thermonuclease,Staphylococcus aureus,P00644,A176G,2.4,-0.35,-0.08,00,-0,nn,0,E,buried,HD,0,1,0,0
+486,P00644_A176V,Thermonuclease,Staphylococcus aureus,P00644,A176V,1.3,-0.03,-0.13,00,--,nn,2,E,buried,D,0,0,0,SI
+487,P00644_A99G,Thermonuclease,Staphylococcus aureus,P00644,A99G,0.3,-0.2,-0.4,00,-0,nn,0,E,buried,N,0,1,0,0
+488,P00644_A99V,Thermonuclease,Staphylococcus aureus,P00644,A99V,1.9,-0.87,0.08,00,--,nn,2,E,buried,HD,0,0,0,SI
+489,P00644_A140G,Thermonuclease,Staphylococcus aureus,P00644,A140G,2.6,0.18,0.33,00,-0,nn,0,H,buried,HD,0,1,0,0
+490,P00644_A140V,Thermonuclease,Staphylococcus aureus,P00644,A140V,2.8,-1.68,-6.22,00,--,nn,2,H,buried,HD,0,0,0,SI
+492,P00644_A142V,Thermonuclease,Staphylococcus aureus,P00644,A142V,2.85,-0.41,-0.18,00,--,nn,2,H,exposed,HD,0,0,0,SI
+493,P00644_A151G,Thermonuclease,Staphylococcus aureus,P00644,A151G,2.0,-0.56,-0.97,00,-0,nn,0,T,buried,HD,0,1,0,0
+494,P00644_A151V,Thermonuclease,Staphylococcus aureus,P00644,A151V,2.3,-0.1,-1.51,00,--,nn,2,T,buried,HD,0,0,0,SI
+496,P00644_A172V,Thermonuclease,Staphylococcus aureus,P00644,A172V,0.2,0.09,0.08,00,--,nn,2,E,buried,N,0,0,0,SI
+499,P00644_A184G,Thermonuclease,Staphylococcus aureus,P00644,A184G,1.3,-0.02,-0.02,00,-0,nn,0,H,buried,D,0,1,0,0
+500,P00644_A184V,Thermonuclease,Staphylococcus aureus,P00644,A184V,1.9,-0.36,-0.15,00,--,nn,2,H,buried,HD,0,0,0,SI
+501,P00644_A191G,Thermonuclease,Staphylococcus aureus,P00644,A191G,1.0,-0.62,-0.74,00,-0,nn,0,C,buried,D,0,1,0,0
+502,P00644_A191V,Thermonuclease,Staphylococcus aureus,P00644,A191V,3.1,-1.36,-1.34,00,--,nn,2,C,buried,HD,0,0,0,SI
+503,P00644_A194G,Thermonuclease,Staphylococcus aureus,P00644,A194G,-0.0,-0.12,-1.82,00,-0,nn,0,C,buried,N,0,1,0,0
+505,P00644_A212G,Thermonuclease,Staphylococcus aureus,P00644,A212G,1.1,-0.4,-0.14,00,-0,nn,0,H,exposed,D,0,1,0,0
+506,P00644_A212V,Thermonuclease,Staphylococcus aureus,P00644,A212V,1.2,0.04,-0.06,00,--,nn,2,H,exposed,D,0,0,0,SI
+507,P00644_A214G,Thermonuclease,Staphylococcus aureus,P00644,A214G,3.7,0.29,-0.63,00,-0,nn,0,H,buried,HD,0,1,0,0
+508,P00644_A214V,Thermonuclease,Staphylococcus aureus,P00644,A214V,4.8,-0.24,-2.75,00,--,nn,2,H,buried,HD,0,0,0,SI
+509,P00644_P93G,Thermonuclease,Staphylococcus aureus,P00644,P93G,1.0,-0.58,-0.05,00,00,nn,-1,E,exposed,D,0,0,0,SD
+511,P00644_P113G,Thermonuclease,Staphylococcus aureus,P00644,P113G,1.6,-0.35,-0.02,00,00,nn,-1,E,exposed,D,0,0,0,SD
+512,P00644_P113A,Thermonuclease,Staphylococcus aureus,P00644,P113A,0.5,-0.71,0.1,00,0-,nn,-1,E,exposed,SD,0,1,0,SD
+513,P00644_P124G,Thermonuclease,Staphylococcus aureus,P00644,P124G,0.4,-0.58,-0.42,00,00,nn,-1,C,buried,N,0,0,0,SD
+515,P00644_P129G,Thermonuclease,Staphylococcus aureus,P00644,P129G,0.1,-0.11,-4.51,00,00,nn,-1,T,exposed,N,0,0,0,SD
+516,P00644_P129A,Thermonuclease,Staphylococcus aureus,P00644,P129A,0.6,-0.33,7.29,00,0-,nn,-1,T,exposed,SD,0,1,0,SD
+517,P00644_P138G,Thermonuclease,Staphylococcus aureus,P00644,P138G,1.0,-0.3,-0.9,00,00,nn,-1,H,exposed,D,0,0,0,SD
+518,P00644_P138A,Thermonuclease,Staphylococcus aureus,P00644,P138A,-0.0,-0.66,-1.1,00,0-,nn,-1,H,exposed,N,0,1,0,SD
+521,P00644_G102A,Thermonuclease,Staphylococcus aureus,P00644,G102A,0.3,0.17,0.8,00,0-,nn,0,T,buried,N,0,1,0,0
+523,P00644_G111A,Thermonuclease,Staphylococcus aureus,P00644,G111A,1.25,-0.45,-0.32,00,0-,nn,0,T,exposed,D,0,1,0,0
+524,P00644_G111V,Thermonuclease,Staphylococcus aureus,P00644,G111V,3.0,-0.03,-2.63,00,0-,nn,2,T,exposed,HD,0,1,0,SI
+525,P00644_G132A,Thermonuclease,Staphylococcus aureus,P00644,G132A,-0.25,0.21,8.73,00,0-,nn,0,B,exposed,N,0,1,0,0
+526,P00644_G132V,Thermonuclease,Staphylococcus aureus,P00644,G132V,1.1,-0.85,7.99,00,0-,nn,2,B,exposed,D,0,1,0,SI
+527,P00644_G137A,Thermonuclease,Staphylococcus aureus,P00644,G137A,0.6,-0.6,0.6,00,0-,nn,0,H,buried,SD,0,1,0,0
+529,P00644_G161A,Thermonuclease,Staphylococcus aureus,P00644,G161A,2.35,-0.76,-2.52,00,0-,nn,0,C,buried,HD,0,1,0,0
+532,P00644_G168V,Thermonuclease,Staphylococcus aureus,P00644,G168V,3.7,-0.23,-1.0,00,0-,nn,2,T,exposed,HD,0,1,0,SI
+534,P00644_G170V,Thermonuclease,Staphylococcus aureus,P00644,G170V,0.94,-0.61,0.31,00,0-,nn,2,E,buried,D,0,1,0,SI
+535,P00644_G178A,Thermonuclease,Staphylococcus aureus,P00644,G178A,1.75,-0.03,-0.1,00,0-,nn,0,T,exposed,D,0,1,0,0
+536,P00644_G178V,Thermonuclease,Staphylococcus aureus,P00644,G178V,3.7,0.0,-0.48,00,0-,nn,2,T,exposed,HD,0,1,0,SI
+542,P00644_N182G,Thermonuclease,Staphylococcus aureus,P00644,N182G,5.1,0.4,0.02,00,+0,pn,-1,H,buried,HD,0,1,1,SD
+543,P00644_N200A,Thermonuclease,Staphylococcus aureus,P00644,N200A,2.05,-0.69,-3.35,00,+-,pn,-1,B,buried,HD,0,1,1,SD
+544,P00644_N200G,Thermonuclease,Staphylococcus aureus,P00644,N200G,1.85,-0.43,-4.37,00,+0,pn,-1,B,buried,HD,0,1,1,SD
+547,P00644_N220A,Thermonuclease,Staphylococcus aureus,P00644,N220A,1.05,-0.24,-0.23,00,+-,pn,-1,G,exposed,D,0,1,1,SD
+548,P00644_N220G,Thermonuclease,Staphylococcus aureus,P00644,N220G,-0.15,0.73,-0.03,00,+0,pn,-1,G,exposed,N,0,1,1,SD
+549,P00644_Q112A,Thermonuclease,Staphylococcus aureus,P00644,Q112A,0.3,0.03,0.16,00,+-,pn,-2,E,exposed,N,0,1,1,SD
+550,P00644_Q112G,Thermonuclease,Staphylococcus aureus,P00644,Q112G,0.9,-0.5,-0.02,00,+0,pn,-2,E,exposed,SD,0,1,1,SD
+551,P00644_Q162A,Thermonuclease,Staphylococcus aureus,P00644,Q162A,0.1,-0.59,0.11,00,+-,pn,-2,C,exposed,N,0,1,1,SD
+552,P00644_Q162G,Thermonuclease,Staphylococcus aureus,P00644,Q162G,1.4,-0.33,-2.44,00,+0,pn,-2,C,exposed,D,0,1,1,SD
+553,P00644_Q188A,Thermonuclease,Staphylococcus aureus,P00644,Q188A,-0.1,-0.23,0.23,00,+-,pn,-2,H,exposed,N,0,1,1,SD
+554,P00644_Q188G,Thermonuclease,Staphylococcus aureus,P00644,Q188G,1.5,-0.4,-0.09,00,+0,pn,-2,H,exposed,D,0,1,1,SD
+555,P00644_Q205A,Thermonuclease,Staphylococcus aureus,P00644,Q205A,0.4,-0.48,0.14,00,+-,pn,-2,H,exposed,N,0,1,1,SD
+558,P00644_Q213G,Thermonuclease,Staphylococcus aureus,P00644,Q213G,2.4,1.0,-0.19,00,+0,pn,-2,H,exposed,HD,0,1,1,SD
+560,P00644_S223G,Thermonuclease,Staphylococcus aureus,P00644,S223G,0.9,-0.91,-0.32,00,00,pn,0,T,exposed,SD,0,0,1,0
+561,P00644_S210A,Thermonuclease,Staphylococcus aureus,P00644,S210A,-0.7,-0.55,0.02,00,0-,pn,0,H,buried,SS,0,1,1,0
+562,P00644_S210G,Thermonuclease,Staphylococcus aureus,P00644,S210G,1.6,-0.47,-0.46,00,00,pn,0,H,buried,D,0,0,1,0
+566,P00644_T95G,Thermonuclease,Staphylococcus aureus,P00644,T95G,1.1,0.82,0.02,00,00,pn,-1,E,exposed,D,0,0,1,SD
+567,P00644_T104A,Thermonuclease,Staphylococcus aureus,P00644,T104A,1.6,-0.7,-0.21,00,0-,pn,-1,E,buried,D,0,1,1,SD
+569,P00644_T115A,Thermonuclease,Staphylococcus aureus,P00644,T115A,1.4,-0.05,0.0,00,0-,pn,-1,E,buried,D,0,1,1,SD
+570,P00644_T115G,Thermonuclease,Staphylococcus aureus,P00644,T115G,2.5,-0.45,-0.18,00,00,pn,-1,E,buried,HD,0,0,1,SD
+572,P00644_T123G,Thermonuclease,Staphylococcus aureus,P00644,T123G,2.0,-0.18,-7.78,00,00,pn,-1,C,buried,HD,0,0,1,SD
+573,P00644_T126A,Thermonuclease,Staphylococcus aureus,P00644,T126A,0.4,0.45,3.92,00,0-,pn,-1,T,buried,N,0,1,1,SD
+574,P00644_T126G,Thermonuclease,Staphylococcus aureus,P00644,T126G,0.6,-0.33,-6.04,00,00,pn,-1,T,buried,SD,0,0,1,SD
+575,P00644_T144A,Thermonuclease,Staphylococcus aureus,P00644,T144A,2.4,-0.35,-1.15,00,0-,pn,-1,H,buried,HD,0,1,1,SD
+576,P00644_T144G,Thermonuclease,Staphylococcus aureus,P00644,T144G,3.45,-0.09,-1.46,00,00,pn,-1,H,buried,HD,0,0,1,SD
+577,P00644_T164A,Thermonuclease,Staphylococcus aureus,P00644,T164A,0.9,-0.56,0.18,00,0-,pn,-1,B,exposed,SD,0,1,1,SD
+579,P00644_T202A,Thermonuclease,Staphylococcus aureus,P00644,T202A,1.2,-0.65,-0.09,00,0-,pn,-1,C,exposed,D,0,1,1,SD
+582,P00644_A227V,Thermonuclease,Staphylococcus aureus,P00644,A227V,0.3,-0.57,9.25,00,--,nn,2,T,exposed,N,0,0,0,SI
+586,P00644_S141G,Thermonuclease,Staphylococcus aureus,P00644,S141G,1.1,-0.68,0.22,00,00,pn,0,H,buried,D,0,0,1,0
+604,P0A7Y4_H124A,Ribonuclease HI,Escherichia coli (strain K12),P0A7Y4,H124A,-0.32,0.56,3.6,+0,0-,pn,-2,T,exposed,N,1,1,1,SD
+605,P0A7Y4_H127A,Ribonuclease HI,Escherichia coli (strain K12),P0A7Y4,H127A,0.41,0.08,-1.43,+0,0-,pn,-2,T,exposed,N,1,1,1,SD
+615,P00094_K33D,Cytochrome c2,Rhodobacter capsulatus (strain ATCC BAA-309 / NBRC 16581 / SB1003),P00094,K33D,1.2,-0.28,-0.42,+-,++,pp,-2,H,exposed,D,1,0,0,SD
+616,P00094_K35E,Cytochrome c2,Rhodobacter capsulatus (strain ATCC BAA-309 / NBRC 16581 / SB1003),P00094,K35E,1.1,-0.36,-0.62,+-,++,pp,-1,H,exposed,D,1,0,0,SD
+617,P00094_K53E,Cytochrome c2,Rhodobacter capsulatus (strain ATCC BAA-309 / NBRC 16581 / SB1003),P00094,K53E,-0.3,-0.33,-1.8,+-,++,pp,-1,T,exposed,N,1,0,0,SD
+657,P00651_Y37F,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,Y37F,2.11,-0.3,-0.2,00,0-,pn,0,E,buried,HD,0,1,1,0
+658,P00651_Y68F,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,Y68F,-1.14,-0.08,-0.03,00,0-,pn,0,E,buried,S,0,1,1,0
+659,P00651_Y82F,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,Y82F,0.78,0.23,-0.03,00,0-,pn,0,E,buried,SD,0,1,1,0
+660,P00651_Y83F,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,Y83F,0.5,0.01,-0.01,00,0-,pn,0,E,buried,SD,0,1,1,0
+662,P00651_S38A,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,S38A,1.23,-0.06,-0.34,00,0-,pn,0,C,buried,D,0,1,1,0
+663,P00651_S43A,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,S43A,-0.67,-0.18,0.15,00,0-,pn,0,H,exposed,SS,0,1,1,0
+664,P00651_S90A,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,S90A,1.44,-0.76,-0.34,00,0-,pn,0,T,exposed,D,0,1,1,0
+665,P00651_N35A,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,N35A,-0.9,0.15,-0.36,00,+-,pn,-1,E,exposed,SS,0,1,1,SD
+666,P00651_N62A,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,N62A,0.03,0.16,0.56,00,+-,pn,-1,T,exposed,N,0,1,1,SD
+668,P00651_N107A,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,N107A,-2.87,0.16,-0.06,00,+-,pn,-1,E,buried,HS,0,1,1,SD
+730,P00592_N111D,"Phospholipase A2, major isoenzyme",Sus scrofa,P00592,N111D,0.19,-0.61,-0.76,0-,++,pp,0,C,exposed,N,1,0,0,0
+734,P00094_Y96F,Cytochrome c2,Rhodobacter capsulatus (strain ATCC BAA-309 / NBRC 16581 / SB1003),P00094,Y96F,2.7,-0.29,-0.21,00,0-,pn,0,H,buried,HD,0,1,1,0
+735,P00094_Y96C,Cytochrome c2,Rhodobacter capsulatus (strain ATCC BAA-309 / NBRC 16581 / SB1003),P00094,Y96C,3.05,-0.2,-0.46,00,0-,pn,-3,H,buried,HD,0,1,1,LD
+769,P0AA25_D27A,Thioredoxin 1,Escherichia coli (strain K12),P0AA25,D27A,-4.6,-0.24,-0.15,-0,+-,pn,-1,E,buried,HS,1,1,1,SD
+773,P0ABQ4_V88A,Dihydrofolate reductase,Escherichia coli (strain K12),P0ABQ4,V88A,-0.2,-0.85,-1.12,00,--,nn,-2,T,exposed,N,0,0,0,SD
+774,P0ABQ4_V88I,Dihydrofolate reductase,Escherichia coli (strain K12),P0ABQ4,V88I,1.73,-0.54,-2.28,00,--,nn,1,T,exposed,D,0,0,0,SI
+775,P00648_S75E,Ribonuclease,Bacillus amyloliquefaciens,P00648,S75E,-0.5,0.11,-0.01,0-,0+,pp,2,H,exposed,SS,1,1,0,SI
+816,P00644_V148K,Thermonuclease,Staphylococcus aureus,P00644,V148K,5.2,-0.68,-7.23,0+,-+,np,1,H,buried,HD,1,1,1,SI
+865,P00651_E84A,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,E84A,-0.71,0.23,0.01,-0,+-,pn,-2,E,buried,SS,1,1,1,SD
+868,P00720_Y25G,Endolysin,Enterobacteria phage T4,P00720,Y25G,4.55,-0.15,-1.86,00,00,pn,-4,E,buried,HD,0,0,1,LD
+870,P00720_S38D,Endolysin,Enterobacteria phage T4,P00720,S38D,1.2,-0.08,-0.31,0-,0+,pp,1,C,exposed,D,1,1,0,SI
+871,P00720_G51D,Endolysin,Enterobacteria phage T4,P00720,G51D,2.63,0.12,-0.6,0-,0+,np,1,C,exposed,HD,1,1,1,SI
+872,P00720_C54Y,Endolysin,Enterobacteria phage T4,P00720,C54Y,5.02,-1.15,-20.75,00,-0,np,3,T,buried,HD,0,1,1,LI
+873,P00720_I58Y,Endolysin,Enterobacteria phage T4,P00720,I58Y,3.11,-0.76,-3.77,00,-0,np,1,C,buried,HD,0,1,1,SI
+874,P00720_G77A,Endolysin,Enterobacteria phage T4,P00720,G77A,1.2,-0.07,0.19,00,0-,nn,0,H,buried,D,0,1,0,0
+875,P00720_A82P,Endolysin,Enterobacteria phage T4,P00720,A82P,0.72,0.02,-0.02,00,-0,nn,1,C,exposed,SD,0,1,0,SI
+876,P00720_P86G,Endolysin,Enterobacteria phage T4,P00720,P86G,1.91,-0.26,-0.69,00,00,nn,-1,H,exposed,HD,0,0,0,SD
+877,P00720_L91P,Endolysin,Enterobacteria phage T4,P00720,L91P,8.13,-1.02,-23.07,00,-0,nn,-2,C,buried,HD,0,1,0,SD
+878,P00720_A98T,Endolysin,Enterobacteria phage T4,P00720,A98T,3.83,-0.14,-0.34,00,-0,np,1,H,buried,HD,0,1,1,SI
+879,P00720_A98V,Endolysin,Enterobacteria phage T4,P00720,A98V,5.02,-0.02,-0.38,00,--,nn,2,H,buried,HD,0,0,0,SI
+884,P00720_A146I,Endolysin,Enterobacteria phage T4,P00720,A146I,4.31,-0.56,-2.65,00,--,nn,3,H,buried,HD,0,0,0,LI
+885,P00720_A146T,Endolysin,Enterobacteria phage T4,P00720,A146T,2.87,-0.14,-1.26,00,-0,np,1,H,buried,HD,0,1,1,SI
+886,P00720_A146V,Endolysin,Enterobacteria phage T4,P00720,A146V,4.31,-0.26,-0.92,00,--,nn,2,H,buried,HD,0,0,0,SI
+887,P00720_V149A,Endolysin,Enterobacteria phage T4,P00720,V149A,2.87,-0.14,-0.3,00,--,nn,-2,H,buried,HD,0,0,0,SD
+889,P00720_G156D,Endolysin,Enterobacteria phage T4,P00720,G156D,4.07,0.08,-0.09,0-,0+,np,1,C,buried,HD,1,1,1,SI
+890,P00720_T157D,Endolysin,Enterobacteria phage T4,P00720,T157D,2.39,0.2,-0.25,0-,0+,pp,0,C,exposed,HD,1,1,0,0
+891,P00720_T157F,Endolysin,Enterobacteria phage T4,P00720,T157F,4.07,0.05,-0.52,00,0-,pn,3,C,exposed,HD,0,1,1,LI
+892,P00720_A160T,Endolysin,Enterobacteria phage T4,P00720,A160T,4.55,-0.1,-2.03,00,-0,np,1,G,buried,HD,0,1,1,SI
+928,P69543_V35A,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,V35A,1.7,0.49,-0.18,00,--,nn,-2,E,buried,D,0,0,0,SD
+929,P69543_V35C,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,V35C,0.5,0.5,-0.27,00,--,nn,-1,E,buried,SD,0,0,0,SD
+930,P69543_I47A,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,I47A,5.8,0.84,0.32,00,--,nn,-3,E,buried,HD,0,0,0,LD
+931,P69543_I47C,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,I47C,3.5,0.12,-1.36,00,--,nn,-2,E,buried,HD,0,0,0,SD
+932,P69543_I47V,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,I47V,2.0,1.2,0.56,00,--,nn,-1,E,buried,HD,0,0,0,SD
+933,P69543_I47L,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,I47L,0.4,1.33,0.47,00,--,nn,0,E,buried,N,0,0,0,0
+934,P69543_I47M,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,I47M,1.7,0.66,-0.03,00,--,nn,0,E,buried,D,0,0,0,0
+938,P69543_V35M,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,V35M,1.1,1.09,0.03,00,--,nn,1,E,buried,D,0,0,0,SI
+967,P00648_Y64F,Ribonuclease,Bacillus amyloliquefaciens,P00648,Y64F,0.44,-0.59,-0.05,00,0-,pn,0,H,exposed,N,0,1,1,0
+982,P69543_E30M,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,E30M,-0.7,0.19,-0.92,-0,+-,pn,1,E,buried,SS,1,1,1,SI
+984,P69543_D36C,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,D36C,2.0,0.29,-1.76,-0,+-,pn,0,E,exposed,HD,1,1,1,0
+987,P69543_D50H,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,D50H,1.5,0.12,-0.66,-+,+0,pp,1,T,exposed,D,1,1,0,SI
+992,P69543_V70P,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,V70P,5.0,0.29,-0.73,00,-0,nn,-1,E,exposed,HD,0,1,0,SD
+1007,P02633_E21Q,Protein S100-G,Bos taurus,P02633,E21Q,-0.38,-0.31,-0.63,-0,++,pp,0,C,exposed,N,1,0,0,0
+1008,P02633_D23N,Protein S100-G,Bos taurus,P02633,D23N,-0.74,-0.86,-2.53,-0,++,pp,0,T,exposed,SS,1,0,0,0
+1009,P02633_E30Q,Protein S100-G,Bos taurus,P02633,E30Q,-0.09,0.24,0.27,-0,++,pp,0,H,exposed,N,1,0,0,0
+1021,P00644_L89A,Thermonuclease,Staphylococcus aureus,P00644,L89A,1.6,-0.5,-20.3,00,--,nn,-3,C,buried,D,0,0,0,LD
+1022,P00644_L89G,Thermonuclease,Staphylococcus aureus,P00644,L89G,1.5,-0.64,-11.26,00,-0,nn,-3,C,buried,D,0,1,0,LD
+1024,P00644_L96G,Thermonuclease,Staphylococcus aureus,P00644,L96G,3.7,-0.53,-2.79,00,-0,nn,-3,E,buried,HD,0,1,0,LD
+1025,P00644_L107A,Thermonuclease,Staphylococcus aureus,P00644,L107A,2.7,-0.5,-0.06,00,--,nn,-3,E,buried,HD,0,0,0,LD
+1027,P00644_L118A,Thermonuclease,Staphylococcus aureus,P00644,L118A,3.55,-0.76,-0.06,00,--,nn,-3,E,buried,HD,0,0,0,LD
+1028,P00644_L118G,Thermonuclease,Staphylococcus aureus,P00644,L118G,5.35,-0.75,-0.24,00,-0,nn,-3,E,buried,HD,0,1,0,LD
+1029,P00644_L119A,Thermonuclease,Staphylococcus aureus,P00644,L119A,1.75,0.07,-0.53,00,--,nn,-3,T,buried,D,0,0,0,LD
+1030,P00644_L119G,Thermonuclease,Staphylococcus aureus,P00644,L119G,3.85,0.53,-0.54,00,-0,nn,-3,T,buried,HD,0,1,0,LD
+1031,P00644_L120A,Thermonuclease,Staphylococcus aureus,P00644,L120A,1.65,-0.08,-0.01,00,--,nn,-3,T,buried,D,0,0,0,LD
+1033,P00644_L171A,Thermonuclease,Staphylococcus aureus,P00644,L171A,2.6,-0.21,-0.23,00,--,nn,-3,E,buried,HD,0,0,0,LD
+1036,P00644_L185G,Thermonuclease,Staphylococcus aureus,P00644,L185G,6.6,0.12,-0.09,00,-0,nn,-3,H,buried,HD,0,1,0,LD
+1038,P00644_L190G,Thermonuclease,Staphylococcus aureus,P00644,L190G,7.2,-0.31,-0.51,00,-0,nn,-3,C,buried,HD,0,1,0,LD
+1039,P00644_L207A,Thermonuclease,Staphylococcus aureus,P00644,L207A,4.9,-0.29,-0.23,00,--,nn,-3,H,buried,HD,0,0,0,LD
+1045,P00644_V121A,Thermonuclease,Staphylococcus aureus,P00644,V121A,2.2,-0.41,0.28,00,--,nn,-2,E,buried,HD,0,0,0,SD
+1046,P00644_V121G,Thermonuclease,Staphylococcus aureus,P00644,V121G,4.7,-0.03,-1.65,00,-0,nn,-2,E,buried,HD,0,1,0,SD
+1047,P00644_V133A,Thermonuclease,Staphylococcus aureus,P00644,V133A,0.25,0.24,1.74,00,--,nn,-2,C,exposed,N,0,0,0,SD
+1048,P00644_V133G,Thermonuclease,Staphylococcus aureus,P00644,V133G,0.35,-0.9,-2.73,00,-0,nn,-2,C,exposed,N,0,1,0,SD
+1049,P00644_V148A,Thermonuclease,Staphylococcus aureus,P00644,V148A,2.2,-0.08,-0.43,00,--,nn,-2,H,buried,HD,0,0,0,SD
+1050,P00644_V148G,Thermonuclease,Staphylococcus aureus,P00644,V148G,4.4,-0.3,-0.86,00,-0,nn,-2,H,buried,HD,0,1,0,SD
+1051,P00644_V156A,Thermonuclease,Staphylococcus aureus,P00644,V156A,3.1,-0.55,-0.05,00,--,nn,-2,E,buried,HD,0,0,0,SD
+1052,P00644_V156G,Thermonuclease,Staphylococcus aureus,P00644,V156G,6.6,0.23,-0.12,00,-0,nn,-2,E,buried,HD,0,1,0,SD
+1053,P00644_V181A,Thermonuclease,Staphylococcus aureus,P00644,V181A,3.2,-0.34,-0.09,00,--,nn,-2,H,buried,HD,0,0,0,SD
+1055,P00644_V186A,Thermonuclease,Staphylococcus aureus,P00644,V186A,2.9,0.02,-0.02,00,--,nn,-2,H,buried,HD,0,0,0,SD
+1056,P00644_V186G,Thermonuclease,Staphylococcus aureus,P00644,V186G,6.5,-0.04,-0.36,00,-0,nn,-2,H,buried,HD,0,1,0,SD
+1057,P00644_V193A,Thermonuclease,Staphylococcus aureus,P00644,V193A,4.45,-0.77,-0.53,00,--,nn,-2,E,buried,HD,0,0,0,SD
+1058,P00644_V193G,Thermonuclease,Staphylococcus aureus,P00644,V193G,4.9,-0.55,-2.15,00,-0,nn,-2,E,buried,HD,0,1,0,SD
+1061,P00644_I97V,Thermonuclease,Staphylococcus aureus,P00644,I97V,0.8,-0.63,0.09,00,--,nn,-1,E,exposed,SD,0,0,0,SD
+1062,P00644_I97A,Thermonuclease,Staphylococcus aureus,P00644,I97A,2.65,-0.41,-0.36,00,--,nn,-3,E,exposed,HD,0,0,0,LD
+1063,P00644_I97G,Thermonuclease,Staphylococcus aureus,P00644,I97G,3.3,-0.11,-0.9,00,-0,nn,-3,E,exposed,HD,0,1,0,LD
+1064,P00644_I100V,Thermonuclease,Staphylococcus aureus,P00644,I100V,1.1,0.03,0.31,00,--,nn,-1,C,exposed,D,0,0,0,SD
+1066,P00644_I100G,Thermonuclease,Staphylococcus aureus,P00644,I100G,2.55,1.12,-4.58,00,-0,nn,-3,C,exposed,HD,0,1,0,LD
+1067,P00644_I154V,Thermonuclease,Staphylococcus aureus,P00644,I154V,1.8,-0.48,-0.03,00,--,nn,-1,E,buried,D,0,0,0,SD
+1070,P00644_I174V,Thermonuclease,Staphylococcus aureus,P00644,I174V,0.45,-0.26,0.05,00,--,nn,-1,E,buried,N,0,0,0,SD
+1071,P00644_I174A,Thermonuclease,Staphylococcus aureus,P00644,I174A,4.0,0.06,0.0,00,--,nn,-3,E,buried,HD,0,0,0,LD
+1074,P00644_I221A,Thermonuclease,Staphylococcus aureus,P00644,I221A,3.5,-0.86,-2.96,00,--,nn,-3,G,buried,HD,0,0,0,LD
+1075,P00644_I221G,Thermonuclease,Staphylococcus aureus,P00644,I221G,4.4,-0.69,-2.45,00,-0,nn,-3,G,buried,HD,0,1,0,LD
+1076,P00644_M108A,Thermonuclease,Staphylococcus aureus,P00644,M108A,1.5,-0.63,-0.08,00,--,nn,-3,E,exposed,D,0,0,0,LD
+1077,P00644_M108G,Thermonuclease,Staphylococcus aureus,P00644,M108G,2.2,-0.61,-0.23,00,-0,nn,-3,E,exposed,HD,0,1,0,LD
+1078,P00644_M114A,Thermonuclease,Staphylococcus aureus,P00644,M114A,1.7,-0.03,0.08,00,--,nn,-3,E,buried,D,0,0,0,LD
+1079,P00644_M114G,Thermonuclease,Staphylococcus aureus,P00644,M114G,2.4,-0.29,-0.04,00,-0,nn,-3,E,buried,HD,0,1,0,LD
+1080,P00644_M147A,Thermonuclease,Staphylococcus aureus,P00644,M147A,2.0,0.81,-0.08,00,--,nn,-3,H,buried,HD,0,0,0,LD
+1082,P00644_M180A,Thermonuclease,Staphylococcus aureus,P00644,M180A,4.6,0.06,-0.1,00,--,nn,-3,E,buried,HD,0,0,0,LD
+1083,P00644_M180G,Thermonuclease,Staphylococcus aureus,P00644,M180G,4.5,0.38,-0.22,00,-0,nn,-3,E,buried,HD,0,1,0,LD
+1084,P00644_Y109G,Thermonuclease,Staphylococcus aureus,P00644,Y109G,5.45,-0.81,-6.82,00,00,pn,-4,E,buried,HD,0,0,1,LD
+1086,P00644_Y136G,Thermonuclease,Staphylococcus aureus,P00644,Y136G,1.85,-0.68,-4.07,00,00,pn,-4,T,buried,HD,0,0,1,LD
+1087,P00644_Y167A,Thermonuclease,Staphylococcus aureus,P00644,Y167A,0.4,0.32,-0.73,00,0-,pn,-4,T,exposed,N,0,1,1,LD
+1089,P00644_Y173A,Thermonuclease,Staphylococcus aureus,P00644,Y173A,5.3,0.05,0.06,00,0-,pn,-4,E,buried,HD,0,1,1,LD
+1090,P00644_Y173G,Thermonuclease,Staphylococcus aureus,P00644,Y173G,6.7,-0.6,-0.22,00,00,pn,-4,E,buried,HD,0,0,1,LD
+1091,P00644_Y175A,Thermonuclease,Staphylococcus aureus,P00644,Y175A,6.5,-0.31,-0.08,00,0-,pn,-4,E,buried,HD,0,1,1,LD
+1092,P00644_Y175G,Thermonuclease,Staphylococcus aureus,P00644,Y175G,7.5,-0.48,-0.16,00,00,pn,-4,E,buried,HD,0,0,1,LD
+1093,P00644_Y195A,Thermonuclease,Staphylococcus aureus,P00644,Y195A,-0.05,0.19,-0.87,00,0-,pn,-4,C,exposed,N,0,1,1,LD
+1095,P00644_Y197A,Thermonuclease,Staphylococcus aureus,P00644,Y197A,0.3,-0.02,-2.81,00,0-,pn,-4,B,exposed,N,0,1,1,LD
+1096,P00644_Y197G,Thermonuclease,Staphylococcus aureus,P00644,Y197G,0.7,-0.26,-3.6,00,00,pn,-4,B,exposed,SD,0,0,1,LD
+1097,P00644_F116A,Thermonuclease,Staphylococcus aureus,P00644,F116A,3.7,-0.27,-0.01,00,--,nn,-4,E,buried,HD,0,0,0,LD
+1098,P00644_F116G,Thermonuclease,Staphylococcus aureus,P00644,F116G,6.2,-0.3,-0.38,00,-0,nn,-4,E,buried,HD,0,1,0,LD
+1100,P00644_F143G,Thermonuclease,Staphylococcus aureus,P00644,F143G,4.75,0.07,-1.0,00,-0,nn,-4,H,buried,HD,0,1,0,LD
+1101,P00644_F158A,Thermonuclease,Staphylococcus aureus,P00644,F158A,4.05,0.12,-0.13,00,--,nn,-4,E,buried,HD,0,0,0,LD
+1103,P00644_Y109A,Thermonuclease,Staphylococcus aureus,P00644,Y109A,-4.2,-0.21,-1.64,00,0-,pn,-4,E,buried,HS,0,1,1,LD
+1149,P00644_E155A,Thermonuclease,Staphylococcus aureus,P00644,E155A,1.6,-0.4,-0.03,-0,+-,pn,-2,E,buried,D,1,1,1,SD
+1154,P00644_G161S,Thermonuclease,Staphylococcus aureus,P00644,G161S,2.64,-0.24,-3.25,00,00,np,0,C,buried,HD,0,0,1,0
+1157,P00644_A172S,Thermonuclease,Staphylococcus aureus,P00644,A172S,2.0,0.15,-0.06,00,-0,np,0,E,buried,HD,0,1,1,0
+1159,P00644_D177A,Thermonuclease,Staphylococcus aureus,P00644,D177A,3.6,-0.19,-0.55,-0,+-,pn,-1,T,exposed,HD,1,1,1,SD
+1160,P00644_D177G,Thermonuclease,Staphylococcus aureus,P00644,D177G,3.1,-0.17,-0.49,-0,+0,pn,-1,T,exposed,HD,1,1,1,SD
+1162,P00644_N200D,Thermonuclease,Staphylococcus aureus,P00644,N200D,2.45,-0.42,-2.43,0-,++,pp,0,B,buried,HD,1,0,0,0
+1254,P00648_T53S,Ribonuclease,Bacillus amyloliquefaciens,P00648,T53S,0.22,-0.34,-0.04,00,00,pp,-1,C,exposed,N,0,0,0,SD
+1257,P00648_T53N,Ribonuclease,Bacillus amyloliquefaciens,P00648,T53N,1.27,-0.61,-0.09,00,0+,pp,0,C,exposed,D,0,1,0,0
+1258,P00648_T53D,Ribonuclease,Bacillus amyloliquefaciens,P00648,T53D,-0.11,-0.53,-0.05,0-,0+,pp,0,C,exposed,N,1,1,0,0
+1259,P00648_T53Q,Ribonuclease,Bacillus amyloliquefaciens,P00648,T53Q,1.87,-0.99,-0.09,00,0+,pp,1,C,exposed,HD,0,1,0,SI
+1261,P00648_T73S,Ribonuclease,Bacillus amyloliquefaciens,P00648,T73S,0.56,-0.66,-0.03,00,00,pp,-1,C,buried,SD,0,0,0,SD
+1266,P00648_T73Q,Ribonuclease,Bacillus amyloliquefaciens,P00648,T73Q,1.72,-0.75,-0.08,00,0+,pp,1,C,buried,D,0,1,0,SI
+1267,P00648_T73E,Ribonuclease,Bacillus amyloliquefaciens,P00648,T73E,0.05,-0.75,-0.11,0-,0+,pp,1,C,buried,N,1,1,0,SI
+1376,P0AA25_P77A,Thioredoxin 1,Escherichia coli (strain K12),P0AA25,P77A,3.9,-0.45,-2.73,00,0-,nn,-1,T,buried,HD,0,1,0,SD
+1415,P02633_P24G,Protein S100-G,Bos taurus,P02633,P24G,1.19,-1.05,-5.39,00,00,nn,-1,T,exposed,D,0,0,0,SD
+1416,P02633_Y17F,Protein S100-G,Bos taurus,P02633,Y17F,1.19,-0.32,-0.39,00,0-,pn,0,H,buried,D,0,1,1,0
+1426,P00644_I100M,Thermonuclease,Staphylococcus aureus,P00644,I100M,0.6,0.15,-1.14,00,--,nn,0,C,exposed,SD,0,0,0,0
+1502,P0AE67_F14N,Chemotaxis protein CheY,Escherichia coli (strain K12),P0AE67,F14N,-2.9,-0.13,-0.15,00,-+,np,-3,C,exposed,HS,0,1,1,LD
+1513,P0AE67_A80G,Chemotaxis protein CheY,Escherichia coli (strain K12),P0AE67,A80G,-0.6,-0.37,-0.36,00,-0,nn,0,T,exposed,SS,0,1,0,0
+1515,P0AE67_A48G,Chemotaxis protein CheY,Escherichia coli (strain K12),P0AE67,A48G,-0.2,-0.26,-2.0,00,-0,nn,0,H,exposed,N,0,1,0,0
+1516,P0AE67_A88G,Chemotaxis protein CheY,Escherichia coli (strain K12),P0AE67,A88G,-0.1,-0.05,-0.15,00,-0,nn,0,C,exposed,N,0,1,0,0
+1518,P0AE67_A74G,Chemotaxis protein CheY,Escherichia coli (strain K12),P0AE67,A74G,0.3,-0.14,-0.45,00,-0,nn,0,H,exposed,N,0,1,0,0
+1519,P0AE67_A77G,Chemotaxis protein CheY,Escherichia coli (strain K12),P0AE67,A77G,0.3,-0.15,-0.78,00,-0,nn,0,T,exposed,N,0,1,0,0
+1521,P0AE67_A114G,Chemotaxis protein CheY,Escherichia coli (strain K12),P0AE67,A114G,0.5,-0.16,0.81,00,-0,nn,0,H,exposed,SD,0,1,0,0
+1522,P0AE67_A113G,Chemotaxis protein CheY,Escherichia coli (strain K12),P0AE67,A113G,0.8,0.09,4.38,00,-0,nn,0,H,exposed,SD,0,1,0,0
+1528,P01053_K22A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,K22A,0.8,-0.79,-8.73,+0,+-,pn,-3,T,exposed,SD,1,1,1,LD
+1531,P01053_P26A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,P26A,-0.92,-0.58,-0.28,00,0-,nn,-1,G,exposed,S,0,1,0,SD
+1532,P01053_E27A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,E27A,0.75,-0.49,-0.37,-0,+-,pn,-2,G,exposed,SD,1,1,1,SD
+1533,P01053_E27Q,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,E27Q,0.6,-0.53,-0.22,-0,++,pp,0,G,exposed,SD,1,0,0,0
+1534,P01053_K31A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,K31A,0.39,-0.33,-0.05,+0,+-,pn,-3,E,exposed,N,1,1,1,LD
+1535,P01053_S32G,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,S32G,0.43,-0.59,-0.13,00,00,pn,0,E,exposed,N,0,0,1,0
+1537,P01053_E34Q,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,E34Q,0.34,-0.49,-0.09,-0,++,pp,0,H,exposed,N,1,0,0,0
+1538,P01053_E34D,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,E34D,0.64,-0.38,0.08,--,++,pp,-1,H,exposed,SD,0,0,0,SD
+1539,P01053_E34N,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,E34N,0.49,0.33,-0.05,-0,++,pp,-1,H,exposed,SD,1,0,0,SD
+1541,P01053_E35D,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,E35D,0.19,-0.69,-0.5,--,++,pp,-1,H,exposed,N,0,0,0,SD
+1542,P01053_E35N,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,E35N,0.57,0.21,-0.27,-0,++,pp,-1,H,exposed,SD,1,0,0,SD
+1543,P01053_A36G,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,A36G,1.25,-0.06,-0.31,00,-0,nn,0,H,buried,D,0,1,0,0
+1544,P01053_K37A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,K37A,0.81,-0.24,-0.18,+0,+-,pn,-3,H,exposed,SD,1,1,1,LD
+1545,P01053_K37G,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,K37G,2.16,-0.35,-0.39,+0,+0,pn,-3,H,exposed,HD,1,1,1,LD
+1546,P01053_K38A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,K38A,0.39,-0.2,-0.01,+0,+-,pn,-3,H,exposed,N,1,1,1,LD
+1547,P01053_K38G,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,K38G,1.28,-0.54,-0.56,+0,+0,pn,-3,H,exposed,D,1,1,1,LD
+1548,P01053_V39A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,V39A,0.28,-0.27,-0.24,00,--,nn,-2,H,buried,N,0,0,0,SD
+1549,P01053_I40V,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,I40V,1.14,-0.19,-0.42,00,--,nn,-1,H,buried,D,0,0,0,SD
+1551,P01053_L41G,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,L41G,1.74,-0.41,-0.54,00,-0,nn,-3,H,exposed,D,0,1,0,LD
+1552,P01053_Q42A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,Q42A,0.28,-0.64,0.1,00,+-,pn,-2,H,exposed,N,0,1,1,SD
+1553,P01053_Q42G,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,Q42G,0.76,-0.27,0.46,00,+0,pn,-2,H,exposed,SD,0,1,1,SD
+1554,P01053_D43A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,D43A,1.0,-0.25,-1.59,-0,+-,pn,-1,H,exposed,D,1,1,1,SD
+1556,P01053_K44G,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,K44G,3.34,-0.32,-2.79,+0,+0,pn,-3,T,buried,HD,1,1,1,LD
+1557,P01053_P45A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,P45A,1.49,-0.36,-0.31,00,0-,nn,-1,T,exposed,D,0,1,0,SD
+1558,P01053_E46A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,E46A,0.55,-0.41,-0.67,-0,+-,pn,-2,T,exposed,SD,1,1,1,SD
+1559,P01053_L52A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,L52A,2.06,-0.8,-0.57,00,--,nn,-3,E,buried,HD,0,0,0,LD
+1561,P01053_L52V,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,L52V,0.76,-0.4,-0.64,00,--,nn,-1,E,buried,SD,0,0,0,SD
+1563,P01053_T56S,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,T56S,0.5,-0.39,-0.26,00,00,pp,-1,T,exposed,SD,0,0,0,SD
+1564,P01053_T56V,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,T56V,1.16,-0.39,-0.61,00,0-,pn,1,T,exposed,D,0,1,1,SI
+1565,P01053_T56A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,T56A,0.6,-0.42,-0.83,00,0-,pn,-1,T,exposed,SD,0,1,1,SD
+1566,P01053_I57A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,I57A,0.66,-0.5,0.1,00,--,nn,-3,C,exposed,SD,0,0,0,LD
+1568,P01053_E61A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,E61A,0.91,-0.49,-0.46,-0,+-,pn,-2,C,exposed,SD,1,1,1,SD
+1571,P01053_F70L,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,F70L,2.02,-0.43,-0.32,00,--,nn,-1,E,buried,HD,0,0,0,SD
+1572,P01053_F70V,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,F70V,1.9,-0.44,-0.27,00,--,nn,-2,E,buried,HD,0,0,0,SD
+1573,P01053_F70A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,F70A,3.52,-0.62,0.07,00,--,nn,-4,E,buried,HD,0,0,0,LD
+1574,P01053_D72A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,D72A,3.28,-1.42,-3.38,-0,+-,pn,-1,T,exposed,HD,1,1,1,SD
+1578,P01053_P81A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,P81A,3.42,-0.38,-0.61,00,0-,nn,-1,C,buried,HD,0,1,0,SD
+1664,P69543_M77I,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,M77I,1.6,1.44,1.45,00,--,nn,0,E,exposed,D,0,0,0,0
+1665,P69543_M77V,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,M77V,1.2,0.72,1.04,00,--,nn,-1,E,exposed,D,0,0,0,SD
+1666,P69543_C33A,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,C33A,0.5,1.79,0.68,00,--,nn,-1,E,buried,SD,0,0,0,SD
+1668,P69543_C33L,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,C33L,2.6,1.32,0.34,00,--,nn,2,E,buried,HD,0,0,0,SI
+1671,P69543_V35T,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,V35T,5.3,1.05,0.12,00,-0,np,-1,E,buried,HD,0,1,1,SD
+1672,P69543_L37A,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,L37A,7.7,0.59,-1.28,00,--,nn,-3,C,exposed,HD,0,0,0,LD
+1673,P69543_L37C,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,L37C,4.6,0.03,-2.34,00,--,nn,-2,C,exposed,HD,0,0,0,SD
+1674,P69543_L37I,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,L37I,1.4,0.39,-0.43,00,--,nn,0,C,exposed,D,0,0,0,0
+1675,P69543_L37T,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,L37T,5.2,1.08,0.44,00,-0,np,-2,C,exposed,HD,0,1,1,SD
+1676,P69543_L37V,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,L37V,3.5,1.11,0.45,00,--,nn,-1,C,exposed,HD,0,0,0,SD
+1678,P69543_V45L,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,V45L,3.0,0.2,-0.72,00,--,nn,1,E,exposed,HD,0,0,0,SI
+1681,P69543_L49A,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,L49A,6.1,0.43,-2.23,00,--,nn,-3,E,buried,HD,0,0,0,LD
+1682,P69543_L49C,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,L49C,4.1,-1.42,-3.75,00,--,nn,-2,E,buried,HD,0,0,0,SD
+1686,P69543_V63C,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,V63C,4.1,1.45,-0.15,00,--,nn,-1,E,buried,HD,0,0,0,SD
+1687,P69543_V63T,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,V63T,5.0,1.09,-0.48,00,-0,np,-1,E,buried,HD,0,1,1,SD
+1688,P69543_S67C,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,S67C,3.7,0.8,-1.66,00,0-,pn,1,G,buried,HD,0,1,1,SI
+1689,P69543_S67T,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,S67T,1.6,1.06,0.37,00,00,pp,1,G,buried,D,0,0,0,SI
+1690,P69543_F68V,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,F68V,5.0,0.84,-0.59,00,--,nn,-2,E,exposed,HD,0,0,0,SD
+1691,P69543_I78C,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,I78C,4.4,0.74,1.51,00,--,nn,-2,E,exposed,HD,0,0,0,SD
+1692,P69543_I78T,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,I78T,6.6,0.43,0.78,00,-0,np,-2,E,exposed,HD,0,1,1,SD
+1693,P69543_I78V,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,I78V,1.3,0.76,2.78,00,--,nn,-1,E,exposed,D,0,0,0,SD
+1696,P69543_L81V,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,L81V,0.2,1.87,3.09,00,--,nn,-1,T,buried,N,0,0,0,SD
+1697,P69543_V19C,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,V19C,0.3,0.61,1.73,00,--,nn,-1,E,exposed,N,0,0,0,SD
+1698,P69543_V19T,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,V19T,0.6,1.2,3.89,00,-0,np,-1,E,exposed,SD,0,1,1,SD
+1699,P69543_K24V,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,K24V,-0.8,1.09,2.53,+0,+-,pn,-1,C,exposed,SS,1,1,1,SD
+1702,P69543_E30N,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,E30N,1.1,0.75,0.17,-0,++,pp,-1,E,buried,D,1,0,0,SD
+1707,P69543_E40C,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,E40C,1.6,-0.5,-1.47,-0,+-,pn,-1,T,exposed,D,1,1,1,SD
+1710,P69543_V43C,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,V43C,2.1,0.36,-0.69,00,--,nn,-1,E,exposed,HD,0,0,0,SD
+1713,P69543_T48V,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,T48V,-0.0,1.0,1.23,00,0-,pn,1,E,exposed,N,0,1,1,SI
+1715,P69543_T62C,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,T62C,0.7,-0.07,-0.12,00,0-,pn,0,E,buried,SD,0,1,1,0
+1716,P69543_T62V,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,T62V,-1.3,1.13,-0.08,00,0-,pn,1,E,buried,S,0,1,1,SI
+1721,P69543_V70T,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,V70T,3.5,0.97,0.39,00,-0,np,-1,E,exposed,HD,0,1,1,SD
+1722,P69543_M77A,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,M77A,2.1,0.45,-0.33,00,--,nn,-3,E,exposed,HD,0,0,0,LD
+1724,P69543_M77F,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,M77F,0.2,0.98,0.17,00,--,nn,1,E,exposed,N,0,0,0,SI
+1725,P69543_M77L,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,M77L,1.2,1.37,1.22,00,--,nn,0,E,exposed,D,0,0,0,0
+1726,P69543_M77T,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,M77T,0.8,1.26,0.49,00,-0,np,-2,E,exposed,SD,0,1,1,SD
+1730,P69543_V45C,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,V45C,-0.0,1.15,0.22,00,--,nn,-1,E,exposed,N,0,0,0,SD
+1732,P69543_C33V,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,C33V,0.2,1.41,0.47,00,--,nn,1,E,buried,N,0,0,0,SI
+1733,P69543_Y41F,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,Y41F,0.6,1.97,0.98,00,0-,pn,0,T,exposed,SD,0,1,1,0
+1779,P00004_H34F,"Cytochrome c, somatic",Rattus norvegicus,P00004,H34F,-0.67,0.06,-0.05,+0,0-,pn,2,T,buried,SS,1,1,1,SI
+1780,P00004_P31A,"Cytochrome c, somatic",Rattus norvegicus,P00004,P31A,5.74,0.12,-0.05,00,0-,nn,-1,T,buried,HD,0,1,0,SD
+1781,P00004_P31V,"Cytochrome c, somatic",Rattus norvegicus,P00004,P31V,5.0,-0.12,-0.79,00,0-,nn,1,T,buried,HD,0,1,0,SI
+1797,P00644_V186T,Thermonuclease,Staphylococcus aureus,P00644,V186T,2.5,0.12,0.03,00,-0,np,-1,H,buried,HD,0,1,1,SD
+1798,P00644_V193T,Thermonuclease,Staphylococcus aureus,P00644,V193T,2.3,-0.24,-0.07,00,-0,np,-1,E,buried,HD,0,1,1,SD
+1804,P00644_V156S,Thermonuclease,Staphylococcus aureus,P00644,V156S,5.4,-0.15,-0.19,00,-0,np,-2,E,buried,HD,0,1,1,SD
+1806,P00644_V186S,Thermonuclease,Staphylococcus aureus,P00644,V186S,4.9,-0.29,-0.04,00,-0,np,-2,H,buried,HD,0,1,1,SD
+1807,P00644_V193S,Thermonuclease,Staphylococcus aureus,P00644,V193S,4.8,-0.13,-1.71,00,-0,np,-2,E,buried,HD,0,1,1,SD
+1808,P00644_V196S,Thermonuclease,Staphylococcus aureus,P00644,V196S,-0.0,-0.25,-1.69,00,-0,np,-2,C,exposed,N,0,1,1,SD
+1809,P00644_Y109F,Thermonuclease,Staphylococcus aureus,P00644,Y109F,-0.4,-0.25,0.1,00,0-,pn,0,E,buried,N,0,1,1,0
+1812,P00644_Y173F,Thermonuclease,Staphylococcus aureus,P00644,Y173F,2.4,0.08,0.0,00,0-,pn,0,E,buried,HD,0,1,1,0
+1813,P00644_Y175F,Thermonuclease,Staphylococcus aureus,P00644,Y175F,2.0,0.67,0.01,00,0-,pn,0,E,buried,HD,0,1,1,0
+1814,P00644_Y195F,Thermonuclease,Staphylococcus aureus,P00644,Y195F,-0.0,-0.68,-1.15,00,0-,pn,0,C,exposed,N,0,1,1,0
+1815,P00644_Y197F,Thermonuclease,Staphylococcus aureus,P00644,Y197F,-0.1,-0.27,-0.22,00,0-,pn,0,B,exposed,N,0,1,1,0
+1817,P00644_Y136L,Thermonuclease,Staphylococcus aureus,P00644,Y136L,3.4,-0.7,3.22,00,0-,pn,-1,T,buried,HD,0,1,1,SD
+1818,P00644_Y167L,Thermonuclease,Staphylococcus aureus,P00644,Y167L,0.1,-0.14,-1.54,00,0-,pn,-1,T,exposed,N,0,1,1,SD
+1819,P00644_Y173L,Thermonuclease,Staphylococcus aureus,P00644,Y173L,3.9,0.04,0.01,00,0-,pn,-1,E,buried,HD,0,1,1,SD
+1820,P00644_Y175L,Thermonuclease,Staphylococcus aureus,P00644,Y175L,4.5,-0.73,-0.06,00,0-,pn,-1,E,buried,HD,0,1,1,SD
+1821,P00644_Y195L,Thermonuclease,Staphylococcus aureus,P00644,Y195L,-0.2,-0.48,-1.52,00,0-,pn,-1,C,exposed,N,0,1,1,SD
+1827,P00644_T126S,Thermonuclease,Staphylococcus aureus,P00644,T126S,-0.0,-0.39,5.0,00,00,pp,-1,T,buried,N,0,0,0,SD
+1828,P00644_T144S,Thermonuclease,Staphylococcus aureus,P00644,T144S,2.1,-0.51,-0.67,00,00,pp,-1,H,buried,HD,0,0,0,SD
+1829,P00644_T164S,Thermonuclease,Staphylococcus aureus,P00644,T164S,0.7,-0.22,0.32,00,00,pp,-1,B,exposed,SD,0,0,0,SD
+1832,P00644_T104V,Thermonuclease,Staphylococcus aureus,P00644,T104V,0.9,-0.41,-0.49,00,0-,pn,1,E,buried,SD,0,1,1,SI
+1834,P00644_T123V,Thermonuclease,Staphylococcus aureus,P00644,T123V,-0.8,-0.8,-0.09,00,0-,pn,1,C,buried,SS,0,1,1,SI
+1835,P00644_T126V,Thermonuclease,Staphylococcus aureus,P00644,T126V,-0.1,-0.34,3.06,00,0-,pn,1,T,buried,N,0,1,1,SI
+1836,P00644_T144V,Thermonuclease,Staphylococcus aureus,P00644,T144V,0.2,-0.58,-0.24,00,0-,pn,1,H,buried,N,0,1,1,SI
+1838,P00644_T202V,Thermonuclease,Staphylococcus aureus,P00644,T202V,1.8,-0.39,-0.28,00,0-,pn,1,C,exposed,D,0,1,1,SI
+1839,P00644_T95C,Thermonuclease,Staphylococcus aureus,P00644,T95C,1.4,-0.15,-0.12,00,0-,pn,0,E,exposed,D,0,1,1,0
+1841,P00644_T115C,Thermonuclease,Staphylococcus aureus,P00644,T115C,1.2,-0.4,-0.04,00,0-,pn,0,E,buried,D,0,1,1,0
+1842,P00644_T123C,Thermonuclease,Staphylococcus aureus,P00644,T123C,-0.6,-0.4,-0.63,00,0-,pn,0,C,buried,SS,0,1,1,0
+1844,P00644_T144C,Thermonuclease,Staphylococcus aureus,P00644,T144C,1.1,-0.67,0.03,00,0-,pn,0,H,buried,D,0,1,1,0
+1846,P00644_T202C,Thermonuclease,Staphylococcus aureus,P00644,T202C,1.7,0.18,-0.35,00,0-,pn,0,C,exposed,D,0,1,1,0
+1848,P00644_V133T,Thermonuclease,Staphylococcus aureus,P00644,V133T,-0.2,-0.63,1.87,00,-0,np,-1,C,exposed,N,0,1,1,SD
+1849,P00644_V121T,Thermonuclease,Staphylococcus aureus,P00644,V121T,1.3,0.49,-0.47,00,-0,np,-1,E,buried,D,0,1,1,SD
+1850,P00644_V148T,Thermonuclease,Staphylococcus aureus,P00644,V148T,1.3,-0.46,-0.01,00,-0,np,-1,H,buried,D,0,1,1,SD
+1852,P00644_V156T,Thermonuclease,Staphylococcus aureus,P00644,V156T,3.8,-0.82,-0.03,00,-0,np,-1,E,buried,HD,0,1,1,SD
+1864,P07170_N171D,Adenylate kinase,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),P07170,N171D,2.15,-0.08,-3.85,0-,++,pp,0,C,exposed,HD,1,0,0,0
+1865,P07170_T79H,Adenylate kinase,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),P07170,T79H,2.15,0.1,-0.21,0+,00,pp,1,H,exposed,HD,1,0,0,SI
+1866,P07170_V10I,Adenylate kinase,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),P07170,V10I,1.2,0.1,-0.02,00,--,nn,1,E,buried,D,0,0,0,SI
+1880,P00974_G47V,Pancreatic trypsin inhibitor,Bos taurus,P00974,G47V,4.1,-0.02,-14.02,00,0-,nn,2,C,buried,HD,0,1,0,SI
+1881,P00974_P48A,Pancreatic trypsin inhibitor,Bos taurus,P00974,P48A,1.6,0.09,-0.37,00,0-,nn,-1,C,exposed,D,0,1,0,SD
+1883,P00974_A51T,Pancreatic trypsin inhibitor,Bos taurus,P00974,A51T,1.7,0.27,-0.38,00,-0,np,1,C,exposed,D,0,1,1,SI
+1884,P00974_A51V,Pancreatic trypsin inhibitor,Bos taurus,P00974,A51V,1.3,0.55,-0.71,00,--,nn,2,C,exposed,D,0,0,0,SI
+1886,P00974_F68L,Pancreatic trypsin inhibitor,Bos taurus,P00974,F68L,1.3,0.22,-0.11,00,--,nn,-1,E,buried,D,0,0,0,SD
+1887,P00974_Y70A,Pancreatic trypsin inhibitor,Bos taurus,P00974,Y70A,4.7,0.28,-0.1,00,0-,pn,-4,E,buried,HD,0,1,1,LD
+1888,P00974_Y70D,Pancreatic trypsin inhibitor,Bos taurus,P00974,Y70D,3.8,0.24,-0.15,0-,0+,pp,-3,E,buried,HD,1,1,0,LD
+1889,P00974_Y70F,Pancreatic trypsin inhibitor,Bos taurus,P00974,Y70F,0.6,0.6,-0.02,00,0-,pn,0,E,buried,SD,0,1,1,0
+1892,P00974_Y70N,Pancreatic trypsin inhibitor,Bos taurus,P00974,Y70N,3.7,-0.11,-0.12,00,0+,pp,-3,E,buried,HD,0,1,0,LD
+1893,P00974_G71D,Pancreatic trypsin inhibitor,Bos taurus,P00974,G71D,2.8,0.3,-0.39,0-,0+,np,1,C,buried,HD,1,1,1,SI
+1894,P00974_G72A,Pancreatic trypsin inhibitor,Bos taurus,P00974,G72A,2.2,-0.37,-0.4,00,0-,nn,0,C,exposed,HD,0,1,0,0
+1933,P01053_I50A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,I50A,2.12,-0.12,-0.12,00,--,nn,-3,E,exposed,HD,0,0,0,LD
+1935,P01053_I50T,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,I50T,1.34,-0.43,-0.15,00,-0,np,-2,E,exposed,D,0,1,1,SD
+1936,P01053_V54T,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,V54T,1.03,-0.45,-1.36,00,-0,np,-1,T,exposed,D,0,1,1,SD
+1937,P01053_V54A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,V54A,0.64,-0.34,-0.59,00,--,nn,-2,T,exposed,SD,0,0,0,SD
+1939,P01053_A78G,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,A78G,1.88,-0.47,-0.28,00,-0,nn,0,C,exposed,HD,0,1,0,0
+1942,P01053_V80G,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,V80G,3.24,-0.62,-0.79,00,-0,nn,-2,C,exposed,HD,0,1,0,SD
+1944,P01053_V83A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,V83A,1.45,-0.67,-1.94,00,--,nn,-2,E,buried,D,0,0,0,SD
+1945,P01053_V83G,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,V83G,3.5,-1.68,-4.98,00,-0,nn,-2,E,buried,HD,0,1,0,SD
+1981,P00044_N58L,Cytochrome c isoform 1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),P00044,N58L,-4.73,-0.42,-1.92,00,+-,pn,2,H,buried,HS,0,1,1,SI
+1982,P00044_N58I,Cytochrome c isoform 1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),P00044,N58I,-4.1,-0.29,-1.07,00,+-,pn,2,H,buried,HS,0,1,1,SI
+1992,P00044_N58V,Cytochrome c isoform 1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),P00044,N58V,-2.02,-0.16,-0.13,00,+-,pn,1,H,buried,HS,0,1,1,SI
+2002,P00044_N58F,Cytochrome c isoform 1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),P00044,N58F,0.06,-0.33,-1.81,00,+-,pn,3,H,buried,N,0,1,1,LI
+2006,P00044_N58Q,Cytochrome c isoform 1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),P00044,N58Q,0.84,-0.07,-0.36,00,++,pp,1,H,buried,SD,0,0,0,SI
+2009,P00044_N58H,Cytochrome c isoform 1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),P00044,N58H,1.7,-0.19,-0.47,0+,+0,pp,1,H,buried,D,1,1,0,SI
+2016,P00044_G12A,Cytochrome c isoform 1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),P00044,G12A,3.5,-2.04,-12.19,00,0-,nn,0,H,buried,HD,0,1,0,0
+2017,P11053_H43R,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P11053,H43R,-2.0,0.64,2.45,++,0+,pp,1,T,exposed,HS,0,1,0,SI
+2019,P0A3C7_F66W,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3C7,F66W,0.6,-0.01,-0.29,00,--,np,0,C,exposed,SD,0,0,1,0
+2020,P0A3C7_T49A,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3C7,T49A,-0.1,0.2,-0.05,00,0-,pn,-1,T,buried,N,0,1,1,SD
+2021,P0A3C7_F66Y,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3C7,F66Y,0.5,0.25,0.12,00,-0,np,0,C,exposed,SD,0,1,1,0
+2022,P0A3C7_E95Q,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3C7,E95Q,-0.6,0.07,-0.68,-0,++,pp,0,G,exposed,SS,1,0,0,0
+2024,P0A3C7_E95D,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3C7,E95D,1.1,0.16,-1.14,--,++,pp,-1,G,exposed,D,0,0,0,SD
+2025,P0A3C7_R43A,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3C7,R43A,2.4,0.13,-1.28,+0,+-,pn,-3,T,exposed,HD,1,1,1,LD
+2026,P0A3C7_F66A,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3C7,F66A,1.0,0.2,-0.56,00,--,nn,-4,C,exposed,D,0,0,0,LD
+2102,P03050_P8L,Transcriptional repressor arc,Salmonella phage P22,P03050,P8L,-2.49,0.77,-1.79,00,0-,nn,2,C,exposed,HS,0,1,0,SI
+2111,P00648_R130Q,Ribonuclease,Bacillus amyloliquefaciens,P00648,R130Q,1.58,-1.18,-0.75,+0,++,pp,-1,C,exposed,D,1,0,0,SD
+2113,P00648_D69M,Ribonuclease,Bacillus amyloliquefaciens,P00648,D69M,0.27,-0.55,-0.37,-0,+-,pn,2,T,exposed,N,1,1,1,SI
+2195,P00644_E157A,Thermonuclease,Staphylococcus aureus,P00644,E157A,-0.3,-0.38,-0.02,-0,+-,pn,-2,E,buried,N,1,1,1,SD
+2196,P00644_K106G,Thermonuclease,Staphylococcus aureus,P00644,K106G,1.7,-0.23,-0.03,+0,+0,pn,-3,E,exposed,D,1,1,1,LD
+2199,P00644_E157G,Thermonuclease,Staphylococcus aureus,P00644,E157G,5.7,-0.65,-0.27,-0,+0,pn,-2,E,buried,HD,1,1,1,SD
+2244,P00044_K78L,Cytochrome c isoform 1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),P00044,K78L,0.03,-0.12,-0.28,+0,+-,pn,0,H,exposed,N,1,1,1,0
+2248,P00044_K78I,Cytochrome c isoform 1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),P00044,K78I,1.19,-0.04,-0.22,+0,+-,pn,0,H,exposed,D,1,1,1,0
+2249,P00044_K78V,Cytochrome c isoform 1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),P00044,K78V,1.38,-0.11,-0.12,+0,+-,pn,-1,H,exposed,D,1,1,1,SD
+2316,P01053_T59D,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,T59D,0.03,-0.37,-0.48,0-,0+,pp,0,C,exposed,N,1,1,0,0
+2317,P01053_T59A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,T59A,0.67,-0.48,-0.65,00,0-,pn,-1,C,exposed,SD,0,1,1,SD
+2393,P00644_V148W,Thermonuclease,Staphylococcus aureus,P00644,V148W,4.9,-0.78,-1.06,00,--,np,2,H,buried,HD,0,0,1,SI
+2407,P00651_Y50W,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,Y50W,-1.24,0.29,-0.04,00,0-,pp,0,H,buried,S,0,1,0,0
+2408,P00651_Y71W,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,Y71W,-0.74,0.0,-0.02,00,0-,pp,0,T,exposed,SS,0,1,0,0
+2410,P00651_Y68W,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,Y68W,0.14,-0.37,-0.3,00,0-,pp,0,E,buried,N,0,1,0,0
+2411,P00651_H66T,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,H66T,0.26,-0.03,-0.33,+0,00,pp,-1,E,exposed,N,1,0,0,SD
+2414,P00651_W85Y,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,W85Y,0.93,-0.05,0.03,00,-0,pp,0,E,buried,D,0,1,0,0
+2488,P02693_I24C,"Fatty acid-binding protein, brain",Rattus norvegicus,P02693,I24C,-0.91,-0.84,-2.01,00,--,nn,-2,C,buried,SS,0,0,0,SD
+2490,P02693_L90C,"Fatty acid-binding protein, brain",Rattus norvegicus,P02693,L90C,0.6,-0.12,-0.58,00,--,nn,-2,E,buried,SD,0,0,0,SD
+2491,P02693_A105C,"Fatty acid-binding protein, brain",Rattus norvegicus,P02693,A105C,-2.54,1.61,0.77,00,--,nn,1,E,buried,HS,0,0,0,SI
+2499,P02693_L73C,"Fatty acid-binding protein, brain",Rattus norvegicus,P02693,L73C,0.14,-0.63,-2.66,00,--,nn,-2,T,buried,N,0,0,0,SD
+2501,P01053_L69A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,L69A,3.69,-0.63,-0.33,00,--,nn,-3,E,buried,HD,0,0,0,LD
+2502,P01053_V71A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,V71A,1.54,-0.14,-0.18,00,--,nn,-2,E,buried,D,0,0,0,SD
+2508,P01053_I49A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,I49A,3.89,-0.26,-1.31,00,--,nn,-3,E,buried,HD,0,0,0,LD
+2514,P01053_I77A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,I77A,4.34,-0.57,-0.1,00,--,nn,-3,E,buried,HD,0,0,0,LD
+2520,P01053_L28A,Subtilisin-chymotrypsin inhibitor-2A,Hordeum vulgare,P01053,L28A,2.28,-0.13,-0.19,00,--,nn,-3,G,buried,HD,0,0,0,LD
+2576,P00644_D103A,Thermonuclease,Staphylococcus aureus,P00644,D103A,-0.7,-0.03,0.56,-0,+-,pn,-1,T,buried,SS,1,1,1,SD
+2579,P00644_K127A,Thermonuclease,Staphylococcus aureus,P00644,K127A,-0.3,-0.35,0.19,+0,+-,pn,-3,T,exposed,N,1,1,1,LD
+2583,P00644_K218G,Thermonuclease,Staphylococcus aureus,P00644,K218G,-0.1,-0.28,-0.26,+0,+0,pn,-3,C,exposed,N,1,1,1,LD
+2585,P00644_E134A,Thermonuclease,Staphylococcus aureus,P00644,E134A,0.1,-0.53,-0.76,-0,+-,pn,-2,T,exposed,N,1,1,1,SD
+2588,P00644_K98A,Thermonuclease,Staphylococcus aureus,P00644,K98A,0.2,0.22,0.33,+0,+-,pn,-3,E,exposed,N,1,1,1,LD
+2589,P00644_K131G,Thermonuclease,Staphylococcus aureus,P00644,K131G,0.2,0.04,3.61,+0,+0,pn,-3,T,exposed,N,1,1,1,LD
+2592,P00644_K131A,Thermonuclease,Staphylococcus aureus,P00644,K131A,0.3,-0.48,5.17,+0,+-,pn,-3,T,exposed,N,1,1,1,LD
+2596,P00644_K218A,Thermonuclease,Staphylococcus aureus,P00644,K218A,0.7,0.21,0.55,+0,+-,pn,-3,C,exposed,SD,1,1,1,LD
+2597,P00644_K110A,Thermonuclease,Staphylococcus aureus,P00644,K110A,0.7,-0.23,-0.44,+0,+-,pn,-3,T,exposed,SD,1,1,1,LD
+2599,P00644_K98G,Thermonuclease,Staphylococcus aureus,P00644,K98G,0.7,-0.36,0.17,+0,+0,pn,-3,E,exposed,SD,1,1,1,LD
+2672,P00648_K66R,Ribonuclease,Bacillus amyloliquefaciens,P00648,K66R,-0.54,-0.02,-0.09,++,++,pp,0,C,exposed,SS,0,0,0,0
+2679,P00648_K113A,Ribonuclease,Bacillus amyloliquefaciens,P00648,K113A,-0.59,-0.91,0.0,+0,+-,pn,-3,T,exposed,SS,1,1,1,LD
+2681,P00648_S132A,Ribonuclease,Bacillus amyloliquefaciens,P00648,S132A,-0.08,-0.61,-0.01,00,0-,pn,0,C,buried,N,0,1,1,0
+2685,P00648_K155R,Ribonuclease,Bacillus amyloliquefaciens,P00648,K155R,-0.84,-0.08,-0.07,++,++,pp,0,E,exposed,SS,0,0,0,0
+2689,P69543_F13T,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,F13T,0.7,0.22,-3.92,00,-0,np,-3,E,exposed,SD,0,1,1,LD
+2690,P69543_L28V,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,L28V,-1.1,1.11,1.94,00,--,nn,-1,E,exposed,S,0,0,0,SD
+2692,P69543_L32Y,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,L32Y,-1.0,1.1,0.12,00,-0,np,1,E,exposed,S,0,1,1,SI
+2708,P69543_H64C,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,H64C,-0.5,0.63,-0.7,+0,0-,pn,-1,C,exposed,SS,1,1,1,SD
+2709,P69543_L65P,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,L65P,1.5,1.43,1.8,00,-0,nn,-2,G,exposed,D,0,1,0,SD
+2715,P69543_A86T,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,A86T,0.7,0.3,-1.76,00,-0,np,1,C,exposed,SD,0,1,1,SI
+2716,P69543_A86V,DNA-Binding protein G5P,Enterobacteria phage fd,P69543,A86V,-0.5,1.35,0.47,00,--,nn,2,C,exposed,SS,0,0,0,SI
+2758,P0CH28_F121W,Ubiquitin,Bovine,P0CH28,F121W,-0.34,-0.36,-2.13,00,--,np,0,E,buried,N,0,0,1,0
+2771,P00644_G161D,Thermonuclease,Staphylococcus aureus,P00644,G161D,2.28,-0.69,-2.63,0-,0+,np,1,C,buried,HD,1,1,1,SI
+2852,P01308_T97H,Insulin,Homo sapiens,P01308,T97H,-1.76,-1.22,-4.65,0+,00,pp,1,T,exposed,S,1,0,0,SI
+2855,P01308_T97R,Insulin,Homo sapiens,P01308,T97R,-1.25,-0.6,-4.4,0+,0+,pp,2,T,exposed,S,1,1,0,SI
+2856,P01308_F49H,Insulin,Homo sapiens,P01308,F49H,-1.0,-0.89,0.71,0+,-0,np,-2,T,exposed,S,1,1,1,SD
+2857,P01308_F49D,Insulin,Homo sapiens,P01308,F49D,-0.6,-0.61,2.46,0-,-+,np,-3,T,exposed,SS,1,1,1,LD
+2858,P01308_T97A,Insulin,Homo sapiens,P01308,T97A,-0.16,-1.34,-4.21,00,0-,pn,-1,T,exposed,N,0,1,1,SD
+2859,P01308_S98D,Insulin,Homo sapiens,P01308,S98D,-0.1,-1.16,-1.65,0-,0+,pp,1,T,exposed,N,1,1,0,SI
+2861,P01308_Y50T,Insulin,Homo sapiens,P01308,Y50T,0.3,-1.28,-1.28,00,00,pp,-3,T,exposed,N,0,0,0,LD
+2968,P00698_I73T,Lysozyme C,Gallus gallus,P00698,I73T,3.3,-0.08,-0.5,00,-0,np,-2,T,buried,HD,0,1,1,SD
+3012,P03051_L41V,Regulatory protein rop,Escherichia coli,P03051,L41V,2.53,0.1,-0.09,00,--,nn,-1,H,exposed,HD,0,0,0,SD
+3013,P03051_L41A,Regulatory protein rop,Escherichia coli,P03051,L41A,6.12,0.14,-0.11,00,--,nn,-3,H,exposed,HD,0,0,0,LD
+3034,P0CG48_V26L,Ubiquitin,Human,P0CG48,V26L,-0.3,-0.32,-0.67,00,--,nn,1,H,buried,N,0,0,0,SI
+3036,P0CG48_V26A,Ubiquitin,Human,P0CG48,V26A,3.3,-0.42,-2.78,00,--,nn,-2,H,buried,HD,0,0,0,SD
+3040,P00644_K152F,Thermonuclease,Staphylococcus aureus,P00644,K152F,-0.0,-0.39,-1.52,+0,+-,pn,1,T,exposed,N,1,1,1,SI
+3043,P00644_E139C,Thermonuclease,Staphylococcus aureus,P00644,E139C,0.7,-0.58,-1.42,-0,+-,pn,-1,H,exposed,SD,1,1,1,SD
+3044,P00644_A142C,Thermonuclease,Staphylococcus aureus,P00644,A142C,1.2,-0.41,0.63,00,--,nn,1,H,exposed,D,0,0,0,SI
+3045,P00644_K152C,Thermonuclease,Staphylococcus aureus,P00644,K152C,0.5,-0.24,-0.43,+0,+-,pn,-2,T,exposed,SD,1,1,1,SD
+3047,P00644_R187C,Thermonuclease,Staphylococcus aureus,P00644,R187C,2.7,-0.58,-0.15,+0,+-,pn,-2,H,exposed,HD,1,1,1,SD
+3048,P00644_A194C,Thermonuclease,Staphylococcus aureus,P00644,A194C,0.8,-0.59,-0.85,00,--,nn,1,C,buried,SD,0,0,0,SI
+3050,P00644_K216F,Thermonuclease,Staphylococcus aureus,P00644,K216F,0.3,0.44,-0.05,+0,+-,pn,1,H,exposed,N,1,1,1,SI
+3051,P00644_K160F,Thermonuclease,Staphylococcus aureus,P00644,K160F,-0.1,-0.35,0.39,+0,+-,pn,1,C,exposed,N,1,1,1,SI
+3052,P00644_G132F,Thermonuclease,Staphylococcus aureus,P00644,G132F,0.4,-0.99,3.06,00,0-,nn,4,B,exposed,N,0,1,0,LI
+3054,P00644_G111F,Thermonuclease,Staphylococcus aureus,P00644,G111F,1.1,-0.32,-1.06,00,0-,nn,4,T,exposed,D,0,1,0,LI
+3055,P00644_A194F,Thermonuclease,Staphylococcus aureus,P00644,A194F,1.3,-0.17,-0.18,00,--,nn,4,C,buried,D,0,0,0,LI
+3056,P00644_R187F,Thermonuclease,Staphylococcus aureus,P00644,R187F,3.1,0.0,0.04,+0,+-,pn,1,H,exposed,HD,1,1,1,SI
+3095,P00644_D122A,Thermonuclease,Staphylococcus aureus,P00644,D122A,-0.2,0.35,1.21,-0,+-,pn,-1,E,buried,N,1,1,1,SD
+3096,P00644_D122G,Thermonuclease,Staphylococcus aureus,P00644,D122G,0.5,0.03,0.68,-0,+0,pn,-1,E,buried,SD,1,1,1,SD
+3103,P00644_E92A,Thermonuclease,Staphylococcus aureus,P00644,E92A,1.3,-0.43,-0.12,-0,+-,pn,-2,E,buried,D,1,1,1,SD
+3104,P00644_E92G,Thermonuclease,Staphylococcus aureus,P00644,E92G,1.8,-0.49,-0.41,-0,+0,pn,-2,E,buried,D,1,1,1,SD
+3105,P00644_E125A,Thermonuclease,Staphylococcus aureus,P00644,E125A,-0.3,0.01,-1.62,-0,+-,pn,-2,T,exposed,N,1,1,1,SD
+3106,P00644_E125G,Thermonuclease,Staphylococcus aureus,P00644,E125G,-0.5,-0.18,-0.47,-0,+0,pn,-2,T,exposed,SS,1,1,1,SD
+3109,P00644_E139A,Thermonuclease,Staphylococcus aureus,P00644,E139A,0.2,-0.78,-0.24,-0,+-,pn,-2,H,exposed,N,1,1,1,SD
+3110,P00644_E139G,Thermonuclease,Staphylococcus aureus,P00644,E139G,1.6,-0.72,-2.57,-0,+0,pn,-2,H,exposed,D,1,1,1,SD
+3112,P00644_E149G,Thermonuclease,Staphylococcus aureus,P00644,E149G,0.9,0.16,-0.31,-0,+0,pn,-2,H,exposed,SD,1,1,1,SD
+3114,P00644_E155G,Thermonuclease,Staphylococcus aureus,P00644,E155G,2.7,-0.23,-0.13,-0,+0,pn,-2,E,buried,HD,1,1,1,SD
+3120,P00644_E204G,Thermonuclease,Staphylococcus aureus,P00644,E204G,2.2,-0.32,-0.28,-0,+0,pn,-2,H,buried,HD,1,1,1,SD
+3121,P00644_E211A,Thermonuclease,Staphylococcus aureus,P00644,E211A,2.4,-0.62,-0.34,-0,+-,pn,-2,H,buried,HD,1,1,1,SD
+3123,P00644_E217A,Thermonuclease,Staphylococcus aureus,P00644,E217A,0.7,-0.08,-0.07,-0,+-,pn,-2,H,exposed,SD,1,1,1,SD
+3124,P00644_E217G,Thermonuclease,Staphylococcus aureus,P00644,E217G,1.7,-0.86,-0.46,-0,+0,pn,-2,H,exposed,D,1,1,1,SD
+3125,P00644_K88A,Thermonuclease,Staphylococcus aureus,P00644,K88A,-0.3,0.42,-2.14,+0,+-,pn,-3,C,exposed,N,1,1,1,LD
+3126,P00644_K88G,Thermonuclease,Staphylococcus aureus,P00644,K88G,-0.3,-0.68,-5.48,+0,+0,pn,-3,C,exposed,N,1,1,1,LD
+3127,P00644_K91A,Thermonuclease,Staphylococcus aureus,P00644,K91A,1.4,-0.86,-0.15,+0,+-,pn,-3,E,exposed,D,1,1,1,LD
+3131,P00644_K106A,Thermonuclease,Staphylococcus aureus,P00644,K106A,0.2,-0.46,-0.05,+0,+-,pn,-3,E,exposed,N,1,1,1,LD
+3133,P00644_K192A,Thermonuclease,Staphylococcus aureus,P00644,K192A,1.3,-0.32,0.48,+0,+-,pn,-3,E,exposed,D,1,1,1,LD
+3134,P00644_K192G,Thermonuclease,Staphylococcus aureus,P00644,K192G,2.7,0.32,0.38,+0,+0,pn,-3,E,exposed,HD,1,1,1,LD
+3135,P00644_K209A,Thermonuclease,Staphylococcus aureus,P00644,K209A,-0.2,-0.11,0.05,+0,+-,pn,-3,H,exposed,N,1,1,1,LD
+3136,P00644_K209G,Thermonuclease,Staphylococcus aureus,P00644,K209G,0.7,0.47,-0.07,+0,+0,pn,-3,H,exposed,SD,1,1,1,LD
+3137,P00644_K130A,Thermonuclease,Staphylococcus aureus,P00644,K130A,-0.1,-0.24,-1.78,+0,+-,pn,-3,T,exposed,N,1,1,1,LD
+3141,P00644_K135A,Thermonuclease,Staphylococcus aureus,P00644,K135A,0.2,-0.9,3.81,+0,+-,pn,-3,T,exposed,N,1,1,1,LD
+3142,P00644_K135G,Thermonuclease,Staphylococcus aureus,P00644,K135G,0.3,-0.2,-0.81,+0,+0,pn,-3,T,exposed,N,1,1,1,LD
+3143,P00644_K145A,Thermonuclease,Staphylococcus aureus,P00644,K145A,0.5,-0.51,0.26,+0,+-,pn,-3,H,exposed,SD,1,1,1,LD
+3144,P00644_K145G,Thermonuclease,Staphylococcus aureus,P00644,K145G,1.5,-0.75,-0.03,+0,+0,pn,-3,H,exposed,D,1,1,1,LD
+3145,P00644_K146A,Thermonuclease,Staphylococcus aureus,P00644,K146A,-0.1,-0.49,0.07,+0,+-,pn,-3,H,exposed,N,1,1,1,LD
+3146,P00644_K146G,Thermonuclease,Staphylococcus aureus,P00644,K146G,0.4,-0.2,0.07,+0,+0,pn,-3,H,exposed,N,1,1,1,LD
+3147,P00644_K152A,Thermonuclease,Staphylococcus aureus,P00644,K152A,0.1,0.63,-0.09,+0,+-,pn,-3,T,exposed,N,1,1,1,LD
+3148,P00644_K152G,Thermonuclease,Staphylococcus aureus,P00644,K152G,0.5,-0.05,-0.19,+0,+0,pn,-3,T,exposed,SD,1,1,1,LD
+3150,P00644_K153G,Thermonuclease,Staphylococcus aureus,P00644,K153G,1.1,-0.33,-0.38,+0,+0,pn,-3,T,exposed,D,1,1,1,LD
+3151,P00644_K160A,Thermonuclease,Staphylococcus aureus,P00644,K160A,0.6,-0.37,-0.77,+0,+-,pn,-3,C,exposed,SD,1,1,1,LD
+3152,P00644_K160G,Thermonuclease,Staphylococcus aureus,P00644,K160G,1.1,-0.71,-1.8,+0,+0,pn,-3,C,exposed,D,1,1,1,LD
+3153,P00644_K166A,Thermonuclease,Staphylococcus aureus,P00644,K166A,-0.2,-0.05,-0.77,+0,+-,pn,-3,T,exposed,N,1,1,1,LD
+3154,P00644_K166G,Thermonuclease,Staphylococcus aureus,P00644,K166G,0.3,-0.55,-0.93,+0,+0,pn,-3,T,exposed,N,1,1,1,LD
+3156,P00644_K179G,Thermonuclease,Staphylococcus aureus,P00644,K179G,1.7,-0.31,-0.14,+0,+0,pn,-3,E,exposed,D,1,1,1,LD
+3159,P00644_K198A,Thermonuclease,Staphylococcus aureus,P00644,K198A,-0.7,-0.27,0.31,+0,+-,pn,-3,T,exposed,SS,1,1,1,LD
+3163,P00644_K215A,Thermonuclease,Staphylococcus aureus,P00644,K215A,1.4,-0.34,0.17,+0,+-,pn,-3,H,exposed,D,1,1,1,LD
+3165,P00644_K216A,Thermonuclease,Staphylococcus aureus,P00644,K216A,-0.1,-0.35,0.16,+0,+-,pn,-3,H,exposed,N,1,1,1,LD
+3166,P00644_K216G,Thermonuclease,Staphylococcus aureus,P00644,K216G,0.7,-0.48,0.02,+0,+0,pn,-3,H,exposed,SD,1,1,1,LD
+3169,P00644_H90A,Thermonuclease,Staphylococcus aureus,P00644,H90A,0.4,0.31,1.09,+0,0-,pn,-2,C,exposed,N,1,1,1,SD
+3170,P00644_H90G,Thermonuclease,Staphylococcus aureus,P00644,H90G,0.8,-0.36,0.99,+0,00,pn,-2,C,exposed,SD,1,0,1,SD
+3171,P00644_H128A,Thermonuclease,Staphylococcus aureus,P00644,H128A,0.5,-0.63,-1.84,+0,0-,pn,-2,B,exposed,SD,1,1,1,SD
+3172,P00644_H128G,Thermonuclease,Staphylococcus aureus,P00644,H128G,0.4,-0.1,0.18,+0,00,pn,-2,B,exposed,N,1,0,1,SD
+3176,P00644_H206G,Thermonuclease,Staphylococcus aureus,P00644,H206G,0.5,-0.01,0.05,+0,00,pn,-2,H,exposed,SD,1,0,1,SD
+3177,P00644_R117A,Thermonuclease,Staphylococcus aureus,P00644,R117A,1.4,-0.05,0.22,+0,+-,pn,-3,E,buried,D,1,1,1,LD
+3178,P00644_R117G,Thermonuclease,Staphylococcus aureus,P00644,R117G,2.2,-0.13,0.08,+0,+0,pn,-3,E,buried,HD,1,1,1,LD
+3181,P00644_R169A,Thermonuclease,Staphylococcus aureus,P00644,R169A,0.9,-0.4,-0.92,+0,+-,pn,-3,C,exposed,SD,1,1,1,LD
+3184,P00644_R187G,Thermonuclease,Staphylococcus aureus,P00644,R187G,2.4,-0.37,-0.14,+0,+0,pn,-3,H,exposed,HD,1,1,1,LD
+3185,P00644_R208A,Thermonuclease,Staphylococcus aureus,P00644,R208A,1.7,-0.11,-0.04,+0,+-,pn,-3,H,exposed,D,1,1,1,LD
+3187,P00648_R116S,Ribonuclease,Bacillus amyloliquefaciens,P00648,R116S,2.72,-1.0,-6.44,+0,+0,pp,-3,T,buried,HD,1,1,0,LD
+3188,P00648_D140N,Ribonuclease,Bacillus amyloliquefaciens,P00648,D140N,4.11,-0.71,-0.24,-0,++,pp,0,T,exposed,HD,1,0,0,0
+3189,P00648_R116K,Ribonuclease,Bacillus amyloliquefaciens,P00648,R116K,3.13,-0.27,-0.36,++,++,pp,0,T,buried,HD,0,0,0,0
+3191,P00648_R130K,Ribonuclease,Bacillus amyloliquefaciens,P00648,R130K,4.13,-0.23,-0.02,++,++,pp,0,C,exposed,HD,0,0,0,0
+3215,P00644_M114L,Thermonuclease,Staphylococcus aureus,P00644,M114L,0.8,0.01,-0.08,00,--,nn,0,E,buried,SD,0,0,0,0
+3216,P00644_M114I,Thermonuclease,Staphylococcus aureus,P00644,M114I,0.6,-0.51,0.2,00,--,nn,0,E,buried,SD,0,0,0,0
+3218,P05413_F17Y,"Fatty acid-binding protein, heart",Homo sapiens,P05413,F17Y,3.44,0.16,0.65,00,-0,np,0,H,buried,HD,0,1,1,0
+3220,P05413_Y129F,"Fatty acid-binding protein, heart",Homo sapiens,P05413,Y129F,3.83,-0.29,-0.01,00,0-,pn,0,E,buried,HD,0,1,1,0
+3222,P05413_T41Q,"Fatty acid-binding protein, heart",Homo sapiens,P05413,T41Q,4.38,1.02,0.7,00,0+,pp,1,E,buried,HD,0,1,0,SI
+3223,P05413_T41V,"Fatty acid-binding protein, heart",Homo sapiens,P05413,T41V,1.84,0.65,0.55,00,0-,pn,1,E,buried,D,0,1,1,SI
+3224,P05413_R107T,"Fatty acid-binding protein, heart",Homo sapiens,P05413,R107T,3.54,0.73,-0.23,+0,+0,pp,-2,E,buried,HD,1,1,0,SD
+3225,P05413_R127K,"Fatty acid-binding protein, heart",Homo sapiens,P05413,R127K,4.67,0.45,0.2,++,++,pp,0,E,buried,HD,0,0,0,0
+3226,P05413_R127Q,"Fatty acid-binding protein, heart",Homo sapiens,P05413,R127Q,0.62,0.9,0.29,+0,++,pp,-1,E,buried,SD,1,0,0,SD
+3238,P03050_N29A,Transcriptional repressor arc,Salmonella phage P22,P03050,N29A,-0.66,1.68,-1.34,00,+-,pn,-1,H,exposed,SS,0,1,1,SD
+3239,P03050_E48A,Transcriptional repressor arc,Salmonella phage P22,P03050,E48A,-0.13,1.97,0.56,-0,+-,pn,-2,H,exposed,N,1,1,1,SD
+3246,P9WGE7_G152A,Superoxide dismutase,Mycobacterium tuberculosis,P9WGE7,G152A,4.3,-0.03,-0.23,00,0-,nn,0,T,exposed,HD,0,1,0,0
+3255,P11540_C83A,Barstar,Bacillus amyloliquefaciens,P11540,C83A,0.6,0.07,0.01,00,--,nn,-1,T,buried,SD,0,0,0,SD
+3310,P00974_K50A,Pancreatic trypsin inhibitor,Bos taurus,P00974,K50A,-2.0,0.21,-0.25,+0,+-,pn,-3,C,exposed,HS,1,1,1,LD
+3311,P00974_G71A,Pancreatic trypsin inhibitor,Bos taurus,P00974,G71A,-0.9,-0.01,-0.14,00,0-,nn,0,C,buried,SS,0,1,0,0
+3316,P00974_R55A,Pancreatic trypsin inhibitor,Bos taurus,P00974,R55A,-0.3,0.42,-0.05,+0,+-,pn,-3,E,buried,N,1,1,1,LD
+3317,P00974_T46A,Pancreatic trypsin inhibitor,Bos taurus,P00974,T46A,-0.2,0.01,-0.09,00,0-,pn,-1,C,exposed,N,0,1,1,SD
+3318,P00974_R74A,Pancreatic trypsin inhibitor,Bos taurus,P00974,R74A,-0.2,-0.22,-0.1,+0,+-,pn,-3,C,exposed,N,1,1,1,LD
+3319,P00974_I54A,Pancreatic trypsin inhibitor,Bos taurus,P00974,I54A,-0.1,0.27,-0.04,00,--,nn,-3,E,exposed,N,0,0,0,LD
+3320,P00974_K81A,Pancreatic trypsin inhibitor,Bos taurus,P00974,K81A,-0.1,0.61,-0.07,+0,+-,pn,-3,C,exposed,N,1,1,1,LD
+3321,P00974_V69A,Pancreatic trypsin inhibitor,Bos taurus,P00974,V69A,-0.0,0.08,-0.05,00,--,nn,-2,E,exposed,N,0,0,0,SD
+3366,P00720_L66P,Endolysin,Enterobacteria phage T4,P00720,L66P,12.23,-0.02,-2.32,00,-0,nn,-2,H,buried,HD,0,1,0,SD
+3412,P00651_P99V,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,P99V,2.13,-0.54,-8.74,00,0-,nn,1,C,buried,HD,0,1,0,SI
+3474,P02693_L65G,"Fatty acid-binding protein, brain",Rattus norvegicus,P02693,L65G,2.63,1.88,-2.34,00,-0,nn,-3,T,buried,HD,0,1,0,LD
+3477,P02693_G66A,"Fatty acid-binding protein, brain",Rattus norvegicus,P02693,G66A,1.33,2.61,1.65,00,0-,nn,0,T,exposed,D,0,1,0,0
+3619,P00648_E120F,Ribonuclease,Bacillus amyloliquefaciens,P00648,E120F,2.1,-0.28,-0.03,-0,+-,pn,2,E,buried,HD,1,1,1,SI
+3620,P00648_E120Q,Ribonuclease,Bacillus amyloliquefaciens,P00648,E120Q,2.7,-0.2,-0.04,-0,++,pp,0,E,buried,HD,1,0,0,0
+3621,P00648_E120W,Ribonuclease,Bacillus amyloliquefaciens,P00648,E120W,2.2,-0.52,-0.11,-0,+-,pp,2,E,buried,HD,1,1,0,SI
+3670,P00644_Y109E,Thermonuclease,Staphylococcus aureus,P00644,Y109E,5.0,-0.25,-1.55,0-,0+,pp,-2,E,buried,HD,1,1,0,SD
+3673,P00644_Y109H,Thermonuclease,Staphylococcus aureus,P00644,Y109H,1.6,-0.28,-0.46,0+,00,pp,-2,E,buried,D,1,0,0,SD
+3674,P00644_Y109I,Thermonuclease,Staphylococcus aureus,P00644,Y109I,2.5,-0.9,-0.54,00,0-,pn,-1,E,buried,HD,0,1,1,SD
+3675,P00644_Y109K,Thermonuclease,Staphylococcus aureus,P00644,Y109K,3.9,0.32,-1.43,0+,0+,pp,-1,E,buried,HD,1,1,0,SD
+3677,P00644_Y109M,Thermonuclease,Staphylococcus aureus,P00644,Y109M,2.0,0.04,-1.44,00,0-,pn,-1,E,buried,HD,0,1,1,SD
+3678,P00644_Y109N,Thermonuclease,Staphylococcus aureus,P00644,Y109N,4.0,-0.41,-1.59,00,0+,pp,-3,E,buried,HD,0,1,0,LD
+3681,P00644_Y109R,Thermonuclease,Staphylococcus aureus,P00644,Y109R,2.9,-0.18,-2.1,0+,0+,pp,-1,E,buried,HD,1,1,0,SD
+3685,P00644_Y109W,Thermonuclease,Staphylococcus aureus,P00644,Y109W,0.6,-0.47,-0.21,00,0-,pp,0,E,buried,SD,0,1,0,0
+3740,P32081_F27A,Cold shock protein CspB,Bacillus subtilis (strain 168),P32081,F27A,0.76,1.37,0.2,00,--,nn,-4,E,buried,SD,0,0,0,LD
+3741,P32081_F17A,Cold shock protein CspB,Bacillus subtilis (strain 168),P32081,F17A,1.53,1.46,0.53,00,--,nn,-4,E,exposed,D,0,0,0,LD
+3770,P00648_N88A,Ribonuclease,Bacillus amyloliquefaciens,P00648,N88A,4.0,-0.64,-5.98,00,+-,pn,-1,H,buried,HD,0,1,1,SD
+3772,P62942_V5A,Peptidyl-prolyl cis-trans isomerase FKBP1A,Homo sapiens,P62942,V5A,2.78,-0.38,-1.64,00,--,nn,-2,E,exposed,HD,0,0,0,SD
+3773,P62942_V25A,Peptidyl-prolyl cis-trans isomerase FKBP1A,Homo sapiens,P62942,V25A,3.19,-0.25,-0.39,00,--,nn,-2,E,buried,HD,0,0,0,SD
+3777,P62942_V56A,Peptidyl-prolyl cis-trans isomerase FKBP1A,Homo sapiens,P62942,V56A,2.13,-0.01,-1.7,00,--,nn,-2,T,buried,HD,0,0,0,SD
+3778,P62942_I57A,Peptidyl-prolyl cis-trans isomerase FKBP1A,Homo sapiens,P62942,I57A,2.48,-0.19,-2.72,00,--,nn,-3,T,buried,HD,0,0,0,LD
+3780,P62942_I57T,Peptidyl-prolyl cis-trans isomerase FKBP1A,Homo sapiens,P62942,I57T,1.81,0.36,-0.72,00,-0,np,-2,T,buried,D,0,1,1,SD
+3781,P62942_V64A,Peptidyl-prolyl cis-trans isomerase FKBP1A,Homo sapiens,P62942,V64A,2.97,-0.23,-1.25,00,--,nn,-2,H,buried,HD,0,0,0,SD
+3783,P62942_I77A,Peptidyl-prolyl cis-trans isomerase FKBP1A,Homo sapiens,P62942,I77A,3.81,-0.45,-0.26,00,--,nn,-3,E,buried,HD,0,0,0,LD
+3787,P62942_V99A,Peptidyl-prolyl cis-trans isomerase FKBP1A,Homo sapiens,P62942,V99A,2.16,-0.23,-0.06,00,--,nn,-2,E,buried,HD,0,0,0,SD
+3788,P62942_V102A,Peptidyl-prolyl cis-trans isomerase FKBP1A,Homo sapiens,P62942,V102A,2.75,-0.22,-0.19,00,--,nn,-2,E,buried,HD,0,0,0,SD
+3789,P62942_L107A,Peptidyl-prolyl cis-trans isomerase FKBP1A,Homo sapiens,P62942,L107A,2.32,-0.54,-2.56,00,--,nn,-3,E,buried,HD,0,0,0,LD
+3790,P62942_R58A,Peptidyl-prolyl cis-trans isomerase FKBP1A,Homo sapiens,P62942,R58A,0.81,-0.22,0.07,+0,+-,pn,-3,H,exposed,SD,1,1,1,LD
+3791,P62942_R58G,Peptidyl-prolyl cis-trans isomerase FKBP1A,Homo sapiens,P62942,R58G,2.29,-0.56,-0.96,+0,+0,pn,-3,H,exposed,HD,1,1,1,LD
+3793,P62942_E62G,Peptidyl-prolyl cis-trans isomerase FKBP1A,Homo sapiens,P62942,E62G,2.49,0.39,-1.04,-0,+0,pn,-2,H,exposed,HD,1,1,1,SD
+3796,P62942_I8V,Peptidyl-prolyl cis-trans isomerase FKBP1A,Homo sapiens,P62942,I8V,0.92,-0.65,-0.55,00,--,nn,-1,E,exposed,SD,0,0,0,SD
+3797,P62942_T22S,Peptidyl-prolyl cis-trans isomerase FKBP1A,Homo sapiens,P62942,T22S,1.44,-0.24,-0.65,00,00,pp,-1,E,buried,D,0,0,0,SD
+3799,P62942_T22A,Peptidyl-prolyl cis-trans isomerase FKBP1A,Homo sapiens,P62942,T22A,1.6,-0.01,-0.58,00,0-,pn,-1,E,buried,D,0,1,1,SD
+3802,P62942_T28A,Peptidyl-prolyl cis-trans isomerase FKBP1A,Homo sapiens,P62942,T28A,1.97,-0.63,-0.52,00,0-,pn,-1,E,buried,HD,0,1,1,SD
+3803,P62942_T76V,Peptidyl-prolyl cis-trans isomerase FKBP1A,Homo sapiens,P62942,T76V,0.81,-0.11,-0.02,00,0-,pn,1,E,buried,SD,0,1,1,SI
+3804,P62942_T76A,Peptidyl-prolyl cis-trans isomerase FKBP1A,Homo sapiens,P62942,T76A,2.65,-0.12,-0.19,00,0-,pn,-1,E,buried,HD,0,1,1,SD
+3809,P0A9X9_F31L,Cold shock protein CspA,Escherichia coli (strain K12),P0A9X9,F31L,0.66,-0.24,-0.44,00,--,nn,-1,E,exposed,SD,0,0,0,SD
+3810,P0A9X9_F20L,Cold shock protein CspA,Escherichia coli (strain K12),P0A9X9,F20L,0.31,0.54,-0.18,00,--,nn,-1,E,exposed,N,0,0,0,SD
+3812,P0A9X9_F31S,Cold shock protein CspA,Escherichia coli (strain K12),P0A9X9,F31S,1.03,1.73,1.25,00,-0,np,-4,E,exposed,D,0,1,1,LD
+3813,P0A9X9_F20S,Cold shock protein CspA,Escherichia coli (strain K12),P0A9X9,F20S,1.16,2.06,0.85,00,-0,np,-4,E,exposed,D,0,1,1,LD
+3836,P00644_P93F,Thermonuclease,Staphylococcus aureus,P00644,P93F,0.6,0.1,-0.06,00,0-,nn,3,E,exposed,SD,0,1,0,LI
+3837,P00644_K98F,Thermonuclease,Staphylococcus aureus,P00644,K98F,0.5,-0.11,0.15,+0,+-,pn,1,E,exposed,SD,1,1,1,SI
+3838,P00644_D101F,Thermonuclease,Staphylococcus aureus,P00644,D101F,1.5,0.25,-0.54,-0,+-,pn,3,T,buried,D,1,1,1,LI
+3846,P00644_E134F,Thermonuclease,Staphylococcus aureus,P00644,E134F,0.7,-0.55,-4.59,-0,+-,pn,2,T,exposed,SD,1,1,1,SI
+3849,P00644_A142F,Thermonuclease,Staphylococcus aureus,P00644,A142F,0.8,-0.33,0.09,00,--,nn,4,H,exposed,SD,0,0,0,LI
+3850,P00644_K145F,Thermonuclease,Staphylococcus aureus,P00644,K145F,2.0,-0.06,-0.04,+0,+-,pn,1,H,exposed,HD,1,1,1,SI
+3853,P00644_E149F,Thermonuclease,Staphylococcus aureus,P00644,E149F,1.4,-0.1,-0.82,-0,+-,pn,2,H,exposed,D,1,1,1,SI
+3855,P00644_K153F,Thermonuclease,Staphylococcus aureus,P00644,K153F,-0.0,0.01,-0.78,+0,+-,pn,1,T,exposed,N,1,1,1,SI
+3856,P00644_E155F,Thermonuclease,Staphylococcus aureus,P00644,E155F,1.1,-0.08,0.03,-0,+-,pn,2,E,buried,D,1,1,1,SI
+3857,P00644_Q162F,Thermonuclease,Staphylococcus aureus,P00644,Q162F,0.7,-0.66,-1.0,00,+-,pn,2,C,exposed,SD,0,1,1,SI
+3858,P00644_D165F,Thermonuclease,Staphylococcus aureus,P00644,D165F,5.2,-0.28,-16.78,-0,+-,pn,3,T,buried,HD,1,1,1,LI
+3859,P00644_K166F,Thermonuclease,Staphylococcus aureus,P00644,K166F,0.9,-0.39,-0.74,+0,+-,pn,1,T,exposed,SD,1,1,1,SI
+3865,P00644_E183F,Thermonuclease,Staphylococcus aureus,P00644,E183F,3.1,0.19,-0.04,-0,+-,pn,2,H,buried,HD,1,1,1,SI
+3866,P00644_A184F,Thermonuclease,Staphylococcus aureus,P00644,A184F,1.9,-0.35,-0.11,00,--,nn,4,H,buried,HD,0,0,0,LI
+3873,P00644_E204F,Thermonuclease,Staphylococcus aureus,P00644,E204F,0.8,-0.33,-0.1,-0,+-,pn,2,H,buried,SD,1,1,1,SI
+3874,P00644_Q205F,Thermonuclease,Staphylococcus aureus,P00644,Q205F,0.7,0.44,-0.03,00,+-,pn,2,H,exposed,SD,0,1,1,SI
+3875,P00644_H206F,Thermonuclease,Staphylococcus aureus,P00644,H206F,-0.3,-0.37,0.14,+0,0-,pn,2,H,exposed,N,1,1,1,SI
+3876,P00644_K209F,Thermonuclease,Staphylococcus aureus,P00644,K209F,0.3,0.84,-0.16,+0,+-,pn,1,H,exposed,N,1,1,1,SI
+3878,P00644_E211F,Thermonuclease,Staphylococcus aureus,P00644,E211F,4.0,-0.21,-2.35,-0,+-,pn,2,H,buried,HD,1,1,1,SI
+3879,P00644_Q213F,Thermonuclease,Staphylococcus aureus,P00644,Q213F,0.7,-0.37,0.01,00,+-,pn,2,H,exposed,SD,0,1,1,SI
+3882,P00644_E217F,Thermonuclease,Staphylococcus aureus,P00644,E217F,1.2,-0.2,-0.59,-0,+-,pn,2,H,exposed,D,1,1,1,SI
+3883,P00644_K218F,Thermonuclease,Staphylococcus aureus,P00644,K218F,1.2,0.87,-0.14,+0,+-,pn,1,C,exposed,D,1,1,1,SI
+3884,P00644_D225F,Thermonuclease,Staphylococcus aureus,P00644,D225F,-0.1,-0.36,3.98,-0,+-,pn,3,T,exposed,N,1,1,1,LI
+3885,P0ACK1_S129P,cAMP-activated global transcriptional regulator CRP,Escherichia coli (strain K12),P0ACK1,S129P,-0.14,-0.49,-2.92,00,00,pn,1,H,exposed,N,0,0,1,SI
+3886,P0ACK1_S129A,cAMP-activated global transcriptional regulator CRP,Escherichia coli (strain K12),P0ACK1,S129A,0.26,-0.14,-0.57,00,0-,pn,0,H,exposed,N,0,1,1,0
+3974,P02633_L10V,Protein S100-G,Bos taurus,P02633,L10V,2.2,0.0,0.5,00,--,nn,-1,H,buried,HD,0,0,0,SD
+3979,P02633_V65A,Protein S100-G,Bos taurus,P02633,V65A,3.78,-1.18,-1.71,00,--,nn,-2,E,buried,HD,0,0,0,SD
+3982,P02633_F70A,Protein S100-G,Bos taurus,P02633,F70A,4.98,-2.93,-4.12,00,--,nn,-4,H,buried,HD,0,0,0,LD
+3983,P02633_V74L,Protein S100-G,Bos taurus,P02633,V74L,1.2,-0.09,-1.56,00,--,nn,1,H,buried,D,0,0,0,SI
+3984,P02633_I77V,Protein S100-G,Bos taurus,P02633,I77V,1.53,-0.33,-3.4,00,--,nn,-1,H,buried,D,0,0,0,SD
+4157,P00651_N70S,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,N70S,1.9,-0.56,-3.6,00,+0,pp,-1,T,buried,HD,0,1,0,SD
+4158,P00651_N70D,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,N70D,2.0,-0.04,-0.16,0-,++,pp,0,T,buried,HD,1,0,0,0
+4230,P61823_D147N,Ribonuclease pancreatic,Bos taurus,P61823,D147N,1.9,-0.26,-0.16,-0,++,pp,0,E,buried,HD,1,0,0,0
+4231,P61823_D147A,Ribonuclease pancreatic,Bos taurus,P61823,D147A,2.2,-0.16,-1.23,-0,+-,pn,-1,E,buried,HD,1,1,1,SD
+4296,P0ACT4_R128E,Tetracycline repressor protein class D,Escherichia coli,P0ACT4,R128E,0.62,-0.24,-0.13,+-,++,pp,-1,H,exposed,SD,1,0,0,SD
+4327,P02185_A145L,Myoglobin,Physeter macrocephalus,P02185,A145L,-0.4,0.09,-0.33,00,--,nn,3,H,exposed,N,0,0,0,LI
+4338,P02185_L12A,Myoglobin,Physeter macrocephalus,P02185,L12A,0.6,0.02,-0.25,00,--,nn,-3,H,buried,SD,0,0,0,LD
+4339,P02185_F107A,Myoglobin,Physeter macrocephalus,P02185,F107A,0.7,0.1,-0.2,00,--,nn,-4,H,buried,SD,0,0,0,LD
+4343,P02185_L116A,Myoglobin,Physeter macrocephalus,P02185,L116A,1.4,0.02,-0.43,00,--,nn,-3,H,buried,D,0,0,0,LD
+4356,P04925_T182A,Major prion protein,Mus musculus,P04925,T182A,4.62,-0.24,-0.91,00,0-,pn,-1,H,buried,HD,0,1,1,SD
+4361,P04925_M128V,Major prion protein,Mus musculus,P04925,M128V,0.33,-0.05,2.15,00,--,nn,-1,E,buried,N,0,0,0,SD
+4362,P04925_F197S,Major prion protein,Mus musculus,P04925,F197S,2.46,-0.83,-13.79,00,-0,np,-4,C,buried,HD,0,1,1,LD
+4370,P06312_K56T,Immunoglobulin kappa variable 1D-33,Homo sapiens,P06312,K56T,1.3,0.33,-0.04,+0,+0,pp,-2,E,exposed,D,1,1,0,SD
+4371,P06312_L35P,Immunoglobulin kappa variable 1D-33,Homo sapiens,P06312,L35P,1.5,0.26,-0.24,00,-0,nn,-2,T,exposed,D,0,1,0,SD
+4372,P06312_N54F,Immunoglobulin kappa variable 1D-33,Homo sapiens,P06312,N54F,3.1,0.1,-2.7,00,+-,pn,3,T,exposed,HD,0,1,1,LI
+4375,P06312_K56R,Immunoglobulin kappa variable 1D-33,Homo sapiens,P06312,K56R,1.0,0.54,-0.07,++,++,pp,0,E,exposed,D,0,0,0,0
+4376,P06312_P66L,Immunoglobulin kappa variable 1D-33,Homo sapiens,P06312,P66L,1.7,-0.05,-0.22,00,0-,nn,2,T,exposed,D,0,1,0,SI
+4500,P0A3D9_Y48F,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3D9,Y48F,-1.07,-0.09,-0.41,00,0-,pn,0,T,buried,S,0,1,1,0
+4507,P00592_H70N,"Phospholipase A2, major isoenzyme",Sus scrofa,P00592,H70N,2.28,-0.07,-0.38,+0,0+,pp,-1,H,buried,HD,1,1,0,SD
+4509,P00592_H70K,"Phospholipase A2, major isoenzyme",Sus scrofa,P00592,H70K,3.21,-0.33,-0.6,++,0+,pp,1,H,buried,HD,0,1,0,SI
+4518,P02185_E19A,Myoglobin,Physeter macrocephalus,P02185,E19A,-0.7,0.04,-1.18,-0,+-,pn,-2,H,exposed,SS,1,1,1,SD
+4519,P02185_E5A,Myoglobin,Physeter macrocephalus,P02185,E5A,-0.7,0.16,0.0,-0,+-,pn,-2,H,exposed,SS,1,1,1,SD
+4521,P02185_D45A,Myoglobin,Physeter macrocephalus,P02185,D45A,-0.2,0.0,-0.3,-0,+-,pn,-1,T,exposed,N,1,1,1,SD
+4522,P02185_D61A,Myoglobin,Physeter macrocephalus,P02185,D61A,-0.15,0.02,0.17,-0,+-,pn,-1,H,exposed,N,1,1,1,SD
+4527,P00711_L129H,Alpha-lactalbumin,Bos taurus,P00711,L129H,-1.39,0.34,-0.41,0+,-0,np,-1,H,exposed,S,1,1,1,SD
+4528,P00711_L129R,Alpha-lactalbumin,Bos taurus,P00711,L129R,-0.43,0.33,-0.31,0+,-+,np,0,H,exposed,N,1,1,1,0
+4529,P00711_L129E,Alpha-lactalbumin,Bos taurus,P00711,L129E,0.19,0.04,-1.3,0-,-+,np,-1,H,exposed,N,1,1,1,SD
+4530,P00711_Q136A,Alpha-lactalbumin,Bos taurus,P00711,Q136A,0.96,0.1,0.01,00,+-,pn,-2,G,exposed,D,0,1,1,SD
+4531,P00711_W137Y,Alpha-lactalbumin,Bos taurus,P00711,W137Y,1.17,0.1,-0.33,00,-0,pp,0,G,buried,D,0,1,0,0
+4532,P00711_W137H,Alpha-lactalbumin,Bos taurus,P00711,W137H,0.6,-0.16,-3.86,0+,-0,pp,-2,G,buried,SD,1,1,0,SD
+4534,P00711_H126Y,Alpha-lactalbumin,Bos taurus,P00711,H126Y,0.19,0.07,-0.05,+0,00,pp,2,H,buried,N,1,0,0,SI
+4535,P00711_H126A,Alpha-lactalbumin,Bos taurus,P00711,H126A,0.79,0.03,-1.19,+0,0-,pn,-2,H,buried,SD,1,1,1,SD
+4536,P00711_H126W,Alpha-lactalbumin,Bos taurus,P00711,H126W,1.72,0.25,0.3,+0,0-,pp,2,H,buried,D,1,1,0,SI
+4537,P00711_K133N,Alpha-lactalbumin,Bos taurus,P00711,K133N,-2.66,0.03,0.15,+0,++,pp,-2,C,exposed,HS,1,0,0,SD
+4538,P00711_K133Q,Alpha-lactalbumin,Bos taurus,P00711,K133Q,0.6,0.28,0.26,+0,++,pp,-1,C,exposed,SD,1,0,0,SD
+4539,P00711_K133E,Alpha-lactalbumin,Bos taurus,P00711,K133E,0.65,0.18,-0.28,+-,++,pp,-1,C,exposed,SD,1,0,0,SD
+4540,P00711_V61N,Alpha-lactalbumin,Bos taurus,P00711,V61N,0.24,0.09,-0.46,00,-+,np,-1,E,exposed,N,0,1,1,SD
+4542,P00711_V61G,Alpha-lactalbumin,Bos taurus,P00711,V61G,1.15,0.01,-1.48,00,-0,nn,-2,E,exposed,D,0,1,0,SD
+4543,P00711_Q73A,Alpha-lactalbumin,Bos taurus,P00711,Q73A,0.41,0.14,-0.37,00,+-,pn,-2,T,buried,N,0,1,1,SD
+4544,P00711_I78W,Alpha-lactalbumin,Bos taurus,P00711,I78W,0.93,0.19,-0.08,00,--,np,1,T,exposed,D,0,0,1,SI
+4545,P00711_Y122P,Alpha-lactalbumin,Bos taurus,P00711,Y122P,0.22,0.29,-0.69,00,00,pn,-3,G,buried,N,0,0,1,LD
+4547,P00711_W123Y,Alpha-lactalbumin,Bos taurus,P00711,W123Y,2.44,0.23,-0.45,00,-0,pp,0,C,buried,HD,0,1,0,0
+4554,P62942_V24A,Peptidyl-prolyl cis-trans isomerase FKBP1A,Homo sapiens,P62942,V24A,2.97,-0.87,-0.7,00,--,nn,-2,E,buried,HD,0,0,0,SD
+4568,P62942_E61G,Peptidyl-prolyl cis-trans isomerase FKBP1A,Homo sapiens,P62942,E61G,2.84,-0.03,-0.11,-0,+0,pn,-2,H,buried,HD,1,1,1,SD
+4583,P0A7Y4_D10A,Ribonuclease HI,Escherichia coli (strain K12),P0A7Y4,D10A,-3.3,0.79,0.08,-0,+-,pn,-1,E,buried,HS,1,1,1,SD
+4584,P0A7Y4_I53A,Ribonuclease HI,Escherichia coli (strain K12),P0A7Y4,I53A,2.1,0.66,-0.08,00,--,nn,-3,H,buried,HD,0,0,0,LD
+4585,P0A7Y4_Q105G,Ribonuclease HI,Escherichia coli (strain K12),P0A7Y4,Q105G,2.2,0.39,-0.51,00,+0,pn,-2,H,exposed,HD,0,1,1,SD
+4586,P0A7Y4_R27A,Ribonuclease HI,Escherichia coli (strain K12),P0A7Y4,R27A,2.2,0.45,0.73,+0,+-,pn,-3,E,buried,HD,1,1,1,LD
+4650,P00282_F130S,Azurin,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),P00282,F130S,3.7,-0.04,-0.07,00,-0,np,-4,E,buried,HD,0,1,1,LD
+4653,P00171_V66H,Cytochrome b5,Bos taurus,P00171,V66H,1.6,-0.34,-4.3,0+,-0,np,0,H,exposed,D,1,1,1,0
+4654,P00171_V66E,Cytochrome b5,Bos taurus,P00171,V66E,1.05,-0.35,-0.53,0-,-+,np,0,H,exposed,D,1,1,1,0
+4825,P03706_H31D,Endolysin,Escherichia phage lambda,P03706,H31D,1.6,-0.02,-0.02,+-,0+,pp,-1,T,exposed,D,1,1,0,SD
+4888,P0CH28_R118E,Ubiquitin,Bovine,P0CH28,R118E,-1.63,-0.29,-0.69,+-,++,pp,-1,E,exposed,S,1,0,0,SD
+4891,P0CH28_K82Q,Ubiquitin,Bovine,P0CH28,K82Q,-0.26,-0.12,-1.24,+0,++,pp,-1,E,exposed,N,1,0,0,SD
+4892,P0CH28_H144E,Ubiquitin,Bovine,P0CH28,H144E,-0.77,-0.26,-0.46,+-,0+,pp,0,E,exposed,SS,1,1,0,0
+4893,P0CH28_R148Q,Ubiquitin,Bovine,P0CH28,R148Q,0.33,-0.05,-1.11,+0,++,pp,-1,T,exposed,N,1,0,0,SD
+4894,P0CH28_K105N,Ubiquitin,Bovine,P0CH28,K105N,1.48,-0.39,-2.33,+0,++,pp,-2,H,buried,D,1,0,0,SD
+4895,P0CH28_K105Q,Ubiquitin,Bovine,P0CH28,K105Q,1.67,-0.12,-2.47,+0,++,pp,-1,H,buried,D,1,0,0,SD
+4896,P0CH28_K103Q,Ubiquitin,Bovine,P0CH28,K103Q,1.91,-0.31,-1.56,+0,++,pp,-1,H,buried,HD,1,0,0,SD
+4899,P00651_G49A,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,G49A,1.2,-0.15,-0.02,00,0-,nn,0,H,buried,D,0,1,0,0
+4908,P00099_V100I,Cytochrome c-551,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),P00099,V100I,-0.06,0.08,-0.32,00,--,nn,1,H,buried,N,0,0,0,SI
+4958,P00044_F88Y,Cytochrome c isoform 1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),P00044,F88Y,0.7,-0.09,0.07,00,-0,np,0,T,buried,SD,0,1,1,0
+5114,P07445_Y16F,Steroid Delta-isomerase,Pseudomonas putida,P07445,Y16F,4.4,0.12,0.0,00,0-,pn,0,H,buried,HD,0,1,1,0
+5115,P07445_Y32F,Steroid Delta-isomerase,Pseudomonas putida,P07445,Y32F,-0.0,-0.03,0.0,00,0-,pn,0,E,buried,N,0,1,1,0
+5116,P07445_Y57F,Steroid Delta-isomerase,Pseudomonas putida,P07445,Y57F,3.5,-0.1,-0.55,00,0-,pn,0,H,buried,HD,0,1,1,0
+5117,P07445_V101L,Steroid Delta-isomerase,Pseudomonas putida,P07445,V101L,3.8,-0.05,-0.36,00,--,nn,1,E,buried,HD,0,0,0,SI
+5233,P05230_C98S,Fibroblast growth factor 1,Homo sapiens,P05230,C98S,1.91,-1.51,-0.74,00,-0,np,-1,T,buried,HD,0,1,1,SD
+5234,P05230_C132S,Fibroblast growth factor 1,Homo sapiens,P05230,C132S,0.62,-1.52,-0.11,00,-0,np,-1,B,buried,SD,0,1,1,SD
+5236,P05230_H108G,Fibroblast growth factor 1,Homo sapiens,P05230,H108G,-0.55,-1.11,8.12,+0,00,pn,-2,T,exposed,SS,1,0,1,SD
+5239,P05230_C31S,Fibroblast growth factor 1,Homo sapiens,P05230,C31S,2.89,-1.3,-0.99,00,-0,np,-1,E,buried,HD,0,1,1,SD
+5263,P03050_Q9G,Transcriptional repressor arc,Salmonella phage P22,P03050,Q9G,-0.68,1.32,0.45,00,+0,pn,-2,C,exposed,SS,0,1,1,SD
+5264,P03050_R13G,Transcriptional repressor arc,Salmonella phage P22,P03050,R13G,-0.36,1.95,-0.11,+0,+0,pn,-3,C,exposed,N,1,1,1,LD
+5265,P03050_R16G,Transcriptional repressor arc,Salmonella phage P22,P03050,R16G,1.55,0.8,-0.44,+0,+0,pn,-3,H,exposed,D,1,1,1,LD
+5266,P03050_E17G,Transcriptional repressor arc,Salmonella phage P22,P03050,E17G,1.19,-0.59,-1.17,-0,+0,pn,-2,H,exposed,D,1,1,1,SD
+5272,P03050_N34G,Transcriptional repressor arc,Salmonella phage P22,P03050,N34G,-0.64,-1.04,-3.41,00,+0,pn,-1,H,exposed,SS,0,1,1,SD
+5273,P03050_S35G,Transcriptional repressor arc,Salmonella phage P22,P03050,S35G,0.46,0.5,-2.01,00,00,pn,0,H,exposed,N,0,0,1,0
+5275,P03050_K46G,Transcriptional repressor arc,Salmonella phage P22,P03050,K46G,1.6,-0.09,-1.66,+0,+0,pn,-3,H,exposed,D,1,1,1,LD
+5276,P03050_K47G,Transcriptional repressor arc,Salmonella phage P22,P03050,K47G,1.16,2.18,0.13,+0,+0,pn,-3,H,exposed,D,1,1,1,LD
+5277,P03050_E48G,Transcriptional repressor arc,Salmonella phage P22,P03050,E48G,2.59,0.15,-2.73,-0,+0,pn,-2,H,exposed,HD,1,1,1,SD
+5303,P08463_P58A,Cyclin-dependent kinases regulatory subunit,Schizosaccharomyces pombe (strain 972 / ATCC 24843),P08463,P58A,0.35,-1.19,-2.02,00,0-,nn,-1,T,exposed,N,0,1,0,SD
+5304,P08463_P44A,Cyclin-dependent kinases regulatory subunit,Schizosaccharomyces pombe (strain 972 / ATCC 24843),P08463,P44A,3.04,-0.88,-1.45,00,0-,nn,-1,C,buried,HD,0,1,0,SD
+5305,P08463_P52A,Cyclin-dependent kinases regulatory subunit,Schizosaccharomyces pombe (strain 972 / ATCC 24843),P08463,P52A,2.57,-1.15,-1.71,00,0-,nn,-1,C,buried,HD,0,1,0,SD
+5307,P08463_P20A,Cyclin-dependent kinases regulatory subunit,Schizosaccharomyces pombe (strain 972 / ATCC 24843),P08463,P20A,0.3,-1.16,-2.52,00,0-,nn,-1,G,exposed,N,0,1,0,SD
+5312,P08463_V89G,Cyclin-dependent kinases regulatory subunit,Schizosaccharomyces pombe (strain 972 / ATCC 24843),P08463,V89G,-0.81,-0.91,0.18,00,-0,nn,-2,T,exposed,SS,0,1,0,SD
+5314,P08463_S28G,Cyclin-dependent kinases regulatory subunit,Schizosaccharomyces pombe (strain 972 / ATCC 24843),P08463,S28G,-0.89,-0.81,-1.16,00,00,pn,0,C,buried,SS,0,0,1,0
+5316,P08463_P90A,Cyclin-dependent kinases regulatory subunit,Schizosaccharomyces pombe (strain 972 / ATCC 24843),P08463,P90A,-1.19,-1.11,0.78,00,0-,nn,-1,T,exposed,S,0,1,0,SD
+5317,P08463_P90G,Cyclin-dependent kinases regulatory subunit,Schizosaccharomyces pombe (strain 972 / ATCC 24843),P08463,P90G,-1.33,-0.79,0.37,00,00,nn,-1,T,exposed,S,0,0,0,SD
+5318,P08463_P29A,Cyclin-dependent kinases regulatory subunit,Schizosaccharomyces pombe (strain 972 / ATCC 24843),P08463,P29A,-0.23,-1.01,-0.59,00,0-,nn,-1,C,exposed,N,0,1,0,SD
+5355,P00720_R119E,Endolysin,Enterobacteria phage T4,P00720,R119E,-0.0,-0.12,-0.01,+-,++,pp,-1,H,exposed,N,1,0,0,SD
+5356,P00651_D75H,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,D75H,-1.1,0.34,0.41,-+,+0,pp,1,C,exposed,S,1,1,0,SI
+5357,P05798_E41K,Guanyl-specific ribonuclease Sa,Kitasatospora aureofaciens,P05798,E41K,1.2,-0.08,-1.96,-+,++,pp,1,T,exposed,D,1,0,0,SI
+5358,P05798_E74K,Guanyl-specific ribonuclease Sa,Kitasatospora aureofaciens,P05798,E74K,-1.1,-0.08,-0.2,-+,++,pp,1,C,exposed,S,1,0,0,SI
+5359,P05798_D17K,Guanyl-specific ribonuclease Sa,Kitasatospora aureofaciens,P05798,D17K,1.1,-0.17,-0.17,-+,++,pp,2,H,exposed,D,1,0,0,SI
+5360,P05798_D25H,Guanyl-specific ribonuclease Sa,Kitasatospora aureofaciens,P05798,D25H,-0.9,-0.16,-0.62,-+,+0,pp,1,C,exposed,SS,1,1,0,SI
+5362,P00720_K135E,Endolysin,Enterobacteria phage T4,P00720,K135E,1.0,-0.02,-0.28,+-,++,pp,-1,C,exposed,D,1,0,0,SD
+5449,P00644_D103N,Thermonuclease,Staphylococcus aureus,P00644,D103N,-1.4,-0.33,0.22,-0,++,pp,0,T,buried,S,1,0,0,0
+5451,P00644_T123I,Thermonuclease,Staphylococcus aureus,P00644,T123I,-0.7,-1.29,-7.33,00,0-,pn,2,C,buried,SS,0,1,1,SI
+5476,P00712_A49I,Alpha-lactalbumin,Capra hircus,P00712,A49I,-2.4,-0.21,-0.04,00,--,nn,3,H,buried,HS,0,0,0,LI
+5477,P00712_T52I,Alpha-lactalbumin,Capra hircus,P00712,T52I,1.1,-0.1,-0.48,00,0-,pn,2,H,buried,D,0,1,1,SI
+5566,Q08012_T22G,Growth factor receptor-bound protein 2,Drosophila melanogaster,Q08012,T22G,-2.4,-2.52,-1.37,00,00,pn,-1,T,exposed,HS,0,0,1,SD
+5567,Q08012_T22D,Growth factor receptor-bound protein 2,Drosophila melanogaster,Q08012,T22D,-1.5,-2.85,-2.08,0-,0+,pp,0,T,exposed,S,1,1,0,0
+5569,Q08012_T22F,Growth factor receptor-bound protein 2,Drosophila melanogaster,Q08012,T22F,-1.3,-2.46,-2.5,00,0-,pn,3,T,exposed,S,0,1,1,LI
+5570,Q08012_T22S,Growth factor receptor-bound protein 2,Drosophila melanogaster,Q08012,T22S,-0.6,-2.32,-0.73,00,00,pp,-1,T,exposed,SS,0,0,0,SD
+5571,Q08012_T22A,Growth factor receptor-bound protein 2,Drosophila melanogaster,Q08012,T22A,-0.4,-4.26,-5.73,00,0-,pn,-1,T,exposed,N,0,1,1,SD
+5572,Q08012_T22L,Growth factor receptor-bound protein 2,Drosophila melanogaster,Q08012,T22L,-0.6,-3.52,-5.32,00,0-,pn,2,T,exposed,SS,0,1,1,SI
+5573,Q08012_T22K,Growth factor receptor-bound protein 2,Drosophila melanogaster,Q08012,T22K,-0.0,-3.27,-4.91,0+,0+,pp,2,T,exposed,N,1,1,0,SI
+5654,P09919_G182A,Granulocyte-macrophage colony-stimulating factor,Homo sapiens,P09919,G182A,-2.29,0.98,0.46,00,0-,nn,0,H,buried,HS,0,1,0,0
+5656,P09919_G56A,Granulocyte-macrophage colony-stimulating factor,Homo sapiens,P09919,G56A,-3.06,0.76,-0.29,00,0-,nn,0,H,exposed,HS,0,1,0,0
+5657,P09919_G58A,Granulocyte-macrophage colony-stimulating factor,Homo sapiens,P09919,G58A,-2.66,0.64,0.67,00,0-,nn,0,H,buried,HS,0,1,0,0
+5658,P09919_G106A,Granulocyte-macrophage colony-stimulating factor,Homo sapiens,P09919,G106A,-1.44,1.19,1.82,00,0-,nn,0,H,buried,S,0,1,0,0
+5660,P09919_G120A,Granulocyte-macrophage colony-stimulating factor,Homo sapiens,P09919,G120A,1.86,-0.32,-1.26,00,0-,nn,0,H,buried,HD,0,1,0,0
+5696,P00644_M147I,Thermonuclease,Staphylococcus aureus,P00644,M147I,1.5,-0.79,-0.32,00,--,nn,0,H,buried,D,0,0,0,0
+5697,P00644_M180I,Thermonuclease,Staphylococcus aureus,P00644,M180I,4.4,0.64,-0.42,00,--,nn,0,E,buried,HD,0,0,0,0
+5733,P0AA25_D27I,Thioredoxin 1,Escherichia coli (strain K12),P0AA25,D27I,-3.1,-0.19,-0.05,-0,+-,pn,2,E,buried,HS,1,1,1,SI
+5734,P0AA25_C33A,Thioredoxin 1,Escherichia coli (strain K12),P0AA25,C33A,3.7,-0.12,-2.73,00,--,nn,-1,T,buried,HD,0,0,0,SD
+5735,P0AA25_C36A,Thioredoxin 1,Escherichia coli (strain K12),P0AA25,C36A,3.1,-0.55,-1.35,00,--,nn,-1,H,buried,HD,0,0,0,SD
+5737,P0AA25_T78V,Thioredoxin 1,Escherichia coli (strain K12),P0AA25,T78V,1.1,-0.19,-0.2,00,0-,pn,1,E,buried,D,0,1,1,SI
+5741,P00651_V42A,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,V42A,2.19,0.0,-0.03,00,--,nn,-2,H,buried,HD,0,0,0,SD
+5744,P00651_V115C,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,V115C,3.54,-0.09,-0.02,00,--,nn,-1,E,buried,HD,0,0,0,SD
+5747,P00651_V104A,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,V104A,4.08,0.03,-0.06,00,--,nn,-2,E,buried,HD,0,0,0,SD
+5749,P00651_V42S,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,V42S,4.68,-0.19,-0.23,00,-0,np,-2,H,buried,HD,0,1,1,SD
+5750,P00651_V104S,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,V104S,4.73,0.1,-0.16,00,-0,np,-2,E,buried,HD,0,1,1,SD
+5751,P00651_V115S,Guanyl-specific ribonuclease T1,Aspergillus oryzae (strain ATCC 42149 / RIB 40),P00651,V115S,4.87,-0.22,-0.18,00,-0,np,-2,E,buried,HD,0,1,1,SD
+5761,P05798_Y30F,Guanyl-specific ribonuclease Sa,Kitasatospora aureofaciens,P05798,Y30F,-0.4,-0.11,-0.12,00,0-,pn,0,T,exposed,N,0,1,1,0
+5762,P05798_Y80F,Guanyl-specific ribonuclease Sa,Kitasatospora aureofaciens,P05798,Y80F,1.5,-0.09,-0.02,00,0-,pn,0,E,buried,D,0,1,1,0
+5763,P05798_Y81F,Guanyl-specific ribonuclease Sa,Kitasatospora aureofaciens,P05798,Y81F,1.2,-0.04,-0.03,00,0-,pn,0,E,buried,D,0,1,1,0
+5764,P05798_Y86F,Guanyl-specific ribonuclease Sa,Kitasatospora aureofaciens,P05798,Y86F,0.3,-0.07,-0.47,00,0-,pn,0,T,buried,N,0,1,1,0
+5765,P05798_Y49F,Guanyl-specific ribonuclease Sa,Kitasatospora aureofaciens,P05798,Y49F,0.2,-0.06,-0.23,00,0-,pn,0,T,exposed,N,0,1,1,0
+5766,P05798_Y51F,Guanyl-specific ribonuclease Sa,Kitasatospora aureofaciens,P05798,Y51F,2.3,-0.12,-0.22,00,0-,pn,0,T,buried,HD,0,1,1,0
+5767,P05798_Y52F,Guanyl-specific ribonuclease Sa,Kitasatospora aureofaciens,P05798,Y52F,3.6,-0.16,-0.08,00,0-,pn,0,C,buried,HD,0,1,1,0
+5768,P05798_Y55F,Guanyl-specific ribonuclease Sa,Kitasatospora aureofaciens,P05798,Y55F,0.6,-0.11,-0.02,00,0-,pn,0,E,buried,SD,0,1,1,0
+5769,P30289_Y53F,Guanyl-specific ribonuclease Sa3,Kitasatospora aureofaciens,P30289,Y53F,0.6,-0.17,-0.04,00,0-,pn,0,G,exposed,SD,0,1,1,0
+5770,P30289_Y75F,Guanyl-specific ribonuclease Sa3,Kitasatospora aureofaciens,P30289,Y75F,-0.5,0.22,-0.08,00,0-,pn,0,T,exposed,SS,0,1,1,0
+5771,P30289_Y96F,Guanyl-specific ribonuclease Sa3,Kitasatospora aureofaciens,P30289,Y96F,2.6,-0.04,-0.17,00,0-,pn,0,T,buried,HD,0,1,1,0
+5772,P30289_Y97F,Guanyl-specific ribonuclease Sa3,Kitasatospora aureofaciens,P30289,Y97F,2.1,-0.06,-0.04,00,0-,pn,0,C,buried,HD,0,1,1,0
+5773,P30289_Y100F,Guanyl-specific ribonuclease Sa3,Kitasatospora aureofaciens,P30289,Y100F,0.7,-0.09,-0.01,00,0-,pn,0,E,buried,SD,0,1,1,0
+5774,P30289_Y125F,Guanyl-specific ribonuclease Sa3,Kitasatospora aureofaciens,P30289,Y125F,1.5,0.07,-0.05,00,0-,pn,0,E,buried,D,0,1,1,0
+5775,P30289_Y126F,Guanyl-specific ribonuclease Sa3,Kitasatospora aureofaciens,P30289,Y126F,1.0,-0.33,-0.05,00,0-,pn,0,E,buried,D,0,1,1,0
+5777,P0A9X9_T68W,Cold shock protein CspA,Escherichia coli (strain K12),P0A9X9,T68W,-0.7,2.48,2.58,00,0-,pp,3,E,exposed,SS,0,1,0,LI
+5779,P0A9X9_S52W,Cold shock protein CspA,Escherichia coli (strain K12),P0A9X9,S52W,0.2,-0.21,0.24,00,0-,pp,4,E,buried,N,0,1,0,LI
+5828,P00644_I221L,Thermonuclease,Staphylococcus aureus,P00644,I221L,0.1,-0.73,0.6,00,--,nn,0,G,buried,N,0,0,0,0
+5830,P00644_I97L,Thermonuclease,Staphylococcus aureus,P00644,I97L,0.6,0.01,0.08,00,--,nn,0,E,exposed,SD,0,0,0,0
+5831,P00644_I97M,Thermonuclease,Staphylococcus aureus,P00644,I97M,0.3,-0.67,-0.04,00,--,nn,0,E,exposed,N,0,0,0,0
+5832,P00644_I100L,Thermonuclease,Staphylococcus aureus,P00644,I100L,0.2,-0.38,0.5,00,--,nn,0,C,exposed,N,0,0,0,0
+5835,P00644_I154M,Thermonuclease,Staphylococcus aureus,P00644,I154M,1.8,-0.21,-0.02,00,--,nn,0,E,buried,D,0,0,0,0
+5839,P00644_L185I,Thermonuclease,Staphylococcus aureus,P00644,L185I,1.1,0.0,-0.08,00,--,nn,0,H,buried,D,0,0,0,0
+5840,P00644_L185V,Thermonuclease,Staphylococcus aureus,P00644,L185V,2.0,-0.62,-0.06,00,--,nn,-1,H,buried,HD,0,0,0,SD
+5842,P00644_L190V,Thermonuclease,Staphylococcus aureus,P00644,L190V,3.9,-0.59,-0.27,00,--,nn,-1,C,buried,HD,0,0,0,SD
+5845,P00644_L219I,Thermonuclease,Staphylococcus aureus,P00644,L219I,0.8,-0.9,0.68,00,--,nn,0,C,buried,SD,0,0,0,0
+5846,P00644_L219V,Thermonuclease,Staphylococcus aureus,P00644,L219V,1.4,-0.17,0.95,00,--,nn,-1,C,buried,D,0,0,0,SD
+5847,P00644_L96I,Thermonuclease,Staphylococcus aureus,P00644,L96I,1.5,0.14,-0.11,00,--,nn,0,E,buried,D,0,0,0,0
+5848,P00644_L96V,Thermonuclease,Staphylococcus aureus,P00644,L96V,1.5,0.13,-0.17,00,--,nn,-1,E,buried,D,0,0,0,SD
+5850,P00644_L107V,Thermonuclease,Staphylococcus aureus,P00644,L107V,1.8,0.31,-0.1,00,--,nn,-1,E,buried,D,0,0,0,SD
+5851,P00644_L118I,Thermonuclease,Staphylococcus aureus,P00644,L118I,3.1,-0.66,-0.14,00,--,nn,0,E,buried,HD,0,0,0,0
+5852,P00644_L118V,Thermonuclease,Staphylococcus aureus,P00644,L118V,3.5,-0.46,-0.24,00,--,nn,-1,E,buried,HD,0,0,0,SD
+5854,P00644_L119V,Thermonuclease,Staphylococcus aureus,P00644,L119V,3.0,0.06,-0.61,00,--,nn,-1,T,buried,HD,0,0,0,SD
+5855,P00644_L120I,Thermonuclease,Staphylococcus aureus,P00644,L120I,2.1,-0.46,-0.15,00,--,nn,0,T,buried,HD,0,0,0,0
+5856,P00644_L120V,Thermonuclease,Staphylococcus aureus,P00644,L120V,0.2,0.32,-0.11,00,--,nn,-1,T,buried,N,0,0,0,SD
+5858,P00644_L89V,Thermonuclease,Staphylococcus aureus,P00644,L89V,1.4,0.03,-23.72,00,--,nn,-1,C,buried,D,0,0,0,SD
+5859,P00644_L171I,Thermonuclease,Staphylococcus aureus,P00644,L171I,1.1,-0.12,-0.63,00,--,nn,0,E,buried,D,0,0,0,0
+5863,P00644_T104I,Thermonuclease,Staphylococcus aureus,P00644,T104I,0.7,0.35,-0.29,00,0-,pn,2,E,buried,SD,0,1,1,SI
+5864,P00644_T115I,Thermonuclease,Staphylococcus aureus,P00644,T115I,-0.6,-0.78,-0.01,00,0-,pn,2,E,buried,SS,0,1,1,SI
+5866,P00644_T126I,Thermonuclease,Staphylococcus aureus,P00644,T126I,0.6,-0.42,5.03,00,0-,pn,2,T,buried,SD,0,1,1,SI
+5867,P00644_T144I,Thermonuclease,Staphylococcus aureus,P00644,T144I,1.7,-0.46,-2.06,00,0-,pn,2,H,buried,D,0,1,1,SI
+5870,P00644_V186L,Thermonuclease,Staphylococcus aureus,P00644,V186L,0.8,-0.22,0.17,00,--,nn,1,H,buried,SD,0,0,0,SI
+5871,P00644_V193I,Thermonuclease,Staphylococcus aureus,P00644,V193I,0.7,-0.18,-0.2,00,--,nn,1,E,buried,SD,0,0,0,SI
+5873,P00644_V196I,Thermonuclease,Staphylococcus aureus,P00644,V196I,0.1,-0.58,-0.09,00,--,nn,1,C,exposed,N,0,0,0,SI
+5874,P00644_V196L,Thermonuclease,Staphylococcus aureus,P00644,V196L,1.1,-0.62,-2.31,00,--,nn,1,C,exposed,D,0,0,0,SI
+5877,P00644_V121I,Thermonuclease,Staphylococcus aureus,P00644,V121I,-0.1,-0.24,0.36,00,--,nn,1,E,buried,N,0,0,0,SI
+5878,P00644_V121L,Thermonuclease,Staphylococcus aureus,P00644,V121L,0.9,-0.68,-1.11,00,--,nn,1,E,buried,SD,0,0,0,SI
+5879,P00644_V133I,Thermonuclease,Staphylococcus aureus,P00644,V133I,-0.1,-0.93,-4.01,00,--,nn,1,C,exposed,N,0,0,0,SI
+5880,P00644_V133L,Thermonuclease,Staphylococcus aureus,P00644,V133L,0.2,-0.49,-3.52,00,--,nn,1,C,exposed,N,0,0,0,SI
+5883,P00644_V156I,Thermonuclease,Staphylococcus aureus,P00644,V156I,1.8,0.05,-0.25,00,--,nn,1,E,buried,D,0,0,0,SI
+5886,P00644_V181L,Thermonuclease,Staphylococcus aureus,P00644,V181L,0.3,-0.35,0.03,00,--,nn,1,H,buried,N,0,0,0,SI
+6043,P06312_K65T,Immunoglobulin kappa variable 1D-33,Homo sapiens,P06312,K65T,2.6,0.48,-1.22,+0,+0,pp,-2,T,exposed,HD,1,1,0,SD
+6115,P41016_Y15F,Cold shock protein CspB,Bacillus caldolyticus,P41016,Y15F,0.1,-0.06,-0.07,00,0-,pn,0,E,exposed,N,0,1,1,0
+6117,P41016_V64T,Cold shock protein CspB,Bacillus caldolyticus,P41016,V64T,0.31,-0.18,-0.15,00,-0,np,-1,E,exposed,N,0,1,1,SD
+6125,P41016_Q53E,Cold shock protein CspB,Bacillus caldolyticus,P41016,Q53E,-0.02,-0.26,-0.38,0-,++,pp,0,E,exposed,N,1,0,0,0
+6126,P41016_Q2L,Cold shock protein CspB,Bacillus caldolyticus,P41016,Q2L,-0.41,-0.31,0.02,00,+-,pn,1,E,exposed,N,0,1,1,SI
+6127,P41016_N11S,Cold shock protein CspB,Bacillus caldolyticus,P41016,N11S,-0.0,-0.42,-0.88,00,+0,pp,-1,T,exposed,N,0,1,0,SD
+6128,P41016_L66A,Cold shock protein CspB,Bacillus caldolyticus,P41016,L66A,-0.02,-0.48,-7.84,00,--,nn,-3,C,exposed,N,0,0,0,LD
+6129,P41016_L66E,Cold shock protein CspB,Bacillus caldolyticus,P41016,L66E,0.84,-0.45,-3.38,0-,-+,np,-1,C,exposed,SD,1,1,1,SD
+6131,P41016_G23Q,Cold shock protein CspB,Bacillus caldolyticus,P41016,G23Q,-0.0,-0.14,-0.62,00,0+,np,2,T,exposed,N,0,1,1,SI
+6132,P32081_E66L,Cold shock protein CspB,Bacillus subtilis (strain 168),P32081,E66L,-1.34,0.96,4.76,-0,+-,pn,1,C,exposed,S,1,1,1,SI
+6134,P41016_E46A,Cold shock protein CspB,Bacillus caldolyticus,P41016,E46A,-0.1,-0.21,-0.05,-0,+-,pn,-2,E,exposed,N,1,1,1,SD
+6136,P32081_E3R,Cold shock protein CspB,Bacillus subtilis (strain 168),P32081,E3R,-0.89,0.76,0.89,-+,++,pp,1,E,exposed,SS,1,0,0,SI
+6169,P04271_M8A,Protein S100-B,Homo sapiens,P04271,M8A,5.26,0.87,0.4,00,--,nn,-3,H,exposed,HD,0,0,0,LD
+6170,P04271_L4S,Protein S100-B,Homo sapiens,P04271,L4S,2.78,0.63,-1.53,00,-0,np,-3,H,exposed,HD,0,1,1,LD
+6173,P04271_L4A,Protein S100-B,Homo sapiens,P04271,L4A,1.2,0.66,-0.5,00,--,nn,-3,H,exposed,D,0,0,0,LD
+6174,P04271_I12A,Protein S100-B,Homo sapiens,P04271,I12A,4.14,0.98,0.04,00,--,nn,-3,H,exposed,HD,0,0,0,LD
+6175,P04271_F15A,Protein S100-B,Homo sapiens,P04271,F15A,7.54,0.98,-2.28,00,--,nn,-4,H,buried,HD,0,0,0,LD
+6181,P02693_G66P,"Fatty acid-binding protein, intestinal",Rattus norvegicus,P02693,G66P,2.5,1.38,-0.25,00,00,nn,1,T,exposed,HD,0,0,0,SI
+6182,P02693_G100P,"Fatty acid-binding protein, intestinal",Rattus norvegicus,P02693,G100P,1.5,3.35,-1.97,00,00,nn,1,T,exposed,D,0,0,0,SI
+6183,P02693_G111P,"Fatty acid-binding protein, intestinal",Rattus norvegicus,P02693,G111P,-0.0,0.46,-6.18,00,00,nn,1,T,exposed,N,0,0,0,SI
+6186,P00974_R74M,Pancreatic trypsin inhibitor,Bos taurus,P00974,R74M,5.7,0.12,-0.15,+0,+-,pn,0,C,exposed,HD,1,1,1,0
+6188,P00974_F57M,Pancreatic trypsin inhibitor,Bos taurus,P00974,F57M,7.2,0.25,-0.17,00,--,nn,-1,E,buried,HD,0,0,0,SD
+6189,P00974_T89M,Pancreatic trypsin inhibitor,Bos taurus,P00974,T89M,8.1,0.9,-1.53,00,0-,pn,2,H,buried,HD,0,1,1,SI
+6190,P00974_L64M,Pancreatic trypsin inhibitor,Bos taurus,P00974,L64M,8.5,0.24,-0.25,00,--,nn,0,E,exposed,HD,0,0,0,0
+6191,P00974_T46M,Pancreatic trypsin inhibitor,Bos taurus,P00974,T46M,8.7,0.28,-0.11,00,0-,pn,2,C,exposed,HD,0,1,1,SI
+6192,P00974_L41M,Pancreatic trypsin inhibitor,Bos taurus,P00974,L41M,8.8,0.25,-0.45,00,--,nn,0,G,exposed,HD,0,0,0,0
+6193,P00974_E84M,Pancreatic trypsin inhibitor,Bos taurus,P00974,E84M,11.4,0.18,-0.32,-0,+-,pn,1,H,exposed,HD,1,1,1,SI
+6194,P00974_R88M,Pancreatic trypsin inhibitor,Bos taurus,P00974,R88M,12.4,0.42,-1.04,+0,+-,pn,0,H,exposed,HD,1,1,1,0
+6255,P00282_H137G,Azurin,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),P00282,H137G,2.37,-0.18,-2.49,+0,00,pn,-2,T,buried,HD,1,0,1,SD
+6348,P06312_Q64N,Immunoglobulin kappa variable 1D-33,Homo sapiens,P06312,Q64N,1.1,0.36,-0.5,00,++,pp,-1,E,buried,D,0,0,0,SD
+6438,P02647_L165R,Apolipoprotein A-I,Homo sapiens,P02647,L165R,0.65,1.39,-18.18,0+,-+,np,0,H,exposed,SD,1,1,1,0
+6443,P00257_F69W,"Adrenodoxin, mitochondrial",Bos taurus,P00257,F69W,0.8,1.25,-0.12,00,--,np,0,E,buried,SD,0,0,1,0
+6444,P00257_F101W,"Adrenodoxin, mitochondrial",Bos taurus,P00257,F101W,1.21,0.93,0.22,00,--,np,0,T,buried,D,0,0,1,0
+6445,P00257_F117W,"Adrenodoxin, mitochondrial",Bos taurus,P00257,F117W,2.38,1.29,0.19,00,--,np,0,E,buried,HD,0,0,1,0
+6446,P00257_F122W,"Adrenodoxin, mitochondrial",Bos taurus,P00257,F122W,0.33,-0.39,-2.78,00,--,np,0,H,buried,N,0,0,1,0
+6447,P00257_Y140W,"Adrenodoxin, mitochondrial",Bos taurus,P00257,Y140W,0.0,2.4,5.43,00,0-,pp,0,T,exposed,N,0,1,0,0
+6496,P42773_F82Q,Cyclin-dependent kinase inhibitor 2A,Homo sapiens,P42773,F82Q,0.46,-0.88,-0.74,00,-+,np,-2,T,exposed,N,0,1,1,SD
+6497,P42773_F37H,Cyclin-dependent kinase inhibitor 2A,Homo sapiens,P42773,F37H,1.24,-0.33,-1.26,0+,-0,np,-2,T,exposed,D,1,1,1,SD
+6498,P42773_R55V,Cyclin-dependent kinase inhibitor 2A,Homo sapiens,P42773,R55V,0.32,-0.48,-1.08,+0,+-,pn,-1,H,buried,N,1,1,1,SD
+6537,P03050_V18A,Transcriptional repressor arc,Salmonella phage P22,P03050,V18A,0.79,-0.03,-1.27,00,--,nn,-2,H,exposed,SD,0,0,0,SD
+6538,P03050_L19A,Transcriptional repressor arc,Salmonella phage P22,P03050,L19A,0.82,1.57,0.25,00,--,nn,-3,H,exposed,SD,0,0,0,LD
+6539,P03050_G30A,Transcriptional repressor arc,Salmonella phage P22,P03050,G30A,1.29,2.43,-0.86,00,0-,nn,0,C,exposed,D,0,1,0,0
+6540,P03050_L12A,Transcriptional repressor arc,Salmonella phage P22,P03050,L12A,1.32,-0.72,-1.65,00,--,nn,-3,C,exposed,D,0,0,0,LD
+6541,P03050_I37V,Transcriptional repressor arc,Salmonella phage P22,P03050,I37V,1.37,0.58,-0.9,00,--,nn,-1,H,buried,D,0,0,0,SD
+6542,P03050_V33A,Transcriptional repressor arc,Salmonella phage P22,P03050,V33A,1.77,1.15,-1.38,00,--,nn,-2,H,exposed,D,0,0,0,SD
+6543,P03050_F45A,Transcriptional repressor arc,Salmonella phage P22,P03050,F45A,2.7,1.87,-0.51,00,--,nn,-4,H,exposed,HD,0,0,0,LD
+6544,P03050_M42A,Transcriptional repressor arc,Salmonella phage P22,P03050,M42A,2.97,0.52,-2.05,00,--,nn,-3,H,buried,HD,0,0,0,LD
+6545,P03050_Y38A,Transcriptional repressor arc,Salmonella phage P22,P03050,Y38A,3.0,2.37,-0.34,00,0-,pn,-4,H,exposed,HD,0,1,1,LD
+6546,P03050_V22A,Transcriptional repressor arc,Salmonella phage P22,P03050,V22A,3.02,-0.09,-2.1,00,--,nn,-2,H,buried,HD,0,0,0,SD
+6547,P03050_V41A,Transcriptional repressor arc,Salmonella phage P22,P03050,V41A,3.71,1.04,-0.83,00,--,nn,-2,H,exposed,HD,0,0,0,SD
+6548,P03050_S32A,Transcriptional repressor arc,Salmonella phage P22,P03050,S32A,3.76,1.78,-1.9,00,0-,pn,0,C,exposed,HD,0,1,1,0
+6589,P00644_E92K,Thermonuclease,Staphylococcus aureus,P00644,E92K,2.2,-0.33,-0.12,-+,++,pp,1,E,buried,HD,1,0,0,SI
+6591,P00644_D101K,Thermonuclease,Staphylococcus aureus,P00644,D101K,0.3,0.27,-0.1,-+,++,pp,2,T,buried,N,1,0,0,SI
+6592,P00644_D101N,Thermonuclease,Staphylococcus aureus,P00644,D101N,0.2,0.23,1.25,-0,++,pp,0,T,buried,N,1,0,0,0
+6595,P00644_K192E,Thermonuclease,Staphylococcus aureus,P00644,K192E,-0.8,-0.27,0.32,+-,++,pp,-1,E,exposed,SS,1,0,0,SD
+6596,P00644_K192Q,Thermonuclease,Staphylococcus aureus,P00644,K192Q,-0.3,-0.08,-0.08,+0,++,pp,-1,E,exposed,N,1,0,0,SD
+6597,P00644_K130E,Thermonuclease,Staphylococcus aureus,P00644,K130E,-0.0,-0.03,6.45,+-,++,pp,-1,T,exposed,N,1,0,0,SD
+6598,P00644_K130Q,Thermonuclease,Staphylococcus aureus,P00644,K130Q,0.1,-0.67,10.69,+0,++,pp,-1,T,exposed,N,1,0,0,SD
+6602,P00644_K145Q,Thermonuclease,Staphylococcus aureus,P00644,K145Q,1.0,-0.48,0.26,+0,++,pp,-1,H,exposed,D,1,0,0,SD
+6604,P00644_K146Q,Thermonuclease,Staphylococcus aureus,P00644,K146Q,-0.0,-0.49,0.07,+0,++,pp,-1,H,exposed,N,1,0,0,SD
+6605,P00644_E149Q,Thermonuclease,Staphylococcus aureus,P00644,E149Q,0.5,-0.52,-0.05,-0,++,pp,0,H,exposed,SD,1,0,0,0
+6606,P00644_K152E,Thermonuclease,Staphylococcus aureus,P00644,K152E,0.4,-0.38,-0.18,+-,++,pp,-1,T,exposed,N,1,0,0,SD
+6607,P00644_K152Q,Thermonuclease,Staphylococcus aureus,P00644,K152Q,0.3,-0.05,-0.05,+0,++,pp,-1,T,exposed,N,1,0,0,SD
+6608,P00644_E155K,Thermonuclease,Staphylococcus aureus,P00644,E155K,2.1,-0.05,0.01,-+,++,pp,1,E,buried,HD,1,0,0,SI
+6609,P00644_E155Q,Thermonuclease,Staphylococcus aureus,P00644,E155Q,0.7,-0.43,0.02,-0,++,pp,0,E,buried,SD,1,0,0,0
+6610,P00644_E157K,Thermonuclease,Staphylococcus aureus,P00644,E157K,2.3,-0.74,-0.1,-+,++,pp,1,E,buried,HD,1,0,0,SI
+6612,P00644_D159K,Thermonuclease,Staphylococcus aureus,P00644,D159K,3.5,-1.5,-9.02,-+,++,pp,2,C,buried,HD,1,0,0,SI
+6613,P00644_D159N,Thermonuclease,Staphylococcus aureus,P00644,D159N,2.9,-0.34,0.06,-0,++,pp,0,C,buried,HD,1,0,0,0
+6614,P00644_K160E,Thermonuclease,Staphylococcus aureus,P00644,K160E,0.8,-0.32,-0.9,+-,++,pp,-1,C,exposed,SD,1,0,0,SD
+6616,P00644_K166E,Thermonuclease,Staphylococcus aureus,P00644,K166E,-0.0,-0.72,-0.27,+-,++,pp,-1,T,exposed,N,1,0,0,SD
+6622,P00644_H206E,Thermonuclease,Staphylococcus aureus,P00644,H206E,-0.2,-0.48,-0.05,+-,0+,pp,0,H,exposed,N,1,1,0,0
+6624,P00644_K209E,Thermonuclease,Staphylococcus aureus,P00644,K209E,-0.0,-0.53,-0.04,+-,++,pp,-1,H,exposed,N,1,0,0,SD
+6626,P00644_K215Q,Thermonuclease,Staphylococcus aureus,P00644,K215Q,0.5,0.09,0.16,+0,++,pp,-1,H,exposed,SD,1,0,0,SD
+6627,P00644_E217K,Thermonuclease,Staphylococcus aureus,P00644,E217K,1.1,-0.04,-0.2,-+,++,pp,1,H,exposed,D,1,0,0,SI
+6628,P00644_E217Q,Thermonuclease,Staphylococcus aureus,P00644,E217Q,0.7,0.0,0.0,-0,++,pp,0,H,exposed,SD,1,0,0,0
+6629,P00644_D225K,Thermonuclease,Staphylococcus aureus,P00644,D225K,-0.3,-0.08,3.39,-+,++,pp,2,T,exposed,N,1,0,0,SI
+6630,P00644_D225N,Thermonuclease,Staphylococcus aureus,P00644,D225N,-0.3,-0.06,1.08,-0,++,pp,0,T,exposed,N,1,0,0,0
+6634,P00044_K33Q,Cytochrome c isoform 1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),P00044,K33Q,1.72,-0.31,-0.87,+0,++,pp,-1,T,exposed,D,1,0,0,SD
+6639,P00044_K33H,Cytochrome c isoform 1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),P00044,K33H,4.9,-0.16,-1.61,++,+0,pp,-1,T,exposed,HD,0,1,0,SD
+6640,P00044_K28H,Cytochrome c isoform 1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),P00044,K28H,10.4,-0.11,-0.11,++,+0,pp,-1,T,exposed,HD,0,1,0,SD
+6642,P62942_W60L,Peptidyl-prolyl cis-trans isomerase FKBP1A,Homo sapiens,P62942,W60L,-2.35,-0.53,-0.78,00,--,pn,-1,H,buried,HS,0,0,1,SD
+6671,P0CG63_K11A,E3 ubiquitin-protein ligase RSP5,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),P0CG63,K11A,0.14,-0.3,-3.22,+0,+-,pn,-3,C,exposed,N,1,1,1,LD
+6674,P0CG63_E34L,E3 ubiquitin-protein ligase RSP5,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),P0CG63,E34L,-0.96,-0.17,-1.17,-0,+-,pn,1,H,exposed,S,1,1,1,SI
+6677,P0CG63_E34D,E3 ubiquitin-protein ligase RSP5,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),P0CG63,E34D,1.0,-0.22,-1.58,--,++,pp,-1,H,exposed,D,0,0,0,SD
+6701,P09919_E63A,Granulocyte-macrophage colony-stimulating factor,Homo sapiens,P09919,E63A,2.1,0.74,-0.42,-0,+-,pn,-2,H,exposed,HD,1,1,1,SD
+6703,P09919_L83E,Granulocyte-macrophage colony-stimulating factor,Homo sapiens,P09919,L83E,2.3,-0.12,-14.82,0-,-+,np,-1,H,buried,HD,1,1,1,SD
+6747,P61823_F72L,Ribonuclease pancreatic,Bos taurus,P61823,F72L,3.2,-0.12,-0.04,00,--,nn,-1,E,buried,HD,0,0,0,SD
+6748,P61823_F72V,Ribonuclease pancreatic,Bos taurus,P61823,F72V,4.54,0.13,-0.1,00,--,nn,-2,E,buried,HD,0,0,0,SD
+6749,P61823_F72A,Ribonuclease pancreatic,Bos taurus,P61823,F72A,6.35,0.15,-0.14,00,--,nn,-4,E,buried,HD,0,0,0,LD
+6866,P02185_I31A,Myoglobin,Physeter macrocephalus,P02185,I31A,-1.9,-0.46,-1.85,00,--,nn,-3,H,buried,HS,0,0,0,LD
+6867,P02185_L30A,Myoglobin,Physeter macrocephalus,P02185,L30A,-0.39,0.11,-0.26,00,--,nn,-3,H,buried,N,0,0,0,LD
+6965,P02945_M69A,Bacteriorhodopsin,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),P02945,M69A,-1.4,0.04,0.14,00,--,nn,-3,H,buried,S,0,0,0,LD
+6966,P02945_V62A,Bacteriorhodopsin,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),P02945,V62A,-0.7,-0.4,-0.37,00,--,nn,-2,H,buried,SS,0,0,0,SD
+6967,P02945_L74A,Bacteriorhodopsin,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),P02945,L74A,-0.7,0.11,1.26,00,--,nn,-3,H,buried,SS,0,0,0,LD
+6968,P02945_L75A,Bacteriorhodopsin,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),P02945,L75A,-0.5,-0.11,-0.93,00,--,nn,-3,H,exposed,SS,0,0,0,LD
+6970,P02945_P63A,Bacteriorhodopsin,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),P02945,P63A,-0.1,-0.19,0.08,00,0-,nn,-1,H,buried,N,0,1,0,SD
+6972,P02945_L61A,Bacteriorhodopsin,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),P02945,L61A,0.1,0.0,0.0,00,--,nn,-3,H,exposed,N,0,0,0,LD
+6974,P02945_P50A,Bacteriorhodopsin,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),P02945,P50A,0.2,0.03,-0.47,00,0-,nn,-1,H,exposed,N,0,1,0,SD
+6976,P02945_K53A,Bacteriorhodopsin,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),P02945,K53A,0.3,-0.44,-1.0,+0,+-,pn,-3,H,exposed,N,1,1,1,LD
+6977,P02945_D51A,Bacteriorhodopsin,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),P02945,D51A,0.5,-0.05,-2.71,-0,+-,pn,-1,H,exposed,SD,1,1,1,SD
+6979,P02945_D49A,Bacteriorhodopsin,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),P02945,D49A,0.9,-0.48,-1.83,-0,+-,pn,-1,C,buried,SD,1,1,1,SD
+6980,P02945_T60A,Bacteriorhodopsin,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),P02945,T60A,1.0,-0.08,-0.44,00,0-,pn,-1,H,buried,D,0,1,1,SD
+6982,P02945_Y56A,Bacteriorhodopsin,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),P02945,Y56A,1.3,-0.54,-1.71,00,0-,pn,-4,H,buried,D,0,1,1,LD
+6984,P02945_K54A,Bacteriorhodopsin,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),P02945,K54A,1.6,-0.46,-0.99,+0,+-,pn,-3,H,exposed,D,1,1,1,LD
+6986,P02945_I58A,Bacteriorhodopsin,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),P02945,I58A,1.9,-0.43,-0.66,00,--,nn,-3,H,buried,HD,0,0,0,LD
+6988,P02945_Y70A,Bacteriorhodopsin,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),P02945,Y70A,3.7,-0.09,-0.03,00,0-,pn,-4,H,buried,HD,0,1,1,LD
+6991,P0A7Y4_I53V,Ribonuclease HI,Escherichia coli (strain K12),P0A7Y4,I53V,0.2,0.74,0.05,00,--,nn,-1,H,buried,N,0,0,0,SD
+6992,P0A7Y4_I53L,Ribonuclease HI,Escherichia coli (strain K12),P0A7Y4,I53L,1.4,0.57,-0.41,00,--,nn,0,H,buried,D,0,0,0,0
+6993,P0A7Y4_I53F,Ribonuclease HI,Escherichia coli (strain K12),P0A7Y4,I53F,3.9,0.53,-0.47,00,--,nn,1,H,buried,HD,0,0,0,SI
+6994,P0A7Y4_I53D,Ribonuclease HI,Escherichia coli (strain K12),P0A7Y4,I53D,4.1,0.55,-0.35,0-,-+,np,-2,H,buried,HD,1,1,1,SD
+7009,P41016_F38W,Cold shock protein CspB,Bacillus caldolyticus,P41016,F38W,-0.02,-0.21,-0.53,00,--,np,0,T,exposed,N,0,0,1,0
+7028,P00942_C126S,Triosephosphate isomerase,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),P00942,C126S,8.0,0.03,-0.11,00,-0,np,-1,E,buried,HD,0,1,1,SD
+7033,P00648_I135G,Ribonuclease,Bacillus amyloliquefaciens,P00648,I135G,7.4,-0.48,-0.09,00,-0,nn,-3,E,buried,HD,0,1,0,LD
+7036,P00648_L142G,Ribonuclease,Bacillus amyloliquefaciens,P00648,L142G,4.7,-0.12,-0.56,00,-0,nn,-3,C,buried,HD,0,1,0,LD
+7037,P00648_Q62A,Ribonuclease,Bacillus amyloliquefaciens,P00648,Q62A,0.2,-0.11,-0.67,00,+-,pn,-2,H,exposed,N,0,1,1,SD
+7038,P00648_Q62G,Ribonuclease,Bacillus amyloliquefaciens,P00648,Q62G,1.6,-0.51,-0.66,00,+0,pn,-2,H,exposed,D,0,1,1,SD
+7040,P00648_T147G,Ribonuclease,Bacillus amyloliquefaciens,P00648,T147G,2.8,-0.31,-0.35,00,00,pn,-1,T,exposed,HD,0,0,1,SD
+7041,P00648_Y60G,Ribonuclease,Bacillus amyloliquefaciens,P00648,Y60G,6.4,-0.55,-0.87,00,00,pn,-4,H,buried,HD,0,0,1,LD
+7042,P00648_Y144G,Ribonuclease,Bacillus amyloliquefaciens,P00648,Y144G,6.6,-0.5,-0.28,00,00,pn,-4,E,buried,HD,0,0,1,LD
+7072,P00644_W222F,Thermonuclease,Staphylococcus aureus,P00644,W222F,0.6,-0.26,1.26,00,--,pn,0,G,buried,SD,0,0,1,0
+7074,P00644_W222L,Thermonuclease,Staphylococcus aureus,P00644,W222L,4.5,-0.58,-6.38,00,--,pn,-1,G,buried,HD,0,0,1,SD
+7116,P00712_V109A,Alpha-lactalbumin,Capra hircus,P00712,V109A,-0.73,0.1,-0.09,00,--,nn,-2,H,exposed,SS,0,0,0,SD
+7117,P00712_W137F,Alpha-lactalbumin,Capra hircus,P00712,W137F,0.36,0.05,0.1,00,--,pn,0,G,buried,N,0,0,1,0
+7120,P00712_V27A,Alpha-lactalbumin,Capra hircus,P00712,V27A,0.85,-0.12,-0.45,00,--,nn,-2,H,buried,SD,0,0,0,SD
+7121,P00712_L115A,Alpha-lactalbumin,Capra hircus,P00712,L115A,1.14,0.07,-0.14,00,--,nn,-3,H,buried,D,0,0,0,LD
+7122,P00712_D106N,Alpha-lactalbumin,Capra hircus,P00712,D106N,1.29,0.32,0.1,-0,++,pp,0,H,buried,D,1,0,0,0
+7123,P00712_L124A,Alpha-lactalbumin,Capra hircus,P00712,L124A,1.31,-0.05,0.27,00,--,nn,-3,H,exposed,D,0,0,0,LD
+7124,P00712_I74V,Alpha-lactalbumin,Capra hircus,P00712,I74V,1.38,0.14,-0.04,00,--,nn,-1,E,buried,D,0,0,0,SD
+7125,P00712_I114V,Alpha-lactalbumin,Capra hircus,P00712,I114V,1.42,0.06,-0.04,00,--,nn,-1,H,buried,D,0,0,0,SD
+7127,P00712_K112A,Alpha-lactalbumin,Capra hircus,P00712,K112A,1.71,-0.63,-0.4,+0,+-,pn,-3,H,buried,D,1,1,1,LD
+7129,P00712_W79A,Alpha-lactalbumin,Capra hircus,P00712,W79A,2.55,-0.04,-0.34,00,--,pn,-4,T,buried,HD,0,0,1,LD
+7158,P11540_R76Q,Barstar,Bacillus amyloliquefaciens,P11540,R76Q,0.37,0.05,-0.02,+0,++,pp,-1,H,exposed,N,1,0,0,SD
+7163,P11540_K23Q,Barstar,Bacillus amyloliquefaciens,P11540,K23Q,0.9,0.12,0.03,+0,++,pp,-1,H,exposed,SD,1,0,0,SD
+7165,P11540_K61E,Barstar,Bacillus amyloliquefaciens,P11540,K61E,1.1,-0.2,-0.21,+-,++,pp,-1,H,buried,D,1,0,0,SD
+7166,P11540_K61L,Barstar,Bacillus amyloliquefaciens,P11540,K61L,-0.6,-0.4,-1.8,+0,+-,pn,0,H,buried,SS,1,1,1,0
+7167,P04166_D76R,Cytochrome b5,Rattus norvegicus,P04166,D76R,-0.33,-1.57,-0.14,-+,++,pp,2,H,exposed,N,1,0,0,SI
+7168,P04166_P97A,Cytochrome b5,Rattus norvegicus,P04166,P97A,0.64,-2.51,-2.13,00,0-,nn,-1,G,exposed,SD,0,1,0,SD
+7225,P05230_H36Y,Fibroblast growth factor 1,Homo sapiens,P05230,H36Y,-1.01,-1.04,-0.17,+0,00,pp,2,E,buried,S,1,0,0,SI
+7228,P05230_F123Y,Fibroblast growth factor 1,Homo sapiens,P05230,F123Y,-0.94,-1.46,-0.22,00,-0,np,0,B,buried,S,0,1,1,0
+7229,P05230_V124I,Fibroblast growth factor 1,Homo sapiens,P05230,V124I,-0.06,-1.08,-0.17,00,--,nn,1,C,buried,N,0,0,0,SI
+7313,P0A3E0_E41K,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3E0,E41K,-2.21,-0.11,-0.43,-+,++,pp,1,C,exposed,HS,1,0,0,SI
+7315,P0A3E0_E73K,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3E0,E73K,-1.28,-0.08,-0.09,-+,++,pp,1,C,exposed,S,1,0,0,SI
+7316,P0A3E0_D127K,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3E0,D127K,-1.01,-0.04,0.01,-+,++,pp,2,C,exposed,S,1,0,0,SI
+7317,P0A3E0_D76K,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3E0,D76K,-1.0,-0.09,-0.08,-+,++,pp,2,G,exposed,S,1,0,0,SI
+7332,P0A3E0_D66K,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3E0,D66K,0.26,-0.14,-1.28,-+,++,pp,2,H,exposed,N,1,0,0,SI
+7335,P0A3E0_L7A,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3E0,L7A,3.53,-0.07,-0.3,00,--,nn,-3,E,buried,HD,0,0,0,LD
+7336,P0A3E0_I23V,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3E0,I23V,1.94,-0.04,-0.12,00,--,nn,-1,H,buried,HD,0,0,0,SD
+7340,P0A3E0_I53V,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3E0,I53V,1.38,-0.02,-0.01,00,--,nn,-1,E,buried,D,0,0,0,SD
+7343,P0A3E0_N98A,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3E0,N98A,0.83,-0.15,-0.66,00,+-,pn,-1,T,buried,SD,0,1,1,SD
+7344,P0A3E0_Q100A,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3E0,Q100A,-1.72,-0.22,-0.57,00,+-,pn,-2,T,buried,S,0,1,1,SD
+7348,P0A3E0_T123S,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3E0,T123S,0.37,-0.16,-0.46,00,00,pp,-1,T,buried,N,0,0,0,SD
+7349,P0A3E0_V140A,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3E0,V140A,1.51,-0.16,-0.17,00,--,nn,-2,T,buried,D,0,0,0,SD
+7350,P0A3E0_L144A,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3E0,L144A,0.14,0.0,-0.17,00,--,nn,-3,E,buried,N,0,0,0,LD
+7351,P0A3E0_I157V,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3E0,I157V,3.6,0.01,-0.02,00,--,nn,-1,H,buried,HD,0,0,0,SD
+7452,P02417_H144Q,50S ribosomal protein L9,Geobacillus stearothermophilus,P02417,H144Q,0.82,0.81,0.85,+0,0+,pp,0,E,buried,SD,1,1,0,0
+7453,P02417_H134Q,50S ribosomal protein L9,Geobacillus stearothermophilus,P02417,H134Q,0.97,-0.07,-2.85,+0,0+,pp,0,E,buried,D,1,1,0,0
+7534,P00282_V115A,Azurin,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),P00282,V115A,0.6,-0.05,-0.05,00,--,nn,-2,E,buried,SD,0,0,0,SD
+7535,P00282_L53A,Azurin,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),P00282,L53A,0.96,0.06,-0.01,00,--,nn,-3,E,buried,D,0,0,0,LD
+7538,P00282_F117A,Azurin,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),P00282,F117A,2.39,-0.18,-1.23,00,--,nn,-4,E,buried,HD,0,0,0,LD
+7540,P00282_F130A,Azurin,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),P00282,F130A,3.35,0.02,-0.02,00,--,nn,-4,E,buried,HD,0,0,0,LD
+7691,P10762_T47A,Apolipophorin-3b,Locusta migratoria,P10762,T47A,-0.6,0.35,0.46,00,0-,pn,-1,G,buried,SS,0,1,1,SD
+7692,P10762_T159A,Apolipophorin-3b,Locusta migratoria,P10762,T159A,1.32,0.37,-0.2,00,0-,pn,-1,H,buried,D,0,1,1,SD
+7693,P10762_L33K,Apolipophorin-3b,Locusta migratoria,P10762,L33K,1.36,-2.61,-7.34,0+,-+,np,0,H,buried,D,1,1,1,0
+7694,P10762_A155K,Apolipophorin-3b,Locusta migratoria,P10762,A155K,1.69,0.02,0.12,0+,-+,np,3,H,buried,D,1,1,1,LI
+7702,P23370_V6A,30S ribosomal protein S6,Thermus thermophilus,P23370,V6A,1.7,1.16,-0.78,00,--,nn,-2,E,buried,D,0,0,0,SD
+7703,P23370_I8A,30S ribosomal protein S6,Thermus thermophilus,P23370,I8A,2.9,1.16,-0.87,00,--,nn,-3,E,buried,HD,0,0,0,LD
+7704,P23370_L21A,30S ribosomal protein S6,Thermus thermophilus,P23370,L21A,-1.2,1.21,-0.49,00,--,nn,-3,H,exposed,S,0,0,0,LD
+7706,P23370_I26A,30S ribosomal protein S6,Thermus thermophilus,P23370,I26A,2.8,1.23,-1.45,00,--,nn,-3,H,buried,HD,0,0,0,LD
+7707,P23370_Y33A,30S ribosomal protein S6,Thermus thermophilus,P23370,Y33A,-0.6,1.41,-0.92,00,0-,pn,-4,H,buried,SS,0,1,1,LD
+7709,P23370_V37A,30S ribosomal protein S6,Thermus thermophilus,P23370,V37A,3.0,1.1,-1.92,00,--,nn,-2,E,buried,HD,0,0,0,SD
+7710,P23370_L48A,30S ribosomal protein S6,Thermus thermophilus,P23370,L48A,0.3,1.02,-1.4,00,--,nn,-3,E,buried,N,0,0,0,LD
+7711,P23370_I52A,30S ribosomal protein S6,Thermus thermophilus,P23370,I52A,1.0,0.77,-8.8,00,--,nn,-3,E,buried,D,0,0,0,LD
+7712,P23370_F60A,30S ribosomal protein S6,Thermus thermophilus,P23370,F60A,-0.3,1.37,-0.52,00,--,nn,-4,E,buried,N,0,0,0,LD
+7713,P23370_V65A,30S ribosomal protein S6,Thermus thermophilus,P23370,V65A,2.3,1.39,-0.25,00,--,nn,-2,E,buried,HD,0,0,0,SD
+7715,P23370_L79A,30S ribosomal protein S6,Thermus thermophilus,P23370,L79A,2.7,1.07,-2.64,00,--,nn,-3,H,buried,HD,0,0,0,LD
+7716,P23370_V85A,30S ribosomal protein S6,Thermus thermophilus,P23370,V85A,2.9,1.03,-1.14,00,--,nn,-2,E,buried,HD,0,0,0,SD
+7717,P23370_V88A,30S ribosomal protein S6,Thermus thermophilus,P23370,V88A,1.2,1.5,-0.7,00,--,nn,-2,E,buried,D,0,0,0,SD
+7723,P00282_V25A,Azurin,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),P00282,V25A,0.96,0.06,-0.04,00,--,nn,-2,E,buried,D,0,0,0,SD
+7725,P00282_I101A,Azurin,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),P00282,I101A,1.43,0.07,-0.37,00,--,nn,-3,E,buried,D,0,0,0,LD
+7729,P00282_A102G,Azurin,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),P00282,A102G,1.67,0.03,-0.09,00,-0,nn,0,E,buried,D,0,1,0,0
+7730,P00282_L145A,Azurin,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),P00282,L145A,1.67,0.11,0.02,00,--,nn,-3,E,buried,D,0,0,0,LD
+7732,P00282_I40A,Azurin,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),P00282,I40A,2.39,-0.01,-0.43,00,--,nn,-3,E,buried,HD,0,0,0,LD
+7828,P02417_K7M,50S ribosomal protein L9,Geobacillus stearothermophilus,P02417,K7M,-0.35,0.43,-1.3,+0,+-,pn,0,T,exposed,N,1,1,1,0
+7829,P02417_E54Q,50S ribosomal protein L9,Geobacillus stearothermophilus,P02417,E54Q,-0.33,0.57,-0.36,-0,++,pp,0,H,exposed,N,1,0,0,0
+7830,P02417_K10M,50S ribosomal protein L9,Geobacillus stearothermophilus,P02417,K10M,-0.05,0.31,-1.35,+0,+-,pn,0,T,exposed,N,1,1,1,0
+7832,P02417_K14M,50S ribosomal protein L9,Geobacillus stearothermophilus,P02417,K14M,-0.01,0.54,-1.16,+0,+-,pn,0,T,exposed,N,1,1,1,0
+7833,P02417_E17Q,50S ribosomal protein L9,Geobacillus stearothermophilus,P02417,E17Q,0.21,0.82,-0.75,-0,++,pp,0,E,exposed,N,1,0,0,0
+7835,P02417_K15M,50S ribosomal protein L9,Geobacillus stearothermophilus,P02417,K15M,0.31,0.99,-1.29,+0,+-,pn,0,T,exposed,N,1,1,1,0
+7839,P02417_L6I,50S ribosomal protein L9,Geobacillus stearothermophilus,P02417,L6I,0.13,1.21,-0.54,00,--,nn,0,T,exposed,N,0,0,0,0
+7840,P02417_V3I,50S ribosomal protein L9,Geobacillus stearothermophilus,P02417,V3I,0.31,0.38,-0.74,00,--,nn,1,E,buried,N,0,0,0,SI
+7841,P02417_V21I,50S ribosomal protein L9,Geobacillus stearothermophilus,P02417,V21I,0.4,0.66,-0.32,00,--,nn,1,C,buried,N,0,0,0,SI
+7842,P02417_L6V,50S ribosomal protein L9,Geobacillus stearothermophilus,P02417,L6V,0.41,0.65,-0.74,00,--,nn,-1,T,exposed,N,0,0,0,SD
+7844,P02417_V21L,50S ribosomal protein L9,Geobacillus stearothermophilus,P02417,V21L,1.23,-0.07,-2.72,00,--,nn,1,C,buried,D,0,0,0,SI
+7846,P02417_V3L,50S ribosomal protein L9,Geobacillus stearothermophilus,P02417,V3L,2.21,0.28,-1.21,00,--,nn,1,E,buried,HD,0,0,0,SI
+7847,P02417_I4A,50S ribosomal protein L9,Geobacillus stearothermophilus,P02417,I4A,2.22,0.09,-3.44,00,--,nn,-3,E,buried,HD,0,0,0,LD
+7848,P02417_V21A,50S ribosomal protein L9,Geobacillus stearothermophilus,P02417,V21A,2.33,0.45,-1.34,00,--,nn,-2,C,buried,HD,0,0,0,SD
+7850,P02417_V3A,50S ribosomal protein L9,Geobacillus stearothermophilus,P02417,V3A,2.55,-0.19,-2.73,00,--,nn,-2,E,buried,HD,0,0,0,SD
+7852,P02417_L6A,50S ribosomal protein L9,Geobacillus stearothermophilus,P02417,L6A,3.1,0.9,-1.01,00,--,nn,-3,T,exposed,HD,0,0,0,LD
+7854,P00171_S76L,Cytochrome b5,Bos taurus,P00171,S76L,-0.8,-0.17,1.77,00,0-,pn,3,H,buried,SS,0,1,1,LI
+7866,P00712_W123F,Alpha-lactalbumin,Capra hircus,P00712,W123F,2.27,0.3,-0.83,00,--,pn,0,C,buried,HD,0,0,1,0
+7868,P00712_W45F,Alpha-lactalbumin,Capra hircus,P00712,W45F,2.4,0.05,0.22,00,--,pn,0,H,buried,HD,0,0,1,0
+7907,P29160_E7A,50S ribosomal protein L30e,Thermococcus celer,P29160,E7A,0.77,0.07,-0.25,-0,+-,pn,-2,H,buried,SD,1,1,1,SD
+7908,P29160_R9A,50S ribosomal protein L30e,Thermococcus celer,P29160,R9A,0.77,0.47,0.8,+0,+-,pn,-3,H,exposed,SD,1,1,1,LD
+7909,P29160_K10A,50S ribosomal protein L30e,Thermococcus celer,P29160,K10A,0.29,0.44,0.04,+0,+-,pn,-3,H,exposed,N,1,1,1,LD
+7910,P29160_D13A,50S ribosomal protein L30e,Thermococcus celer,P29160,D13A,-0.24,0.23,0.22,-0,+-,pn,-1,H,exposed,N,1,1,1,SD
+7912,P29160_R22A,50S ribosomal protein L30e,Thermococcus celer,P29160,R22A,-0.07,0.31,0.27,+0,+-,pn,-3,H,exposed,N,1,1,1,LD
+7916,P29160_R40A,50S ribosomal protein L30e,Thermococcus celer,P29160,R40A,0.07,0.1,0.29,+0,+-,pn,-3,T,exposed,N,1,1,1,LD
+7917,P29160_R43A,50S ribosomal protein L30e,Thermococcus celer,P29160,R43A,-0.33,0.51,0.55,+0,+-,pn,-3,C,exposed,N,1,1,1,LD
+7919,P29160_K47A,50S ribosomal protein L30e,Thermococcus celer,P29160,K47A,1.1,0.6,0.29,+0,+-,pn,-3,H,buried,D,1,1,1,LD
+7920,P29160_E48A,50S ribosomal protein L30e,Thermococcus celer,P29160,E48A,0.05,0.41,0.25,-0,+-,pn,-2,H,exposed,N,1,1,1,SD
+7923,P29160_R55A,50S ribosomal protein L30e,Thermococcus celer,P29160,R55A,0.26,0.55,0.83,+0,+-,pn,-3,H,exposed,N,1,1,1,LD
+7924,P29160_E63A,50S ribosomal protein L30e,Thermococcus celer,P29160,E63A,1.29,0.18,-0.39,-0,+-,pn,-2,E,exposed,D,1,1,1,SD
+7925,P29160_E65A,50S ribosomal protein L30e,Thermococcus celer,P29160,E65A,0.26,0.47,1.18,-0,+-,pn,-2,C,exposed,N,1,1,1,SD
+7926,P29160_E70A,50S ribosomal protein L30e,Thermococcus celer,P29160,E70A,0.74,0.34,0.11,-0,+-,pn,-2,H,exposed,SD,1,1,1,SD
+7927,P29160_R77A,50S ribosomal protein L30e,Thermococcus celer,P29160,R77A,-0.19,0.2,-0.04,+0,+-,pn,-3,C,exposed,N,1,1,1,LD
+7929,P29160_D88A,50S ribosomal protein L30e,Thermococcus celer,P29160,D88A,1.36,0.36,0.13,-0,+-,pn,-1,E,exposed,D,1,1,1,SD
+7931,P29160_R93A,50S ribosomal protein L30e,Thermococcus celer,P29160,R93A,0.31,0.12,0.28,+0,+-,pn,-3,C,exposed,N,1,1,1,LD
+7932,P0A3E0_I22A,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3E0,I22A,0.02,-0.09,0.1,00,--,nn,-3,H,exposed,N,0,0,0,LD
+7934,P0A3E0_I22G,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3E0,I22G,-0.01,0.0,0.06,00,-0,nn,-3,H,exposed,N,0,1,0,LD
+7936,P0A3E0_L51A,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3E0,L51A,-0.05,-0.14,-0.61,00,--,nn,-3,E,buried,N,0,0,0,LD
+7938,P0A3E0_V84I,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3E0,V84I,-0.06,-0.09,-0.09,00,--,nn,1,E,buried,N,0,0,0,SI
+7939,P0A3E0_Q112G,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3E0,Q112G,-0.1,0.07,0.0,00,+0,pn,-2,H,exposed,N,0,1,1,SD
+7945,P0A3E0_A102V,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3E0,A102V,-0.22,-0.22,-0.38,00,--,nn,2,H,buried,N,0,0,0,SI
+7947,P0A3E0_E108A,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3E0,E108A,-0.23,-0.13,-0.11,-0,+-,pn,-2,H,exposed,N,1,1,1,SD
+7949,P0A3E0_V19I,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3E0,V19I,-0.27,-0.17,-0.06,00,--,nn,1,H,buried,N,0,0,0,SI
+7960,P0A3E0_G69A,Flavodoxin,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),P0A3E0,G69A,-0.45,0.04,0.16,00,0-,nn,0,H,exposed,N,0,1,0,0
+8003,P04905_F57S,Glutathione S-transferase Mu 1,Rattus norvegicus,P04905,F57S,0.5,-0.14,-0.7,00,-0,np,-4,T,exposed,SD,0,1,1,LD
+8021,P02693_W7Y,"Fatty acid-binding protein, intestinal",Rattus norvegicus,P02693,W7Y,0.93,-0.28,-0.2,00,-0,pp,0,E,buried,D,0,1,0,0
+8022,P02693_W83Y,"Fatty acid-binding protein, intestinal",Rattus norvegicus,P02693,W83Y,-0.09,1.28,0.41,00,-0,pp,0,E,buried,N,0,1,0,0
+8023,P02693_F69A,"Fatty acid-binding protein, intestinal",Rattus norvegicus,P02693,F69A,-1.38,4.19,-0.71,00,--,nn,-4,E,buried,S,0,0,0,LD
+8043,P00282_V42T,Azurin,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),P00282,V42T,0.96,-0.17,-2.82,00,-0,np,-1,E,buried,D,0,1,1,SD
+8044,P00282_V51T,Azurin,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),P00282,V51T,1.08,-0.01,-0.02,00,-0,np,-1,E,buried,D,0,1,1,SD
+8045,P00282_L70V,Azurin,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),P00282,L70V,0.36,-0.09,0.0,00,--,nn,-1,E,buried,N,0,0,0,SD
+8046,P00282_L70T,Azurin,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),P00282,L70T,2.34,0.04,-0.01,00,-0,np,-2,E,buried,HD,0,1,1,SD
+8047,P00282_I101V,Azurin,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),P00282,I101V,0.07,-0.11,-0.05,00,--,nn,-1,E,buried,N,0,0,0,SD
+8049,P00282_I101T,Azurin,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),P00282,I101T,2.51,0.05,-0.12,00,-0,np,-2,E,buried,HD,0,1,1,SD
+8050,P00282_V115T,Azurin,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),P00282,V115T,-0.96,0.0,-0.01,00,-0,np,-1,E,buried,S,0,1,1,SD
+8248,P02417_F5V,50S ribosomal protein L9,Geobacillus stearothermophilus,P02417,F5V,3.99,-0.28,-3.15,00,--,nn,-2,E,buried,HD,0,0,0,SD
+8617,P19614_D58N,Type-3 ice-structuring protein HPLC 12,Zoarces americanus,P19614,D58N,0.06,0.1,0.02,-0,++,pp,0,G,exposed,N,1,0,0,0
+8618,P19614_E25A,Type-3 ice-structuring protein HPLC 12,Zoarces americanus,P19614,E25A,0.02,-0.03,0.13,-0,+-,pn,-2,E,exposed,N,1,1,1,SD
+8621,P19614_R47A,Type-3 ice-structuring protein HPLC 12,Zoarces americanus,P19614,R47A,0.56,0.08,-0.38,+0,+-,pn,-3,C,exposed,SD,1,1,1,LD
+8622,P19614_R23A,Type-3 ice-structuring protein HPLC 12,Zoarces americanus,P19614,R23A,0.7,-0.1,0.39,+0,+-,pn,-3,E,exposed,SD,1,1,1,LD
+8624,P19614_R39A,Type-3 ice-structuring protein HPLC 12,Zoarces americanus,P19614,R39A,0.69,0.18,0.51,+0,+-,pn,-3,G,exposed,SD,1,1,1,LD
+8691,P00720_I50A,Endolysin,Enterobacteria phage T4,P00720,I50A,2.9,-0.06,-2.36,00,--,nn,-3,H,buried,HD,0,0,0,LD
+8692,P00720_L7A,Endolysin,Enterobacteria phage T4,P00720,L7A,3.9,-0.9,-4.95,00,--,nn,-3,H,buried,HD,0,0,0,LD
+8693,P00720_V87A,Endolysin,Enterobacteria phage T4,P00720,V87A,2.8,-0.37,-0.45,00,--,nn,-2,H,buried,HD,0,0,0,SD
+8695,P00720_A130G,Endolysin,Enterobacteria phage T4,P00720,A130G,2.1,0.1,-0.17,00,-0,nn,0,H,buried,HD,0,1,0,0
+8696,P00720_I150V,Endolysin,Enterobacteria phage T4,P00720,I150V,2.1,-0.16,-0.06,00,--,nn,-1,H,buried,HD,0,0,0,SD
+8871,P00282_C132S,Azurin,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),P00282,C132S,-1.54,0.04,-0.02,00,-0,np,-1,C,buried,S,0,1,1,SD
+9035,P00099_F56Y,Cytochrome c-551,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),P00099,F56Y,-1.33,0.34,0.86,00,-0,np,0,H,buried,S,0,1,1,0
+9037,P00099_E65Y,Cytochrome c-551,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),P00099,E65Y,-1.13,-0.01,0.05,-0,+0,pp,2,H,exposed,S,1,1,0,SI
+9342,P01236_H55A,Prolactin,Homo sapiens,P01236,H55A,-0.09,-0.9,-0.01,+0,0-,pn,-2,H,exposed,N,1,1,1,SD
+9344,P01236_H74A,Prolactin,Homo sapiens,P01236,H74A,0.11,-0.72,2.37,+0,0-,pn,-2,T,exposed,N,1,1,1,SD
+9345,P01236_H87A,Prolactin,Homo sapiens,P01236,H87A,-2.26,-1.17,-3.59,+0,0-,pn,-2,T,buried,HS,1,1,1,SD
+9346,P01236_H125A,Prolactin,Homo sapiens,P01236,H125A,-1.07,-0.67,-0.24,+0,0-,pn,-2,H,buried,S,1,1,1,SD
+9348,P01236_H201A,Prolactin,Homo sapiens,P01236,H201A,-0.24,-0.9,-0.46,+0,0-,pn,-2,H,buried,N,1,1,1,SD
+9349,P01236_H208A,Prolactin,Homo sapiens,P01236,H208A,-1.39,-1.01,-0.36,+0,0-,pn,-2,H,exposed,S,1,1,1,SD
+9350,P01236_H223A,Prolactin,Homo sapiens,P01236,H223A,0.03,-0.93,-1.76,+0,0-,pn,-2,H,exposed,N,1,1,1,SD
+9422,P37957_S194P,Lipase EstA,Bacillus subtilis (strain 168),P37957,S194P,0.25,0.19,-0.02,00,00,pn,1,H,exposed,N,0,0,1,SI
+9499,P00149_A125H,Cytochrome c',Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009),P00149,A125H,2.69,0.01,-0.32,0+,-0,np,2,H,exposed,HD,1,1,1,SI
+9500,P00149_K118H,Cytochrome c',Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009),P00149,K118H,1.97,0.14,-0.43,++,+0,pp,-1,C,exposed,HD,0,1,0,SD
+9501,P00149_A112H,Cytochrome c',Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009),P00149,A112H,1.7,-0.08,-0.16,0+,-0,np,2,H,exposed,D,1,1,1,SI
+9502,P00149_K105H,Cytochrome c',Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009),P00149,K105H,2.88,-0.15,-0.23,++,+0,pp,-1,H,exposed,HD,0,1,0,SD
+9503,P00149_E94H,Cytochrome c',Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009),P00149,E94H,3.01,0.18,-0.28,-+,+0,pp,0,H,exposed,HD,1,1,0,0
+9504,P00149_A87H,Cytochrome c',Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009),P00149,A87H,1.98,-0.11,-0.98,0+,-0,np,2,C,exposed,HD,1,1,1,SI
+9507,P00149_K60H,Cytochrome c',Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009),P00149,K60H,1.86,-0.07,-0.12,++,+0,pp,-1,H,exposed,HD,0,1,0,SD
+9509,P00149_K41H,Cytochrome c',Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009),P00149,K41H,2.88,-0.07,-0.11,++,+0,pp,-1,H,exposed,HD,0,1,0,SD
+9510,P00149_K34H,Cytochrome c',Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009),P00149,K34H,0.6,0.0,-0.31,++,+0,pp,-1,H,exposed,SD,0,1,0,SD
+9511,P00149_D24H,Cytochrome c',Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009),P00149,D24H,1.37,0.9,-1.28,-+,+0,pp,1,C,exposed,D,1,1,0,SI
+9573,P05230_L59W,Fibroblast growth factor 1,Homo sapiens,P05230,L59W,-0.57,-1.55,-0.5,00,--,np,1,E,buried,SS,0,0,1,SI
+9578,P05230_C132I,Fibroblast growth factor 1,Homo sapiens,P05230,C132I,0.36,-1.58,0.2,00,--,nn,2,B,buried,N,0,0,0,SI
+9580,P05230_V46W,Fibroblast growth factor 1,Homo sapiens,P05230,V46W,0.96,-1.22,-0.84,00,--,np,2,E,buried,D,0,0,1,SI
+9626,P37001_Y178A,Lipid A palmitoyltransferase PagP,Escherichia coli (strain K12),P37001,Y178A,0.55,-0.62,0.86,00,0-,pn,-4,E,buried,SD,0,1,1,LD
+9627,P37001_W76A,Lipid A palmitoyltransferase PagP,Escherichia coli (strain K12),P37001,W76A,0.45,-1.22,1.71,00,--,pn,-4,T,exposed,N,0,0,1,LD
+9629,P37001_T162A,Lipid A palmitoyltransferase PagP,Escherichia coli (strain K12),P37001,T162A,0.51,-0.5,-0.07,00,0-,pn,-1,E,buried,SD,0,1,1,SD
+9630,P37001_T133A,Lipid A palmitoyltransferase PagP,Escherichia coli (strain K12),P37001,T133A,0.4,-0.66,-0.22,00,0-,pn,-1,E,buried,N,0,1,1,SD
+9632,P37001_S155A,Lipid A palmitoyltransferase PagP,Escherichia coli (strain K12),P37001,S155A,1.27,-0.65,0.06,00,0-,pn,0,E,buried,D,0,1,1,0
+9633,P37001_R119A,Lipid A palmitoyltransferase PagP,Escherichia coli (strain K12),P37001,R119A,1.53,-0.77,-1.45,+0,+-,pn,-3,C,exposed,D,1,1,1,LD
+9634,P37001_Q185A,Lipid A palmitoyltransferase PagP,Escherichia coli (strain K12),P37001,Q185A,-0.18,-0.6,0.55,00,+-,pn,-2,E,buried,N,0,1,1,SD
+9635,P37001_Q164A,Lipid A palmitoyltransferase PagP,Escherichia coli (strain K12),P37001,Q164A,0.97,-0.6,0.06,00,+-,pn,-2,E,buried,D,0,1,1,SD
+9636,P37001_M97A,Lipid A palmitoyltransferase PagP,Escherichia coli (strain K12),P37001,M97A,0.34,-3.04,-1.02,00,--,nn,-3,E,buried,N,0,0,0,LD
+9638,P37001_L130A,Lipid A palmitoyltransferase PagP,Escherichia coli (strain K12),P37001,L130A,0.76,-0.11,0.05,00,--,nn,-3,E,exposed,SD,0,0,0,LD
+9639,P37001_F80A,Lipid A palmitoyltransferase PagP,Escherichia coli (strain K12),P37001,F80A,1.05,-0.67,-0.07,00,--,nn,-4,E,exposed,D,0,0,0,LD
+9641,P37001_D49N,Lipid A palmitoyltransferase PagP,Escherichia coli (strain K12),P37001,D49N,0.6,-0.17,0.01,-0,++,pp,0,E,buried,SD,1,0,0,0
+9642,P37001_A110G,Lipid A palmitoyltransferase PagP,Escherichia coli (strain K12),P37001,A110G,0.86,-0.47,0.15,00,-0,nn,0,E,exposed,SD,0,1,0,0
+9773,P00644_G102E,Thermonuclease,Staphylococcus aureus,P00644,G102E,3.2,-0.81,-4.5,0-,0+,np,2,T,buried,HD,1,1,1,SI
+9778,P00644_V105E,Thermonuclease,Staphylococcus aureus,P00644,V105E,4.4,-0.24,-0.52,0-,-+,np,0,E,buried,HD,1,1,1,0
+9783,P00644_L107E,Thermonuclease,Staphylococcus aureus,P00644,L107E,5.9,-0.28,-0.16,0-,-+,np,-1,E,buried,HD,1,1,1,SD
+9788,P00644_F116E,Thermonuclease,Staphylococcus aureus,P00644,F116E,3.9,-0.2,-0.23,0-,-+,np,-2,E,buried,HD,1,1,1,SD
+9804,P00644_L120E,Thermonuclease,Staphylococcus aureus,P00644,L120E,1.2,0.52,0.21,0-,-+,np,-1,T,buried,D,1,1,1,SD
+9815,P00644_T123E,Thermonuclease,Staphylococcus aureus,P00644,T123E,2.1,-1.14,-10.66,0-,0+,pp,1,C,buried,HD,1,1,0,SI
+9826,P00644_T144E,Thermonuclease,Staphylococcus aureus,P00644,T144E,2.5,-0.47,-0.56,0-,0+,pp,1,H,buried,HD,1,1,0,SI
+9837,P00644_V156E,Thermonuclease,Staphylococcus aureus,P00644,V156E,5.4,0.43,-0.24,0-,-+,np,0,E,buried,HD,1,1,1,0
+9843,P00644_A172E,Thermonuclease,Staphylococcus aureus,P00644,A172E,7.5,-0.14,-1.48,0-,-+,np,2,E,buried,HD,1,1,1,SI
+9848,P00644_Y173E,Thermonuclease,Staphylococcus aureus,P00644,Y173E,5.0,0.69,-0.02,0-,0+,pp,-2,E,buried,HD,1,1,0,SD
+9853,P00644_I174E,Thermonuclease,Staphylococcus aureus,P00644,I174E,5.6,-0.48,-0.06,0-,-+,np,-1,E,buried,HD,1,1,1,SD
+9858,P00644_V181E,Thermonuclease,Staphylococcus aureus,P00644,V181E,4.8,0.2,-0.07,0-,-+,np,0,H,buried,HD,1,1,1,0
+9868,P00644_L185E,Thermonuclease,Staphylococcus aureus,P00644,L185E,3.8,-0.89,-0.13,0-,-+,np,-1,H,buried,HD,1,1,1,SD
+9879,P00644_A191E,Thermonuclease,Staphylococcus aureus,P00644,A191E,4.4,-1.82,-5.33,0-,-+,np,2,C,buried,HD,1,1,1,SI
+9886,P00644_L207E,Thermonuclease,Staphylococcus aureus,P00644,L207E,4.0,-0.15,-0.05,0-,-+,np,-1,H,buried,HD,1,1,1,SD
+13278,P03050_N11A,Transcriptional repressor arc,Salmonella phage P22,P03050,N11A,-0.5,-1.12,-3.59,00,+-,pn,-1,C,exposed,SS,0,1,1,SD
+13281,P03050_M4A,Transcriptional repressor arc,Salmonella phage P22,P03050,M4A,-0.2,0.18,16.3,00,--,nn,-3,G,exposed,N,0,0,0,LD
+13282,P03050_E27A,Transcriptional repressor arc,Salmonella phage P22,P03050,E27A,-0.4,0.5,-0.95,-0,+-,pn,-2,H,exposed,N,1,1,1,SD
+13286,P03050_M1A,Transcriptional repressor arc,Salmonella phage P22,P03050,M1A,0.1,1.92,0.55,00,--,nn,-3,T,exposed,N,0,0,0,LD
+13287,P03050_S5A,Transcriptional repressor arc,Salmonella phage P22,P03050,S5A,-0.1,0.96,12.75,00,0-,pn,0,G,exposed,N,0,1,1,0
+13289,P03050_E17A,Transcriptional repressor arc,Salmonella phage P22,P03050,E17A,0.5,1.35,-0.24,-0,+-,pn,-2,H,exposed,SD,1,1,1,SD
+13290,P03050_E43A,Transcriptional repressor arc,Salmonella phage P22,P03050,E43A,0.3,2.08,-0.06,-0,+-,pn,-2,H,exposed,N,1,1,1,SD
+13292,P03050_D20A,Transcriptional repressor arc,Salmonella phage P22,P03050,D20A,0.8,1.67,-0.31,-0,+-,pn,-1,H,exposed,SD,1,1,1,SD
+13294,P03050_F10A,Transcriptional repressor arc,Salmonella phage P22,P03050,F10A,2.7,2.1,1.84,00,--,nn,-4,C,exposed,HD,0,0,0,LD
+13295,P03050_N34A,Transcriptional repressor arc,Salmonella phage P22,P03050,N34A,-0.0,-0.54,-1.93,00,+-,pn,-1,H,exposed,N,0,1,1,SD
+13296,P03050_Q39A,Transcriptional repressor arc,Salmonella phage P22,P03050,Q39A,-0.1,0.88,-1.35,00,+-,pn,-2,H,exposed,N,0,1,1,SD
+13298,P03050_K46A,Transcriptional repressor arc,Salmonella phage P22,P03050,K46A,-0.0,1.32,-0.38,+0,+-,pn,-3,H,exposed,N,1,1,1,LD
+13299,P03050_R23A,Transcriptional repressor arc,Salmonella phage P22,P03050,R23A,1.1,0.47,-1.0,+0,+-,pn,-3,H,exposed,D,1,1,1,LD
+13301,P03050_E28A,Transcriptional repressor arc,Salmonella phage P22,P03050,E28A,0.5,1.35,-0.33,-0,+-,pn,-2,H,exposed,SD,1,1,1,SD
+13302,P03050_I51A,Transcriptional repressor arc,Salmonella phage P22,P03050,I51A,1.9,0.84,-12.08,00,--,nn,-3,T,exposed,HD,0,0,0,LD
+13303,P03050_G49A,Transcriptional repressor arc,Salmonella phage P22,P03050,G49A,2.0,0.31,-4.58,00,0-,nn,0,T,exposed,HD,0,1,0,0
+13305,P03050_R50A,Transcriptional repressor arc,Salmonella phage P22,P03050,R50A,1.9,1.07,-4.79,+0,+-,pn,-3,T,exposed,HD,1,1,1,LD
+13306,P03050_K47A,Transcriptional repressor arc,Salmonella phage P22,P03050,K47A,1.8,1.07,-0.59,+0,+-,pn,-3,H,exposed,D,1,1,1,LD
+13312,P03050_L21A,Transcriptional repressor arc,Salmonella phage P22,P03050,L21A,3.4,1.32,-0.26,00,--,nn,-3,H,exposed,HD,0,0,0,LD
+13313,P03050_R31A,Transcriptional repressor arc,Salmonella phage P22,P03050,R31A,3.4,2.41,-0.13,+0,+-,pn,-3,C,exposed,HD,1,1,1,LD
+13317,P03050_R40A,Transcriptional repressor arc,Salmonella phage P22,P03050,R40A,4.6,1.62,-0.79,+0,+-,pn,-3,H,exposed,HD,1,1,1,LD
